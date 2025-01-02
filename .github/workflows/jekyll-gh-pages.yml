@@ -2,7 +2,7 @@
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 # set theme
-theme : jekyll-theme-minimal
+theme : jekyll-theme-hacker
 
 on:
   # Runs on pushes targeting the default branch
