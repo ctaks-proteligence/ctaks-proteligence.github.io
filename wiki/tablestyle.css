@@ -1,0 +1,6 @@
+table.wikitable {
+	border-collapse: collapse;
+}
+table.wikitable, table.wikitable th, table.wikitable td {
+	border: 1px solid black;
+}
