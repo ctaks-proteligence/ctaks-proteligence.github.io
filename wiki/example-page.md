@@ -215,3 +215,47 @@ chatgpt output:
   </tbody>
 </table>
 
+
+new test table
+<table class="wikitable" style="border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th rowspan="2" style="border: 1px solid black;"></th>
+      <th colspan="2" rowspan="2" style="border: 1px solid black;">Date Field</th>
+      <th colspan="2" style="border: 1px solid black;">Order</th>
+      <th rowspan="2" style="border: 1px solid black;">Record</th>
+      <th colspan="2" style="border: 1px solid black;">Restriction</th>
+    </tr>
+    <tr>
+      <th style="border: 1px solid black;">Path A</th>
+      <th style="border: 1px solid black;">Path B</th>
+      <th style="border: 1px solid black;">Field</th>
+      <th style="border: 1px solid black;">Criteria</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" style="border: 1px solid black;">Start</td>
+      <td rowspan="2" style="border: 1px solid black;">Date Created</td>
+      <td rowspan="2" style="border: 1px solid black;">(the later of those records present and considered)</td>
+      <td colspan="2" rowspan="2" align="center" style="border: 1px solid black;">1</td>
+      <td rowspan="2" style="border: 1px solid black;">ADJUST request</td>
+      <td style="border: 1px solid black;">Direction</td>
+      <td style="border: 1px solid black;">Received</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">Reason</td>
+      <td style="border: 1px solid black;">!= (209, 220, 222, 273, 274, 275)</td>
+    </tr>
+    <tr>
+      <td colspan="3" style="border: 1px solid black;"></td>
+      <td style="border: 1px solid black;"></td>
+      <td align="center" style="border: 1px solid black;">2</td>
+      <td style="border: 1px solid black;">C request</td>
+      <td colspan="2" style="border: 1px solid black;">(none)</td>
+    </tr>
+    <!-- Continue similarly for the rest of the table -->
+  </tbody>
+</table>
+
+
