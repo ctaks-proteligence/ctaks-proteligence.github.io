@@ -63,7 +63,7 @@ table, th, td {
 	border: 1px solid black;
 }
 
-<table class="wikitable">
+<table class="wikitable" style="border-collapse: collapse; border: 1px solid black;">
   <thead>
     <tr>
       <th rowspan="2"></th>
