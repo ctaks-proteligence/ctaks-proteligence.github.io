@@ -288,11 +288,13 @@ body>.wrapper hr:after {
 body>.wrapper table {
     border-collapse: collapse;
     border-spacing: 0;
+    border: 1px solid black;
 }
 
 body>.wrapper td,
 body>.wrapper th {
     padding: 0;
+    border: 1px solid black;
 }
 
 body>.wrapper details summary {
