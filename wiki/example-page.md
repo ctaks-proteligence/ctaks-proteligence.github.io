@@ -141,7 +141,7 @@ chatgpt output:
 
 <link rel="stylesheet" type="text/css" href=styles.css">
 
-<table class="wikitable">
+<table class="wikitable" style="border: 1px solid black;">
   <thead>
     <tr>
       <th rowspan="2"></th>
