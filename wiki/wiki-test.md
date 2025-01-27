@@ -1,4 +1,7 @@
-# **Wiki Test** {#wiki-test}
+# Google Docs Test Page
+
+## this is the google doc example page exported into markdown
+**just seeing what it looks like**
 
 The purpose of this document is to show how the proteligence wiki can be shown in google docs.
 
