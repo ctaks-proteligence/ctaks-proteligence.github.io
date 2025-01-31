@@ -341,3 +341,55 @@ This is an example page. You can edit it or create a [new one](new_page.md)
     </tr>
 </table>
 
+empty space
+#### table output 6 (ai java code 2)
+i can already tell this won't work
+<table border="1" class="wikitable">
+<th>rowspan="2" |</th>
+<th>colspan="2" rowspan="2" | D F</th>
+<th>colspan="2" | Order</th>
+<th>rowspan="2" | Record</th>
+<th>colspan="2" | Restriction</th>
+<tr>
+<th>P A !! P B !! F !! C</th>
+<tr>
+<td>rowspan="2" | Start</td>
+<td>rowspan="2" | Date Created</td>
+<td>rowspan="2" | (t)</td>
+<td>colspan="2" rowspan="2" align="center" | 1</td>
+<td>rowspan="2" | A r</td>
+<td>Direction || R</td>
+<tr>
+<td>Reason || != (2)</td>
+<tr>
+<td>colspan="3" |</td>
+<td></td>
+<td>align="center" | 2</td>
+<td>Ct</td>
+<td>colspan="2" | (none)</td>
+<tr>
+<td>colspan="3" rowspan="2" |</td>
+<td>rowspan="2" |</td>
+<td>rowspan="2" align="center" | 3</td>
+<td>rowspan="2" | C r</td>
+<td>Action || 136 (Approved)</td>
+<tr>
+<td>Date C || <= I end date</td>
+<tr>
+<td>rowspan="3" | Finish</td>
+<td>D C</td>
+<td>rowspan="3" | (t)</td>
+<td>align="center" | 2 (optional)</td>
+<td></td>
+<td>A r</td>
+<td>D || Sent</td>
+<tr>
+<td>rowspan="2" | Date Posted</td>
+<td>rowspan="2" align="center" | 3</td>
+<td>rowspan="2" |</td>
+<td>rowspan="2" | DF</td>
+<td>Disposition || 4 (Void)</td>
+<tr>
+<td>S? || != Y</td>
+</table>
+
