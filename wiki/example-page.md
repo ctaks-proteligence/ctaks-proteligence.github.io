@@ -190,3 +190,83 @@ This is an example page. You can edit it or create a [new one](new_page.md)
   </tr>
 </table>
 
+#### table test 4 (ai java code output)
+<table border="1">
+  <tr>
+    <th rowspan="2"></th>
+    <th rowspan="2" colspan="2">D F</th>
+    <th colspan="2">Order</th>
+    <th rowspan="2">Record</th>
+    <th colspan="2">Restriction</th>
+  <tr>
+  <tr>
+    <th>P A !! P B !! F !! C</th>
+  <tr>
+  <tr>
+    <td rowspan="2">Start</td>
+  <tr>
+    <td rowspan="2">Date Created</td>
+  <tr>
+    <td rowspan="2">(t)</td>
+  <tr>
+    <td rowspan="2" colspan="2" align="center">1</td>
+  <tr>
+    <td rowspan="2">A r</td>
+  <tr>
+    <td>R</td>
+  <tr>
+  <tr>
+    <td>!= (2)</td>
+  <tr>
+  <tr>
+    <td colspan="3"></td>
+  <tr>
+    <td align="center">2</td>
+  <tr>
+    <td>Ct</td>
+  <tr>
+    <td colspan="2">(none)</td>
+  <tr>
+  <tr>
+    <td rowspan="2" colspan="3"></td>
+  <tr>
+    <td rowspan="2"></td>
+  <tr>
+    <td rowspan="2" align="center">3</td>
+  <tr>
+    <td rowspan="2">C r</td>
+  <tr>
+    <td>136 (Approved)</td>
+  <tr>
+  <tr>
+    <td><= I end date</td>
+  <tr>
+  <tr>
+    <td rowspan="3">Finish</td>
+  <tr>
+    <td>D C</td>
+  <tr>
+    <td rowspan="3">(t)</td>
+  <tr>
+    <td align="center">2 (optional)</td>
+  <tr>
+    <td></td>
+  <tr>
+    <td>A r</td>
+  <tr>
+    <td>Sent</td>
+  <tr>
+  <tr>
+    <td rowspan="2">Date Posted</td>
+  <tr>
+    <td rowspan="2" align="center">3</td>
+  <tr>
+    <td rowspan="2"></td>
+  <tr>
+    <td rowspan="2">DF</td>
+  <tr>
+    <td>4 (Void)</td>
+  <tr>
+  <tr>
+    <td>!= Y</td>
+</table>
