@@ -3,6 +3,8 @@
 This is an example page. You can edit it or create a [new one](new_page.md)
 
 #### table test 1
+
+
 <table style="border-collapse: collapse; border: 1px solid black;">
   <thead>
     <tr>
@@ -77,7 +79,10 @@ This is an example page. You can edit it or create a [new one](new_page.md)
   </tbody>
 </table>
 
+
 #### table test 2
+
+
 <table style="border-collapse: collapse; border: 1px solid black;">
   <thead>
     <tr>
@@ -119,7 +124,9 @@ This is an example page. You can edit it or create a [new one](new_page.md)
   </tbody>
 </table>
 
+
 #### table test 3 (ai output)
+
 
 <table class="wikitable">
   <tr>
@@ -190,7 +197,10 @@ This is an example page. You can edit it or create a [new one](new_page.md)
   </tr>
 </table>
 
+
 #### table test 4 (ai java code output)
+
+
 <table border="1">
   <tr>
     <th rowspan="2"></th>
@@ -271,7 +281,10 @@ This is an example page. You can edit it or create a [new one](new_page.md)
     <td>!= Y</td>
 </table>
 
+
 #### table test 5 (ai table output 2)
+
+
 <table class="wikitable" border="1">
     <tr>
         <th rowspan="2"></th>
@@ -341,9 +354,14 @@ This is an example page. You can edit it or create a [new one](new_page.md)
     </tr>
 </table>
 
+
 empty space
+
 #### table output 6 (ai java code 2)
+
 i can already tell this won't work
+
+
 <table border="1" class="wikitable">
 <th>rowspan="2" |</th>
 <th>colspan="2" rowspan="2" | D F</th>
