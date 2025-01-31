@@ -119,4 +119,74 @@ This is an example page. You can edit it or create a [new one](new_page.md)
   </tbody>
 </table>
 
+#### table test 3 (ai output)
+
+<table class="wikitable">
+  <tr>
+    <th rowspan="2"></th>
+    <th colspan="2" rowspan="2">D F</th>
+    <th colspan="2">Order</th>
+    <th rowspan="2">Record</th>
+    <th colspan="2">Restriction</th>
+  </tr>
+  <tr>
+    <th>P A</th>
+    <th>P B</th>
+    <th>F</th>
+    <th>C</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Start</td>
+    <td rowspan="2">Date Created</td>
+    <td rowspan="2">(t)</td>
+    <td colspan="2" rowspan="2" align="center">1</td>
+    <td rowspan="2">A r</td>
+    <td>Direction</td>
+    <td>R</td>
+  </tr>
+  <tr>
+    <td>Reason</td>
+    <td>!= (2)</td>
+  </tr>
+  <tr>
+    <td colspan="3"></td>
+    <td align="center">2</td>
+    <td>Ct</td>
+    <td colspan="2">(none)</td>
+  </tr>
+  <tr>
+    <td colspan="3" rowspan="2"></td>
+    <td rowspan="2"></td>
+    <td rowspan="2" align="center">3</td>
+    <td rowspan="2">C r</td>
+    <td>Action</td>
+    <td>136 (Approved)</td>
+  </tr>
+  <tr>
+    <td>Date C</td>
+    <td>&lt;= I end date</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Finish</td>
+    <td>D C</td>
+    <td rowspan="3">(t)</td>
+    <td align="center">2 (optional)</td>
+    <td></td>
+    <td>A r</td>
+    <td>D</td>
+    <td>Sent</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Date Posted</td>
+    <td rowspan="2" align="center">3</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">DF</td>
+    <td>Disposition</td>
+    <td>4 (Void)</td>
+  </tr>
+  <tr>
+    <td>S?</td>
+    <td>!= Y</td>
+  </tr>
+</table>
 
