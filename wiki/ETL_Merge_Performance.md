@@ -220,8 +220,8 @@ Total record count was ~1.1 million.
     <td>&lt;1</td>
     <td>18</td>
     <td>9</td>
-</table>  
-  
+</table>
+<br  />
 ### Conclusions
 
 Given the difference in specint rates it can be concluded that there is
