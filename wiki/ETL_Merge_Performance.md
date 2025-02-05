@@ -98,8 +98,8 @@ Total record count was ~1.1 million.
     <td>18</td>
     <td>22</td>
   </tr>
-</table>
-<br  />
+</table><br  />
+
 # Comparison between AWS and Softlayer(bare metal)
 
 The AR initials and a set of AR Incremental were loaded into an IPDS
@@ -221,8 +221,8 @@ Total record count was ~1.1 million.
     <td>18</td>
     <td>9</td>
   </tr>
-</table>
-<br  />
+</table><br  />
+
 ### Conclusions
 
 Given the difference in specint rates it can be concluded that there is
