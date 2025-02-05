@@ -292,9 +292,6 @@ body>.wrapper table {
 }
 
 body>.wrapper .centered-text-table {
-    border-collapse: collapse;
-    border-spacing: 0;
-    border: 1px solid black;
     text-align: center;
 }
 
