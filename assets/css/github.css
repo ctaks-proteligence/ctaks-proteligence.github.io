@@ -291,6 +291,13 @@ body>.wrapper table {
     border: 1px solid black;
 }
 
+body?>.wrapper .centered-text-table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid black;
+    text-align: center;
+}
+
 body>.wrapper td,
 body>.wrapper th {
     padding: 0;
