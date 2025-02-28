@@ -24,9 +24,9 @@ redirect_from: "/"
 
 IPDS ([xx.x](https://ctaks-proteligence.github.io/example-page), [xx.x](https://ctaks-proteligence.github.io/example-page))
 
-[ITS transactions](https://ctaks-proteligence.github.io/example-page)
+[ITS transactions](ITS_transactions.md)
 
-National Programs Scorecard [2017](https://ctaks-proteligence.github.io/example-page) [2020](https://ctaks-proteligence.github.io/example-page) etc
+National Programs Scorecard [2017](National_Programs_Scorecard_(2017).md) [2020](https://ctaks-proteligence.github.io/example-page) etc
 
 
 test
