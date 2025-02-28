@@ -1,3 +1,5 @@
+# Measure Information window
+
 The Measure Information window provides the user with details on a
 selected measure; its primary intent is to educate users unfamiliar with
 the scorecard. All variable text is selectable (but not editable) so the

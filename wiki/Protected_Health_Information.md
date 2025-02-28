@@ -1,3 +1,5 @@
+# Protected Health Information
+
 Protected Health Information (PHI) must be treated carefully and
 securely. HIPAA requires certain standards be met. To meet these
 standards, Datanet should not load any field that is considered PHI. In

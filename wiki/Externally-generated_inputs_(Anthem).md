@@ -1,3 +1,5 @@
+# Externally-generated inputs (Anthem)
+
 # Common
 
 As part of Anthem Phase 2, we are automating calculation of two sets of

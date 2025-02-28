@@ -1,3 +1,5 @@
+# ITS transactions
+
 ITS transactions (along with Blue<sup>2</sup> messages) move claim
 processing forward. There are currently three types, known as formats.
 

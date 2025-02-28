@@ -1,5 +1,6 @@
 # All Pages
 
+- [All Pages](All_Pages.md)
 - [Data_Server_3.2](Data_Server_3.2.md)
 - [Date-based purge](Date-based_purge.md)
 - [Demos](Demos.md)

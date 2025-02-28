@@ -1,3 +1,5 @@
+# Date-based purge
+
 Datanet stores both open and closed records; therefore, it requires a
 data retention policy to prevent indefinitely growing the storage
 required. Date-based purge removes old, closed records to satisfy this

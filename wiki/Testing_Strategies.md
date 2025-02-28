@@ -1,5 +1,7 @@
 # Testing Strategies
 
+# Testing Strategies
+
 *this section will outline methods, tools and approaches used when
 testing and validating different portions of Datanet ETL*
 

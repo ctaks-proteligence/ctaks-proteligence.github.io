@@ -1,3 +1,5 @@
+# FlexReports
+
 ## Filtering
 
 If inclusive, filters for the same column are Ored. If exclusive,

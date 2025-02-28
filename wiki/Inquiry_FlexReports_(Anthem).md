@@ -1,3 +1,5 @@
+# Inquiry FlexReports (Anthem)
+
 The purpose of Inquiry FlexReports is to provide Anthem with inquiries
 associated with ITS and Blue<sup>2</sup> records in the same user
 interface and with the same functionality they are used to for ITS and
