@@ -1,6 +1,3 @@
-The current version of this scorecard is titled "National Programs
-Scorecard 2017".
-
 ## Overview
 
 The National Programs Scorecard is available for Month-to-Date,
@@ -123,7 +120,7 @@ processed \[i.e. PRSD exists in its Message State history\].)
 <table>
   <tr>
     <th>Points Possible</th>
-    <td>6.00</td>
+    <td>5.00</td>
   </tr>
   <tr>
     <th>Standard Range</th>
@@ -236,7 +233,7 @@ once towards each input for this measure.
 <table>
   <tr>
     <th>Points Possible</th>
-    <td>6.00</td>
+    <td>5.00</td>
   </tr>
   <tr>
     <th>Standard Range</th>
@@ -331,7 +328,7 @@ once towards each input for this measure.
 <table>
   <tr>
     <th>Points Possible</th>
-    <td>6.00</td>
+    <td>5.00</td>
   </tr>
   <tr>
     <th>Standard Range</th>
@@ -512,7 +509,7 @@ optional presence of the Cross-Reference SF.
 <table>
   <tr>
     <th>Points Possible</th>
-    <td>6.00</td>
+    <td>5.00</td>
   </tr>
   <tr>
     <th>Standard Range</th>
@@ -678,7 +675,7 @@ consideration of a Cross-Reference SF.
 <table>
   <tr>
     <th>Points Possible</th>
-    <td>6.00</td>
+    <td>5.00</td>
   </tr>
   <tr>
     <th>Standard Range</th>
@@ -928,18 +925,18 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
   </tr>
 </table>
 <br  />
-====Home Claim Appeals Resolved \<= 20 (Beta)====
+====Home Claim Appeals Resolved \<= 20====
 
 ##### Field
 
 <table>
   <tr>
     <th>Points Possible</th>
-    <td>0.00 (informational)</td>
+    <td>5.00</td>
   </tr>
   <tr>
     <th>Standard Range</th>
-    <td>TBD</td>
+    <td>85.0 - 97.0%</td>
   </tr>
   <tr>
     <th>Points Formula</th>
@@ -1026,18 +1023,18 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 <br  />
 ### Plan-to-Plan Inquiry
 
-====Home GEN INQ Resolved \<= 10 Days====
+====Home GEN INQ Finalized \<= 10 Days====
 
 ##### Field
 
 <table>
   <tr>
     <th>Points Possible</th>
-    <td>8.00</td>
+    <td>5.50</td>
   </tr>
   <tr>
     <th>Standard Range</th>
-    <td>90.0 - 99.5%</td>
+    <td>90.0 - 97.0%</td>
   </tr>
   <tr>
     <th>Points Formula</th>
@@ -1130,18 +1127,18 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
   </tr>
 </table>
 <br  />
-====Host GEN INQ Resolved \<= 10 Days====
+====Host GEN INQ Finalized \<= 10 Days====
 
 ##### Field
 
 <table>
   <tr>
     <th>Points Possible</th>
-    <td>8.00</td>
+    <td>5.50</td>
   </tr>
   <tr>
     <th>Standard Range</th>
-    <td>95.0 - 99.5%</td>
+    <td>90.0 - 97.0%</td>
   </tr>
   <tr>
     <th>Points Formula</th>
@@ -1370,7 +1367,7 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 <br  />
 ### End-to-End Claim Experience
 
-====Claims/Adjustments Processed \<= 30 Days====
+====Claims/Adjustments Finalized \<= 30 Days====
 
 ##### Field
 
@@ -1462,7 +1459,7 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
   </tr>
 </table>
 <br  />
-====Claims/Adjustments Processed \<= 60 Days====
+====Claims/Adjustments Finalized \<= 60 Days====
 
 ##### Field
 
@@ -1627,7 +1624,7 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 <table>
   <tr>
     <th>Points Possible</th>
-    <td>0.00 (informational)</td>
+    <td>5.00</td>
   </tr>
   <tr>
     <th>Standard Range</th>

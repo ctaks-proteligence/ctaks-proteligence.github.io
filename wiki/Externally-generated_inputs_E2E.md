@@ -72,97 +72,86 @@ multiple times, once per Claim Type per Partner Plan.
 The following columns exist in the file:
 
 <table>
-<thead>
-<tr class="header">
-<th><p>Header Text in File</p></th>
-<th><p>Part of Key?</p></th>
-<th><p>Tied to Actual Date?</p></th>
-<th><p>Format</p></th>
-<th><p>Description</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Host_Home_Ind</p></td>
-<td><p><strong>Yes</strong></p></td>
-<td><p>No</p></td>
-<td><p>String</p></td>
-<td><p>The perspective; the values match those used by IPDS ('1' = Host,
-'2' = Home)</p></td>
-</tr>
-<tr class="even">
-<td><p>Report_Date</p></td>
-<td><p><strong>Yes</strong></p></td>
-<td><p><strong>Yes</strong></p></td>
-<td><p>Date (YYYY-MM-DD)</p></td>
-<td><p>The report date for which the E2E values apply</p></td>
-</tr>
-<tr class="odd">
-<td><p>Plan</p></td>
-<td><p><strong>Yes</strong></p></td>
-<td><p>No</p></td>
-<td><p>String</p></td>
-<td><p>The Plan associated with the data; maps to Performance
-Level(s)</p></td>
-</tr>
-<tr class="even">
-<td><p>Partner</p></td>
-<td><p><strong>Yes</strong></p></td>
-<td><p>No</p></td>
-<td><p>String</p></td>
-<td><p>The Partner Plan associated with the data</p></td>
-</tr>
-<tr class="odd">
-<td><p>Claim_Type</p></td>
-<td><p><strong>Yes</strong></p></td>
-<td><p>No</p></td>
-<td><p>String</p></td>
-<td><p>The Claim Type of the data which should be one of the
-following:</p>
-<ul>
-<li>Inpatient</li>
-<li>Outpatient</li>
-<li>Professional</li>
-<li>Overall</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>LE15</p></td>
-<td><p>No</p></td>
-<td><p>No</p></td>
-<td><p>Integer</p></td>
-<td><p>The count of claims with an E2E age of &lt;= 15 Days</p></td>
-</tr>
-<tr class="odd">
-<td><p>LE30</p></td>
-<td><p>No</p></td>
-<td><p>No</p></td>
-<td><p>Integer</p></td>
-<td><p>The count of claims with an E2E age of &lt;= 30 Days</p></td>
-</tr>
-<tr class="even">
-<td><p>LE60</p></td>
-<td><p>No</p></td>
-<td><p>No</p></td>
-<td><p>Integer</p></td>
-<td><p>The count of claims with an E2E age of &lt;= 60 Days</p></td>
-</tr>
-<tr class="odd">
-<td><p>LE90</p></td>
-<td><p>No</p></td>
-<td><p>No</p></td>
-<td><p>Integer</p></td>
-<td><p>The count of claims with an E2E age of &lt;= 90 Days</p></td>
-</tr>
-<tr class="even">
-<td><p>GT90</p></td>
-<td><p>No</p></td>
-<td><p>No</p></td>
-<td><p>Integer</p></td>
-<td><p>The count of claims with an E2E age of &gt; 90 Days</p></td>
-</tr>
-</tbody>
+  <tr>
+    <th>Header Text in File</th>
+    <th>Part of Key?</th>
+    <th>Tied to Actual Date?</th>
+    <th>Format</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Host_Home_Ind</td>
+    <td>'''Yes'''</td>
+    <td>No</td>
+    <td>String</td>
+    <td>The perspective; the values match those used by IPDS ('1' = Host, '2' = Home)</td>
+  </tr>
+  <tr>
+    <td>Report_Date</td>
+    <td>'''Yes'''</td>
+    <td>'''Yes'''</td>
+    <td>Date (YYYY-MM-DD)</td>
+    <td>The report date for which the E2E values apply</td>
+  </tr>
+  <tr>
+    <td>Plan</td>
+    <td>'''Yes'''</td>
+    <td>No</td>
+    <td>String</td>
+    <td>The Plan associated with the data; maps to Performance Level(s)</td>
+  </tr>
+  <tr>
+    <td>Partner</td>
+    <td>'''Yes'''</td>
+    <td>No</td>
+    <td>String</td>
+    <td>The Partner Plan associated with the data</td>
+  </tr>
+  <tr>
+    <td>Claim_Type</td>
+    <td>'''Yes'''</td>
+    <td>No</td>
+    <td>String</td>
+    <td>The Claim Type of the data which should be one of the following:* Inpatient* Outpatient* Professional* Overall
+    </td>
+  </tr>
+  <tr>
+    <td>LE15</td>
+    <td>No</td>
+    <td>No</td>
+    <td>Integer</td>
+    <td>The count of claims with an E2E age of &lt;= 15 Days</td>
+  </tr>
+  <tr>
+    <td>LE30</td>
+    <td>No</td>
+    <td>No</td>
+    <td>Integer</td>
+    <td>The count of claims with an E2E age of &lt;= 30 Days</td>
+  </tr>
+  <tr>
+    <td>LE60</td>
+    <td>No</td>
+    <td>No</td>
+    <td>Integer</td>
+    <td>The count of claims with an E2E age of &lt;= 60 Days</td>
+  </tr>
+  <tr>
+    <td>LE90</td>
+    <td>No</td>
+    <td>No</td>
+    <td>Integer</td>
+    <td>The count of claims with an E2E age of &lt;= 90 Days</td>
+  </tr>
+  <tr>
+    <td>GT90</td>
+    <td>No</td>
+    <td>No</td>
+    <td>Integer</td>
+    <td>The count of claims with an E2E age of &gt; 90 Days</td>
+  </tr>
 </table>
+<br  />
 
 If any of the following are true for any data row in a file, the the log
 should indicate the error and the file should consider to have failed

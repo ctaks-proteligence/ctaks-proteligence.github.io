@@ -1,4 +1,4 @@
-ITS transactions (along with Blue2 messages) move claim
+ITS transactions (along with Blue<sup>2</sup> messages) move claim
 processing forward. There are currently three types, known as formats.
 
 ## Key
@@ -158,9 +158,12 @@ using its own fields, setting Date Closed to its own Date Started:
 
 <table>
   <tr>
-    <th colspan="3">Applies To</th>
-    <th rowspan="2">Scenario</th>
-    <th rowspan="2">Notes</th>
+    <th colspan="3">colspan="3"</th>
+    <th>Applies To</th>
+    <th rowspan="2">rowspan="2"</th>
+    <th>Scenario</th>
+    <th rowspan="2">rowspan="2"</th>
+    <th>Notes</th>
   </tr>
   <tr>
     <th>SF</th>
@@ -185,7 +188,7 @@ using its own fields, setting Date Closed to its own Date Started:
     <td>Yes</td>
     <td>Yes</td>
     <td></td>
-    <td>**Out of scope:** Program == '6'&lt;br&gt;NOTE: As of the 20.0 ETL update 3.11.1, there will be no PGM_CD=6 considerations</td>
+    <td>'''Out of scope:''' Program == '6'&lt;br&gt;NOTE: As of the 20.0 ETL update 3.11.1, there will be no PGM_CD=6 considerations</td>
     <td>Custom transactions are Plan-configurable in BCBSA software to either close immediately or remain open. Therefore, Datanet does not implement this logic but simply relies on the file to populate Date Closed if the Plan configured them to close immediately.&lt;br&gt;NOTE: As of the 20.0 ETL update 3.11.1, there will be no PGM_CD=6 considerations</td>
   </tr>
   <tr>
@@ -268,6 +271,7 @@ If the SF has a Cross-Reference SCCF ID and its Submission Type == '3'
 
 In all cases:
 
+</li>
 <li>
 
 **Non-Void DF**
@@ -288,6 +292,7 @@ this scenario due to RFs being filtered out of the claim experience if
 the corresponding DF is not present.)
 
 </li>
+</ol>
 
 #### DF
 

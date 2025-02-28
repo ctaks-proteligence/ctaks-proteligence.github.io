@@ -118,7 +118,6 @@ The utility takes the following command-line arguments:
   </tr>
 </table>
 <br  />
-
 The utility should error out if only one of the Dates are provided;
 additionally, the utility should error out if either date is invalid, or
 Start \>= End.
@@ -160,19 +159,19 @@ A claim experience is missing records if any of the following are true:
     <td>Status Code</td>
     <td>==</td>
     <td>V</td>
-    <td>**Valid**: Only valid records move the claim experience forward.</td>
+    <td>'''Valid''': Only valid records move the claim experience forward.</td>
   </tr>
   <tr>
     <td>Estimate Indicator</td>
     <td>!=</td>
     <td>E</td>
-    <td>**Not Estimate**: Only non-estimates move the claim experience forward.</td>
+    <td>'''Not Estimate''': Only non-estimates move the claim experience forward.</td>
   </tr>
   <tr>
     <td>Program Code</td>
     <td>!=</td>
     <td>6</td>
-    <td>**Not Custom**: Logic for Custom records is Plan-specific and is therefore currently out of scope.</td>
+    <td>'''Not Custom''': Logic for Custom records is Plan-specific and is therefore currently out of scope.</td>
   </tr>
 </table>
 <br  />
@@ -386,7 +385,6 @@ The following claim experiences are in the CDR:
   </tr>
 </table>
 <br  />
-
 <table>
   <tr>
     <th>Status Code</th>

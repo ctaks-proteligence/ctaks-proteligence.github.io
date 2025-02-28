@@ -20,8 +20,8 @@ hyperthreads - specint 48.9
 
 Total record count was ~1.1 million.
 
-<table class="centered-text-table">
-  <tr>
+<table>
+  <tr align="center">
     <th>Num Partitions</th>
     <th>3.2.5 IPDS  Init</th>
     <th>3.3.0 IPDS  Init</th>
@@ -32,7 +32,7 @@ Total record count was ~1.1 million.
     <th>3.3.0 IPDS Incr w/ Date Based Purge</th>
     <th>3.3.0 IPDS w/ LCD Incr</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td>1</td>
     <td>361</td>
     <td>378</td>
@@ -43,7 +43,7 @@ Total record count was ~1.1 million.
     <td>205</td>
     <td>181</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>2</td>
     <td>190</td>
     <td>161</td>
@@ -54,7 +54,7 @@ Total record count was ~1.1 million.
     <td>49</td>
     <td>37</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>4</td>
     <td>100</td>
     <td>96</td>
@@ -65,7 +65,7 @@ Total record count was ~1.1 million.
     <td>23</td>
     <td>19</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>8</td>
     <td>60</td>
     <td>88</td>
@@ -76,7 +76,7 @@ Total record count was ~1.1 million.
     <td>15</td>
     <td>17</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>12</td>
     <td>45</td>
     <td>89</td>
@@ -87,7 +87,7 @@ Total record count was ~1.1 million.
     <td>15</td>
     <td>19</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>16</td>
     <td>39</td>
     <td>89</td>
@@ -98,8 +98,8 @@ Total record count was ~1.1 million.
     <td>18</td>
     <td>22</td>
   </tr>
-</table><br  />
-
+</table>
+<br  />
 # Comparison between AWS and Softlayer(bare metal)
 
 The AR initials and a set of AR Incremental were loaded into an IPDS
@@ -115,8 +115,8 @@ SL - 2 x 2.6GHz Intel Xeon-Haswell (E5-2690-V3-DodecaCore) - specint
 
 Total record count was ~1.1 million.
 
-<table class="centered-text-table">
-  <tr>
+<table>
+  <tr align="center">
     <th>Num Partitions</th>
     <th>AWS Init Load Time</th>
     <th>SL Init Load Time</th>
@@ -131,7 +131,7 @@ Total record count was ~1.1 million.
     <th>AWS Incr Merge Time</th>
     <th>SL Incr Merge Time</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td>1</td>
     <td>774</td>
     <td>568</td>
@@ -146,7 +146,7 @@ Total record count was ~1.1 million.
     <td>284</td>
     <td>198</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>2</td>
     <td>684</td>
     <td>570</td>
@@ -161,7 +161,7 @@ Total record count was ~1.1 million.
     <td>36</td>
     <td>35</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>4</td>
     <td>604</td>
     <td>582</td>
@@ -176,7 +176,7 @@ Total record count was ~1.1 million.
     <td>19</td>
     <td>16</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>8</td>
     <td>607</td>
     <td>577</td>
@@ -191,7 +191,7 @@ Total record count was ~1.1 million.
     <td>13</td>
     <td>9</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>12</td>
     <td>612</td>
     <td>572</td>
@@ -206,7 +206,7 @@ Total record count was ~1.1 million.
     <td>16</td>
     <td>9</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>16</td>
     <td>607</td>
     <td>572</td>
@@ -221,8 +221,8 @@ Total record count was ~1.1 million.
     <td>18</td>
     <td>9</td>
   </tr>
-</table><br  />
-
+</table>
+<br  />
 ### Conclusions
 
 Given the difference in specint rates it can be concluded that there is

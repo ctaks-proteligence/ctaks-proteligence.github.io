@@ -153,7 +153,6 @@ and deserialization of 500000 Entry objects.
   </tr>
 </table>
 <br  />
-
 **Results (EntryB)**
 
 The times show that the implementation of Kryo resulted in a significant
@@ -186,9 +185,9 @@ and deserialization of 100000000 EntryB objects.
     <td>No</td>
     <td>No</td>
     <td>No</td>
-    <td>12488.8</td>
-    <td>18768.6</td>
-    <td>9452.6</td>
+    <td>-</td>
+    <td>64564.2</td>
+    <td>65503.0</td>
   </tr>
   <tr align="center">
     <td>2</td>
@@ -196,9 +195,9 @@ and deserialization of 100000000 EntryB objects.
     <td>No</td>
     <td>No</td>
     <td>No</td>
-    <td>31278.4</td>
-    <td>38011.6</td>
-    <td>29957.4</td>
+    <td>-</td>
+    <td>30061.6</td>
+    <td>42930.4</td>
   </tr>
   <tr align="center">
     <td>3</td>
@@ -206,9 +205,9 @@ and deserialization of 100000000 EntryB objects.
     <td>No</td>
     <td>Yes</td>
     <td>No</td>
-    <td>31272.0</td>
-    <td>37692.0</td>
-    <td>29914.2</td>
+    <td>-</td>
+    <td>29948.4</td>
+    <td>42233.0</td>
   </tr>
   <tr align="center">
     <td>4</td>
@@ -216,9 +215,9 @@ and deserialization of 100000000 EntryB objects.
     <td>No</td>
     <td>Yes</td>
     <td>Yes</td>
-    <td>31583.0</td>
-    <td>37663.0</td>
-    <td>29960.0</td>
+    <td>-</td>
+    <td>31079.4</td>
+    <td>43016.0</td>
   </tr>
   <tr align="center">
     <td>5</td>
@@ -226,9 +225,9 @@ and deserialization of 100000000 EntryB objects.
     <td>Yes</td>
     <td>No</td>
     <td>No</td>
-    <td>87749.2</td>
-    <td>92785.6</td>
-    <td>15791.8</td>
+    <td>-</td>
+    <td>63829.6</td>
+    <td>50105.2</td>
   </tr>
   <tr align="center">
     <td>6</td>
@@ -236,9 +235,9 @@ and deserialization of 100000000 EntryB objects.
     <td>Yes</td>
     <td>No</td>
     <td>No</td>
-    <td>106585.0</td>
-    <td>111958.2</td>
-    <td>36366.4</td>
+    <td>-</td>
+    <td>36208.2</td>
+    <td>42411.2</td>
   </tr>
   <tr align="center">
     <td>7</td>
@@ -246,9 +245,9 @@ and deserialization of 100000000 EntryB objects.
     <td>Yes</td>
     <td>Yes</td>
     <td>No</td>
-    <td>106652.4</td>
-    <td>111723.0</td>
-    <td>36399.8</td>
+    <td>-</td>
+    <td>36383.4</td>
+    <td>42536.8</td>
   </tr>
   <tr align="center">
     <td>8</td>
@@ -256,13 +255,12 @@ and deserialization of 100000000 EntryB objects.
     <td>Yes</td>
     <td>Yes</td>
     <td>Yes</td>
-    <td>106577.4</td>
-    <td>111745.2</td>
-    <td>36461.6</td>
+    <td>-</td>
+    <td>38064.4</td>
+    <td>43166.8</td>
   </tr>
 </table>
 <br  />
-
 ### Entry
 
 **Constructors**
@@ -484,7 +482,6 @@ set).
   </tr>
 </table>
 <br  />
-
 **Results (EntryB)**
 
 Theses are the results after serializing 1000000 cycles (100000000
@@ -569,7 +566,6 @@ EntryB objects).
   </tr>
 </table>
 <br  />
-
 ### Entry
 
 **Constructors**
@@ -869,7 +865,6 @@ TODO
   </tr>
 </table>
 <br  />
-
 ### Entries
 
 The data set contains randomly generated BenchmarkEntry objects. These
