@@ -92,7 +92,7 @@
     <td></td>
   </tr>
   <tr align="center">
-    <th rowspan="3">21.0 (3.15)</th>
+    <th rowspan="3">  21.0 (3.15)</th>
     <th>Datanet</th>
     <td>21.0 (ETL 3.13.0)</td>
     <td>2020/10/18</td>
@@ -121,10 +121,10 @@
     <td>2020/11/12</td>
   </tr>
   <tr align="center">
-    <td colspan="9">9"</td>
+    <td colspan="9"> </td>
   </tr>
   <tr align="center">
-    <th rowspan="3">20.5 (3.14)</th>
+    <th rowspan="3">  20.5 (3.14)</th>
     <th>Datanet</th>
     <td>20.5 (ETL 3.12.0)</td>
     <td>2020/04/19</td>
@@ -153,10 +153,10 @@
     <td>2020/05/14</td>
   </tr>
   <tr align="center">
-    <td colspan="9">9"</td>
+    <td colspan="9"> </td>
   </tr>
   <tr align="center">
-    <th rowspan="3">20.0 (3.13)</th>
+    <th rowspan="3">  20.0 (3.13)</th>
     <th>Datanet</th>
     <td>20.0 (ETL 3.11.0)</td>
     <td>2019/10/20</td>
@@ -185,10 +185,10 @@
     <td>2019/11/14</td>
   </tr>
   <tr align="center">
-    <td colspan="9">9"</td>
+    <td colspan="9"> </td>
   </tr>
   <tr align="center">
-    <th rowspan="3">19.5 (3.12)</th>
+    <th rowspan="3">  19.5 (3.12)</th>
     <th>Datanet</th>
     <td>19.5 (ETL 3.10.0)</td>
     <td>2019/04/14</td>
@@ -217,10 +217,10 @@
     <td>2019/05/16</td>
   </tr>
   <tr align="center">
-    <td colspan="9">9"</td>
+    <td colspan="9"> </td>
   </tr>
   <tr align="center">
-    <th rowspan="3">19.0 (3.11)</th>
+    <th rowspan="3">  19.0 (3.11)</th>
     <th>Datanet</th>
     <td>19.0 (ETL 3.9.0)</td>
     <td>2018/10/14</td>
@@ -249,10 +249,10 @@
     <td>2018/11/15</td>
   </tr>
   <tr align="center">
-    <td colspan="9">9"</td>
+    <td colspan="9"> </td>
   </tr>
   <tr align="center">
-    <th rowspan="4">18.5 (3.10)</th>
+    <th rowspan="4">  18.5 (3.10)</th>
     <th>Datanet</th>
     <td>18.5 (ETL 3.8.0)</td>
     <td>2018/04/15</td>
@@ -290,10 +290,10 @@
     <td>2018/05/17</td>
   </tr>
   <tr align="center">
-    <td colspan="9">9"</td>
+    <td colspan="9"> </td>
   </tr>
   <tr align="center">
-    <th rowspan="4">18.0 (3.9)</th>
+    <th rowspan="4">  18.0 (3.9)</th>
     <th>Datanet</th>
     <td>18.0 (ETL 3.7.0)</td>
     <td>2017/10/15</td>
@@ -331,10 +331,10 @@
     <td>2017/11/09</td>
   </tr>
   <tr align="center">
-    <td colspan="9">9"</td>
+    <td colspan="9"> </td>
   </tr>
   <tr align="center">
-    <th rowspan="5">17.5 (3.8)</th>
+    <th rowspan="5">  17.5 (3.8)</th>
     <th>Datanet</th>
     <td>17.5 (3.8.1)</td>
     <td></td>
@@ -381,10 +381,10 @@
     <td>2017/05/11</td>
   </tr>
   <tr align="center">
-    <td colspan="9">9"</td>
+    <td colspan="9"> </td>
   </tr>
   <tr align="center">
-    <th rowspan="4">17.0 (3.7)</th>
+    <th rowspan="4">  17.0 (3.7)</th>
     <th>Datanet</th>
     <td>17.0 (ETL 3.5.0)</td>
     <td>2016/10/23</td>
@@ -422,10 +422,10 @@
     <td>2016/11/10</td>
   </tr>
   <tr align="center">
-    <td colspan="9">9"</td>
+    <td colspan="9"> </td>
   </tr>
   <tr align="center">
-    <th rowspan="4">16.5 (3.6)</th>
+    <th rowspan="4">  16.5 (3.6)</th>
     <th>Datanet</th>
     <td>16.5 (ETL 3.4.0)</td>
     <td>2016/04/25</td>
@@ -463,10 +463,10 @@
     <td>2016/05/12</td>
   </tr>
   <tr align="center">
-    <td colspan="9">9"</td>
+    <td colspan="9"> </td>
   </tr>
   <tr align="center">
-    <th rowspan="6">16.0 (3.5)</th>
+    <th rowspan="6">  16.0 (3.5)</th>
     <th>Datanet (ETL only)</th>
     <td>16.0 (ETL 3.3.1)</td>
     <td>2016/01/12</td>
@@ -541,7 +541,7 @@
     <th>Details</th>
   </tr>
   <tr>
-    <td>**Parent PL scorecard input invalidation**</td>
+    <td><b>Parent PL scorecard input invalidation</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Bug</td>
@@ -550,7 +550,7 @@
     <td>On the Inputs tab, if you view a Parent PL then modify one of it's leaf PL's inputs then go back to the Parent PL, the leaf input change is not reflected</td>
   </tr>
   <tr>
-    <td>**Rename locked FlexReports**</td>
+    <td><b>Rename locked FlexReports</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Bug</td>
@@ -559,7 +559,7 @@
     <td>Rename locked FlexReports to place them at the top of the Global Report Views list<br />NOTE: This is continuation of the bug to rename the reports to resolve inconsistencies in the behavior. See the bug comments for more information.</td>
   </tr>
   <tr>
-    <td>**Add scorecard drill-down ability**</td>
+    <td><b>Add scorecard drill-down ability</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -568,7 +568,7 @@
     <td>Add the ability to go from a current Scorecard measure to the associated records</td>
   </tr>
   <tr>
-    <td>**Score calculation should require all primary inputs**</td>
+    <td><b>Score calculation should require all primary inputs</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Bug</td>
@@ -577,7 +577,7 @@
     <td>The score for Claim Appeals Resolved &lt;= 20 Days is calculated even if only one of Home/Host Home Claim Appeals Resolved &lt;= 20 Days and one of Home/Host Claim Appeals Resolved Total is entered. You can even enter Home Total and Host &lt;= 20 and get a score. Should each of the 4 inputs be required to get a score?<br />The same behavior and question exists for Inquiries Resolved &lt;= 14 Days inputs.<br />Claims/Adjustments Finalized only require Total to be entered for both inputs to be calculated.</td>
   </tr>
   <tr>
-    <td>**Performance indicator update**</td>
+    <td><b>Performance indicator update</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Bug</td>
@@ -586,7 +586,7 @@
     <td>For all NPS scorecards, Host SFs Processed &gt; 10 Days shows yellow on .38% but should show green at start of Warning range<br />Note that this occurs on the 2012 scorecard Host Adjustment Rate measure at .63% as well, but Tae said to ignore the 2012 scorecard for now.</td>
   </tr>
   <tr>
-    <td>**Put My Report Views above Global Report Views**</td>
+    <td><b>Put My Report Views above Global Report Views</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -595,7 +595,7 @@
     <td>Move My Report Views above Global Reports Views in the FlexReport list</td>
   </tr>
   <tr>
-    <td>**Claim Search - column order update**</td>
+    <td><b>Claim Search - column order update</b></td>
     <td>Datanet</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -610,7 +610,7 @@
 
 <table>
   <tr>
-    <td>**Additional Report Columns**</td>
+    <td><b>Additional Report Columns</b></td>
     <td>
   <table>
   <tr>
@@ -1149,7 +1149,7 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>
   <table>
   <tr>
@@ -1187,21 +1187,21 @@
     <td>Eliz/Elevance</td>
   </tr>
   <tr>
-    <td rowspan="2">DN-372, DNA-98</td>
-    <td rowspan="2">Tested-CN</td>
-    <td rowspan="2">Pricing Method</td>
+    <td rowspan="2">  DN-372, DNA-98</td>
+    <td rowspan="2">  Tested-CN</td>
+    <td rowspan="2">  Pricing Method</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F03-PRC-METH-CD</td>
     <td>1209-1210</td>
     <td>X(2)</td>
-    <td rowspan="2">N/A</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">SF,DF - all reports</td>
-    <td rowspan="2">NOTE: Already loaded to CDR; add to ES/RS</td>
-    <td rowspan="2">Marilyn/Triple S</td>
+    <td rowspan="2">  N/A</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  SF,DF - all reports</td>
+    <td rowspan="2">  NOTE: Already loaded to CDR; add to ES/RS</td>
+    <td rowspan="2">  Marilyn/Triple S</td>
   </tr>
   <tr>
     <td>DF</td>
@@ -1219,7 +1219,7 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>
   <table>
   <tr>
@@ -1265,7 +1265,7 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>
   <table>
   <tr>
@@ -1354,21 +1354,21 @@
     <td>Elaine.Macomber@bcbsma.com/MA</td>
   </tr>
   <tr>
-    <td rowspan="2">DN-348</td>
-    <td rowspan="2">Tested - CN</td>
-    <td rowspan="2">Facility Type</td>
+    <td rowspan="2">  DN-348</td>
+    <td rowspan="2">  Tested - CN</td>
+    <td rowspan="2">  Facility Type</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-FACIL-TP-CD</td>
     <td>715-718</td>
     <td>X(4)</td>
-    <td rowspan="2">N/A</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">SF - all reports</td>
-    <td rowspan="2">NOTE:  Already loaded to CDR; add to ES</td>
-    <td rowspan="2">Elaine.Macomber@bcbsma.com/MA</td>
+    <td rowspan="2">  N/A</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  SF - all reports</td>
+    <td rowspan="2">  NOTE:  Already loaded to CDR; add to ES</td>
+    <td rowspan="2">  Elaine.Macomber@bcbsma.com/MA</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -1386,7 +1386,7 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>
   <table>
   <tr>
@@ -1458,21 +1458,21 @@
     <td>Caryl/Anthem</td>
   </tr>
   <tr>
-    <td rowspan="3"></td>
-    <td rowspan="3">Tested - CN</td>
-    <td rowspan="3">Input Medium</td>
+    <td rowspan="3"> </td>
+    <td rowspan="3">  Tested - CN</td>
+    <td rowspan="3">  Input Medium</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-INP-MEDIA-CD</td>
     <td>252-252</td>
     <td>X(1)</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3">Yes</td>
-    <td rowspan="3">Yes</td>
-    <td rowspan="3">Yes</td>
-    <td rowspan="3">SF, DF - all reports</td>
-    <td rowspan="3"></td>
-    <td rowspan="3">Donna Neff/CA</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3">  Yes</td>
+    <td rowspan="3">  Yes</td>
+    <td rowspan="3">  Yes</td>
+    <td rowspan="3">  SF, DF - all reports</td>
+    <td rowspan="3"> </td>
+    <td rowspan="3">  Donna Neff/CA</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -1514,7 +1514,7 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>
   <table>
   <tr>
@@ -1552,21 +1552,21 @@
     <td>James/CF</td>
   </tr>
   <tr>
-    <td rowspan="3"></td>
-    <td rowspan="3">Tested - CN</td>
-    <td rowspan="3">SPC Note</td>
+    <td rowspan="3"> </td>
+    <td rowspan="3">  Tested - CN</td>
+    <td rowspan="3">  SPC Note</td>
     <td>SFI</td>
     <td>11</td>
     <td>X-F32-SPCL-NOTE-CD</td>
     <td>29-33</td>
     <td>X(5)</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3">DNA</td>
-    <td rowspan="3">Sample Values:  ABCDE, 12345</td>
-    <td rowspan="3">Cindy/CF</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3">  DNA</td>
+    <td rowspan="3">  Sample Values:  ABCDE, 12345</td>
+    <td rowspan="3">  Cindy/CF</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -1583,21 +1583,21 @@
     <td>X(5)</td>
   </tr>
   <tr>
-    <td rowspan="3"></td>
-    <td rowspan="3">Tested - CN</td>
-    <td rowspan="3">SPC Note Transmission</td>
+    <td rowspan="3"> </td>
+    <td rowspan="3">  Tested - CN</td>
+    <td rowspan="3">  SPC Note Transmission</td>
     <td>SFI</td>
     <td>11</td>
     <td>X-F32-SPCL-NOTE-TRANS-CD</td>
     <td>34-34</td>
     <td>X(1)</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3">DNA</td>
-    <td rowspan="3"></td>
-    <td rowspan="3">Cindy/CF</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3">  DNA</td>
+    <td rowspan="3"> </td>
+    <td rowspan="3">  Cindy/CF</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -1614,21 +1614,21 @@
     <td>X(1)</td>
   </tr>
   <tr>
-    <td rowspan="3"></td>
-    <td rowspan="3">Tested - CN</td>
-    <td rowspan="3">SPC Note Text</td>
+    <td rowspan="3"> </td>
+    <td rowspan="3">  Tested - CN</td>
+    <td rowspan="3">  SPC Note Text</td>
     <td>SFI</td>
     <td>11</td>
     <td>X-F32-SPCL-NOTE-TXT</td>
     <td>35-290</td>
     <td>X(256)</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3">DNA</td>
-    <td rowspan="3"></td>
-    <td rowspan="3">Cindy/CF</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3">  DNA</td>
+    <td rowspan="3"> </td>
+    <td rowspan="3">  Cindy/CF</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -1755,7 +1755,7 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>
   <table>
   <tr>
@@ -1810,21 +1810,21 @@
     <td></td>
   </tr>
   <tr>
-    <td rowspan="3"></td>
-    <td rowspan="3">Tested - CN</td>
-    <td rowspan="3">Investigated</td>
+    <td rowspan="3"> </td>
+    <td rowspan="3">  Tested - CN</td>
+    <td rowspan="3">  Investigated</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-INVST-CD</td>
     <td>254-254</td>
     <td>X(01)</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3">Yes</td>
-    <td rowspan="3">Yes</td>
-    <td rowspan="3">Yes</td>
-    <td rowspan="3">SF, DF - all reports</td>
-    <td rowspan="3">Sample Values:  Y, N, A, etc. or null/space<br />NOTE:  Already loaded to CDR; add to ES</td>
-    <td rowspan="3">BCBSA requirements indicate this is going to be needed for Surprise Billing</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3">  Yes</td>
+    <td rowspan="3">  Yes</td>
+    <td rowspan="3">  Yes</td>
+    <td rowspan="3">  SF, DF - all reports</td>
+    <td rowspan="3">  Sample Values:  Y, N, A, etc. or null/space<br />NOTE:  Already loaded to CDR; add to ES</td>
+    <td rowspan="3">  BCBSA requirements indicate this is going to be needed for Surprise Billing</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -1841,21 +1841,21 @@
     <td>X(01)</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
-    <td rowspan="2">Tested - CN</td>
-    <td rowspan="2">Investigated Days</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Tested - CN</td>
+    <td rowspan="2">  Investigated Days</td>
     <td>SFP</td>
     <td>01</td>
     <td>X-F01-INVST-DAY-NUM</td>
     <td>1231-1232</td>
     <td>S9(04) COMP</td>
-    <td rowspan="2">N/A</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">No</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">SF, DF - all reports</td>
-    <td rowspan="2">NOTE:  Already loaded to CDR; add to ES</td>
-    <td rowspan="2">BCBSA requirements indicate this is going to be needed for Surprise Billing</td>
+    <td rowspan="2">  N/A</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  No</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  SF, DF - all reports</td>
+    <td rowspan="2">  NOTE:  Already loaded to CDR; add to ES</td>
+    <td rowspan="2">  BCBSA requirements indicate this is going to be needed for Surprise Billing</td>
   </tr>
   <tr>
     <td>DF</td>
@@ -1924,7 +1924,7 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>
   <table>
   <tr>
@@ -1945,21 +1945,21 @@
     <th>Requested By</th>
   </tr>
   <tr>
-    <td rowspan="2"></td>
-    <td rowspan="2">Tested - CN</td>
-    <td rowspan="2">Provider NPI Perform</td>
-    <td rowspan="2">SFP</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Tested - CN</td>
+    <td rowspan="2">  Provider NPI Perform</td>
+    <td rowspan="2">  SFP</td>
     <td>01</td>
     <td>X-F04-PERF-PROV-NPI-CD</td>
     <td>1122-1131</td>
     <td>X(10)</td>
-    <td rowspan="2">Use first Line level value if Claim value is null</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">SF - all reports</td>
-    <td rowspan="2">Sample values:  1234567890</td>
-    <td rowspan="2">Caryl/Anthem</td>
+    <td rowspan="2">  Use first Line level value if Claim value is null</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  SF - all reports</td>
+    <td rowspan="2">  Sample values:  1234567890</td>
+    <td rowspan="2">  Caryl/Anthem</td>
   </tr>
   <tr>
     <td>05</td>
@@ -1968,21 +1968,21 @@
     <td>X(10)</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
-    <td rowspan="2">Tested - CN</td>
-    <td rowspan="2">Sub Group</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Tested - CN</td>
+    <td rowspan="2">  Sub Group</td>
     <td>SFI</td>
     <td>06</td>
     <td>X-F05-SUB-GRP-ID</td>
     <td>36-44</td>
     <td>X(9)</td>
-    <td rowspan="2">N/A</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">SF - all reports</td>
-    <td rowspan="2">N/A</td>
-    <td rowspan="2">Dolores Arzola/BlueKC<br />NOTE: Caryl/Anthem is okay with this field.</td>
+    <td rowspan="2">  N/A</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  SF - all reports</td>
+    <td rowspan="2">  N/A</td>
+    <td rowspan="2">  Dolores Arzola/BlueKC<br />NOTE: Caryl/Anthem is okay with this field.</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2000,7 +2000,7 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>
   <table>
   <tr>
@@ -2038,21 +2038,21 @@
     <td>Matthew/Anthem</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
-    <td rowspan="2">Tested - CN</td>
-    <td rowspan="2">Network Avail</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Tested - CN</td>
+    <td rowspan="2">  Network Avail</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-PPO-AVL-IND</td>
     <td>541-541</td>
     <td>X(1)</td>
-    <td rowspan="2">N/A</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">SF - all reports</td>
-    <td rowspan="2">Sample values:  Y, N, 1, 2, 3, 4, or Blank</td>
-    <td rowspan="2">Matthew/Anthem</td>
+    <td rowspan="2">  N/A</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  SF - all reports</td>
+    <td rowspan="2">  Sample values:  Y, N, 1, 2, 3, 4, or Blank</td>
+    <td rowspan="2">  Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2062,21 +2062,21 @@
     <td>X(1)</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
-    <td rowspan="2">Tested - CN</td>
-    <td rowspan="2">Prov Type Avail</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Tested - CN</td>
+    <td rowspan="2">  Prov Type Avail</td>
     <td>SFI</td>
     <td>01</td>
     <td>style="white-space: nowrap;"  X-F03-PPO-PROVTP-AVL-IND</td>
     <td>style="white-space: nowrap;"  1381-1381</td>
     <td>X(1)</td>
     <td>N/A</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">SF - all reports</td>
-    <td rowspan="2">Sample values:  Y, N, 1, 2, 3, 4, or Blank</td>
-    <td rowspan="2">Matthew/Anthem</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  SF - all reports</td>
+    <td rowspan="2">  Sample values:  Y, N, 1, 2, 3, 4, or Blank</td>
+    <td rowspan="2">  Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2087,21 +2087,21 @@
     <td>Use first Line level value</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
-    <td rowspan="2">Tested - CN</td>
-    <td rowspan="2">Prov Type Perform</td>
-    <td rowspan="2">SFP</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Tested - CN</td>
+    <td rowspan="2">  Prov Type Perform</td>
+    <td rowspan="2">  SFP</td>
     <td>01</td>
     <td>X-F04-PERF-PROV-TP-CD</td>
     <td>1071-1072</td>
     <td>X(2)</td>
-    <td rowspan="2">Use first Line level value if Claim value is null</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">SF - all reports</td>
-    <td rowspan="2">Sample values:  AC, BB, BF, CE</td>
-    <td rowspan="2">Matthew/Anthem</td>
+    <td rowspan="2">  Use first Line level value if Claim value is null</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  SF - all reports</td>
+    <td rowspan="2">  Sample values:  AC, BB, BF, CE</td>
+    <td rowspan="2">  Matthew/Anthem</td>
   </tr>
   <tr>
     <td>05</td>
@@ -2110,29 +2110,29 @@
     <td>X(2)</td>
   </tr>
   <tr>
-    <td rowspan="3"></td>
-    <td rowspan="3">Tested - CN</td>
-    <td rowspan="3">Tier Desig</td>
+    <td rowspan="3"> </td>
+    <td rowspan="3">  Tested - CN</td>
+    <td rowspan="3">  Tier Desig</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-TIER-DESIG-IND-CLM</td>
     <td>3334-3334</td>
     <td>X(1)</td>
     <td>N/A</td>
-    <td rowspan="3">Yes</td>
-    <td rowspan="3">Yes</td>
-    <td rowspan="3">Yes</td>
-    <td rowspan="3">SF - all reports</td>
-    <td rowspan="3">Sample values:  Y, N, 1 - 5, or Blank</td>
-    <td rowspan="3">Matthew/Anthem</td>
+    <td rowspan="3">  Yes</td>
+    <td rowspan="3">  Yes</td>
+    <td rowspan="3">  Yes</td>
+    <td rowspan="3">  SF - all reports</td>
+    <td rowspan="3">  Sample values:  Y, N, 1 - 5, or Blank</td>
+    <td rowspan="3">  Matthew/Anthem</td>
   </tr>
   <tr>
-    <td rowspan="2">SFP</td>
+    <td rowspan="2">  SFP</td>
     <td>01</td>
     <td>X-F01-TIER-DESIG-IND-CLM</td>
     <td>1902-1902</td>
     <td>X(1)</td>
-    <td rowspan="2">Use first Line level value if Claim value is null</td>
+    <td rowspan="2">  Use first Line level value if Claim value is null</td>
   </tr>
   <tr>
     <td>05</td>
@@ -2149,7 +2149,7 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>
   <table>
   <tr>
@@ -2170,21 +2170,21 @@
     <th>Requested By</th>
   </tr>
   <tr>
-    <td rowspan="4"></td>
-    <td rowspan="4">Tested - CN</td>
-    <td rowspan="4">Prefix Acct?</td>
+    <td rowspan="4"> </td>
+    <td rowspan="4">  Tested - CN</td>
+    <td rowspan="4">  Prefix Acct?</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-PRFX-ACCT-ID-IND</td>
     <td>3333-3333</td>
     <td>X(01)</td>
-    <td rowspan="4">Yes</td>
-    <td rowspan="4">Yes</td>
-    <td rowspan="4">Yes</td>
-    <td rowspan="4">SF, DF, RF - all reports</td>
-    <td rowspan="4">N/A</td>
-    <td rowspan="4">NOTE: Expected values are Y or N (or null/space).</td>
-    <td rowspan="4">Matthew/Anthem</td>
+    <td rowspan="4">  Yes</td>
+    <td rowspan="4">  Yes</td>
+    <td rowspan="4">  Yes</td>
+    <td rowspan="4">  SF, DF, RF - all reports</td>
+    <td rowspan="4">  N/A</td>
+    <td rowspan="4">  NOTE: Expected values are Y or N (or null/space).</td>
+    <td rowspan="4">  Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2208,21 +2208,21 @@
     <td>X(01)</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
-    <td rowspan="2">Tested - CN</td>
-    <td rowspan="2">Prefix Acct ID</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Tested - CN</td>
+    <td rowspan="2">  Prefix Acct ID</td>
     <td>DF</td>
     <td>01</td>
     <td>X-F51-PRFX-ACCT-ID</td>
     <td>&lt;p style="text-decoration:line-through"&gt;1300-1319&lt;/p&gt;1458-1477</td>
     <td>X(20)</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes*<br />*Originally No but implemented as Yes and should stay suggestible at this point</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">DF, RF - all reports</td>
-    <td rowspan="2">N/A</td>
-    <td rowspan="2"></td>
-    <td rowspan="2">Matthew/Anthem (and other users/Plans)</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes*<br />*Originally No but implemented as Yes and should stay suggestible at this point</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  DF, RF - all reports</td>
+    <td rowspan="2">  N/A</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Matthew/Anthem (and other users/Plans)</td>
   </tr>
   <tr>
     <td>RF</td>
@@ -2232,21 +2232,21 @@
     <td>X(20)</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
-    <td rowspan="2">Tested - CN</td>
-    <td rowspan="2">$ SPC 1&lt;br&gt;$ SPC 2&lt;br&gt;$ SPC 3&lt;br&gt;$ SPC 4&lt;br&gt;$ SPC 5</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Tested - CN</td>
+    <td rowspan="2">  $ SPC 1&lt;br&gt;$ SPC 2&lt;br&gt;$ SPC 3&lt;br&gt;$ SPC 4&lt;br&gt;$ SPC 5</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-SPCL-PRC-AMT</td>
     <td>545-574</td>
     <td>S9(09)V99 COMP-3 OCCURS 5</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">No</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">SF - all reports</td>
-    <td rowspan="2">N/A</td>
-    <td rowspan="2">NOTE: This is a multi-value field, but the values need to be separate columns as they are amounts, not codes.</td>
-    <td rowspan="2">Matthew/Anthem</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  No</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  SF - all reports</td>
+    <td rowspan="2">  N/A</td>
+    <td rowspan="2">  NOTE: This is a multi-value field, but the values need to be separate columns as they are amounts, not codes.</td>
+    <td rowspan="2">  Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2256,21 +2256,21 @@
     <td>S9(09)V99 COMP-3 OCCURS 5</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
-    <td rowspan="2">Tested - CN</td>
-    <td rowspan="2">SPC Codes</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Tested - CN</td>
+    <td rowspan="2">  SPC Codes</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-SPCL-PRC-CD</td>
     <td>575-589</td>
     <td>X(3) OCCURS 5</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">No</td>
-    <td rowspan="2">No*<br />*Implemented as Yes - okay</td>
-    <td rowspan="2">SF - all reports</td>
-    <td rowspan="2">N/A</td>
-    <td rowspan="2">NOTE: This is a multi-value field with required placeholders for empty values between defined values (such as XXX --- YYY if the 1st and 3rd are defined and the 2nd is null).</td>
-    <td rowspan="2">Matthew/Anthem</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  No</td>
+    <td rowspan="2">  No*<br />*Implemented as Yes - okay</td>
+    <td rowspan="2">  SF - all reports</td>
+    <td rowspan="2">  N/A</td>
+    <td rowspan="2">  NOTE: This is a multi-value field with required placeholders for empty values between defined values (such as XXX --- YYY if the 1st and 3rd are defined and the 2nd is null).</td>
+    <td rowspan="2">  Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2280,21 +2280,21 @@
     <td>X(3) OCCURS 5</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
-    <td rowspan="2">Tested - CN</td>
-    <td rowspan="2">&lt;br&gt;% SPC 1&lt;br&gt;% SPC 2&lt;br&gt;% SPC 3&lt;br&gt;% SPC 4&lt;br&gt;% SPC 5</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Tested - CN</td>
+    <td rowspan="2">  &lt;br&gt;% SPC 1&lt;br&gt;% SPC 2&lt;br&gt;% SPC 3&lt;br&gt;% SPC 4&lt;br&gt;% SPC 5</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-SPCL-PRC-PCT</td>
     <td>590-614</td>
     <td>S999V9(5) COMP-3 OCCURS 5</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">No</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">SF - all reports</td>
-    <td rowspan="2">N/A</td>
-    <td rowspan="2">NOTE: This is a multi-value field, but the values need to be separate colums as they are percentages, not codes.</td>
-    <td rowspan="2">Matthew/Anthem</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  No</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  SF - all reports</td>
+    <td rowspan="2">  N/A</td>
+    <td rowspan="2">  NOTE: This is a multi-value field, but the values need to be separate colums as they are percentages, not codes.</td>
+    <td rowspan="2">  Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2304,21 +2304,21 @@
     <td>S999V9(5) COMP-3 OCCURS 5 Times</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
-    <td rowspan="2">Tested - CN</td>
-    <td rowspan="2">&lt;br&gt;SPC Days 1&lt;br&gt;SPC Days 2&lt;br&gt;SPC Days 3&lt;br&gt;SPC Days 4&lt;br&gt;SPC Days 5</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Tested - CN</td>
+    <td rowspan="2">  &lt;br&gt;SPC Days 1&lt;br&gt;SPC Days 2&lt;br&gt;SPC Days 3&lt;br&gt;SPC Days 4&lt;br&gt;SPC Days 5</td>
     <td>SFI</td>
     <td>01</td>
     <td>style="white-space: nowrap;"  X-F01-SPCL-PRC-DAY-NUM</td>
     <td>615-624</td>
     <td>S9(4) COMP OCCURS 5</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">No</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">SF - all reports</td>
-    <td rowspan="2">N/A</td>
-    <td rowspan="2">NOTE: This is a multi-value field, but the values need to be separate colums as they are days, not codes.</td>
-    <td rowspan="2">Matthew/Anthem</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  No</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  SF - all reports</td>
+    <td rowspan="2">  N/A</td>
+    <td rowspan="2">  NOTE: This is a multi-value field, but the values need to be separate colums as they are days, not codes.</td>
+    <td rowspan="2">  Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2328,21 +2328,21 @@
     <td>S9(4) COMP OCCURS 5</td>
   </tr>
   <tr>
-    <td rowspan="3"></td>
-    <td rowspan="3">Deferred indefinitely</td>
-    <td rowspan="3">SN Code</td>
+    <td rowspan="3"> </td>
+    <td rowspan="3">  Deferred indefinitely</td>
+    <td rowspan="3">  SN Code</td>
     <td>SFI</td>
     <td>11</td>
     <td>X-F32-SPCL-NOTE-CD</td>
     <td>29-33</td>
     <td>X(5)</td>
-    <td rowspan="3">Yes</td>
-    <td rowspan="3">No</td>
-    <td rowspan="3">Yes</td>
-    <td rowspan="3">SF, DF - all reports</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3"></td>
-    <td rowspan="3">Matthew/Anthem</td>
+    <td rowspan="3">  Yes</td>
+    <td rowspan="3">  No</td>
+    <td rowspan="3">  Yes</td>
+    <td rowspan="3">  SF, DF - all reports</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3"> </td>
+    <td rowspan="3">  Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2359,21 +2359,21 @@
     <td>X(5)</td>
   </tr>
   <tr>
-    <td rowspan="3"></td>
-    <td rowspan="3">Deferred indefinitely</td>
-    <td rowspan="3">SN Data</td>
+    <td rowspan="3"> </td>
+    <td rowspan="3">  Deferred indefinitely</td>
+    <td rowspan="3">  SN Data</td>
     <td>SFI</td>
     <td>11</td>
     <td>X-F32-SPCL-NOTE-TXT</td>
     <td>35-290</td>
     <td>X(256)</td>
-    <td rowspan="3">Yes</td>
-    <td rowspan="3">No</td>
-    <td rowspan="3">Yes</td>
-    <td rowspan="3">SF, DF - all reports</td>
-    <td rowspan="3">N/A</td>
-    <td rowspan="3"></td>
-    <td rowspan="3">Matthew/Anthem</td>
+    <td rowspan="3">  Yes</td>
+    <td rowspan="3">  No</td>
+    <td rowspan="3">  Yes</td>
+    <td rowspan="3">  SF, DF - all reports</td>
+    <td rowspan="3">  N/A</td>
+    <td rowspan="3"> </td>
+    <td rowspan="3">  Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2390,21 +2390,21 @@
     <td>X(256)</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
-    <td rowspan="2">Tested - CN</td>
-    <td rowspan="2">Bill Type</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Tested - CN</td>
+    <td rowspan="2">  Bill Type</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-BILL-TP-CD</td>
     <td>194-196</td>
     <td>X(3)</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">SF - all reports*</td>
-    <td rowspan="2">N/A</td>
-    <td rowspan="2"></td>
-    <td rowspan="2">Cindy/CareFirst</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  SF - all reports*</td>
+    <td rowspan="2">  N/A</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Cindy/CareFirst</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2414,21 +2414,21 @@
     <td>X(3)</td>
   </tr>
   <tr>
-    <td rowspan="4"></td>
-    <td rowspan="4">Tested - CN</td>
-    <td rowspan="4">Date Admit</td>
+    <td rowspan="4"> </td>
+    <td rowspan="4">  Tested - CN</td>
+    <td rowspan="4">  Date Admit</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-ADMIT-DT</td>
     <td>178-187</td>
     <td>X(10)</td>
-    <td rowspan="4">Yes</td>
-    <td rowspan="4">No</td>
-    <td rowspan="4">Yes</td>
-    <td rowspan="4">SF, DF, RF - all reports</td>
-    <td rowspan="4">N/A</td>
-    <td rowspan="4"></td>
-    <td rowspan="4">Cindy/CareFirst</td>
+    <td rowspan="4">  Yes</td>
+    <td rowspan="4">  No</td>
+    <td rowspan="4">  Yes</td>
+    <td rowspan="4">  SF, DF, RF - all reports</td>
+    <td rowspan="4">  N/A</td>
+    <td rowspan="4"> </td>
+    <td rowspan="4">  Cindy/CareFirst</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2469,21 +2469,21 @@
     <td>Cindy/CareFirst</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
-    <td rowspan="2">Tested - CN</td>
-    <td rowspan="2">Date Stmt Cov From</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Tested - CN</td>
+    <td rowspan="2">  Date Stmt Cov From</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F03-STMT-COV-FROM-DT</td>
     <td>1272-1281</td>
     <td>X(10)</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">No</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">SF, DF - all reports</td>
-    <td rowspan="2">N/A</td>
-    <td rowspan="2"></td>
-    <td rowspan="2">Cindy/CareFirst</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  No</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  SF, DF - all reports</td>
+    <td rowspan="2">  N/A</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Cindy/CareFirst</td>
   </tr>
   <tr>
     <td>DF</td>
@@ -2510,21 +2510,21 @@
     <td>Cindy/CareFirst</td>
   </tr>
   <tr>
-    <td rowspan="2"></td>
-    <td rowspan="2">Tested - CN</td>
-    <td rowspan="2">Patient Status</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Tested - CN</td>
+    <td rowspan="2">  Patient Status</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F03-PAT-STS-CD</td>
     <td>3227-3228</td>
     <td>X(2)</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">Yes</td>
-    <td rowspan="2">SF, DF - all reports</td>
-    <td rowspan="2">N/A</td>
-    <td rowspan="2"></td>
-    <td rowspan="2">Cindy/CareFirst</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  Yes</td>
+    <td rowspan="2">  SF, DF - all reports</td>
+    <td rowspan="2">  N/A</td>
+    <td rowspan="2"> </td>
+    <td rowspan="2">  Cindy/CareFirst</td>
   </tr>
   <tr>
     <td>DF</td>
@@ -2551,7 +2551,7 @@
     <th>Details</th>
   </tr>
   <tr>
-    <td>**BCBSA Updates**</td>
+    <td><b>BCBSA Updates</b></td>
     <td>ETL</td>
     <td>Mandatory</td>
     <td>Enhancement</td>
@@ -2574,7 +2574,7 @@
   </table></td>
   </tr>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>ETL/Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -2595,7 +2595,7 @@
   </table></td>
   </tr>
   <tr>
-    <td>**2020 Scorecard update**</td>
+    <td><b>2020 Scorecard update</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -2604,7 +2604,7 @@
     <td>Update Claim Appeals target range for 2020 Proprosed scorecard from 85% - 97% to 87% - 97%</td>
   </tr>
   <tr>
-    <td>**2019 and 2020 Scorecard update**</td>
+    <td><b>2019 and 2020 Scorecard update</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -2613,7 +2613,7 @@
     <td>For 2019 and 2020 scorecards, update Home and Host GENINQ measures from &lt;= 10 Days to &lt;= 14 Days<br />NOTE:  This will require new inputs as the 2017 and 2018 scorecards need to continue using &lt;= 10 Days.</td>
   </tr>
   <tr>
-    <td>**2018 Scorecard - make historical**</td>
+    <td><b>2018 Scorecard - make historical</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -2622,7 +2622,7 @@
     <td>Rename "National Programs Scorecard" to "National Programs Scorecard 2018"; should be sorted after the 2017 version</td>
   </tr>
   <tr>
-    <td>**2019 Scorecard - make default**</td>
+    <td><b>2019 Scorecard - make default</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -2631,7 +2631,7 @@
     <td>Rename "National Programs Scorecard 2019 (Proposed)" to "National Programs Scorecard" and make it the default scorecard</td>
   </tr>
   <tr>
-    <td>**Security update**</td>
+    <td><b>Security update</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -2640,7 +2640,7 @@
     <td>Disable TRACE http method</td>
   </tr>
   <tr>
-    <td>**Security update**</td>
+    <td><b>Security update</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -2649,7 +2649,7 @@
     <td>Implement HTTP Strict Transport Security (HSTS)</td>
   </tr>
   <tr>
-    <td>**Security update**</td>
+    <td><b>Security update</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -2658,7 +2658,7 @@
     <td>Implement X-Frame-Options header</td>
   </tr>
   <tr>
-    <td>**E-Learning**</td>
+    <td><b>E-Learning</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -2667,7 +2667,7 @@
     <td>Update E-Learning information to reflect the latest 2019 version of the scorecard</td>
   </tr>
   <tr>
-    <td>**E-Learning**</td>
+    <td><b>E-Learning</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -2676,7 +2676,7 @@
     <td>Update E-Learning link to be active on the new NPS default scorecard (2019 version instead of 2018 version)</td>
   </tr>
   <tr>
-    <td>**Resource monitor**</td>
+    <td><b>Resource monitor</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Bug</td>
@@ -2685,7 +2685,7 @@
     <td>Batch process does not resume when database connection is lost then comes back</td>
   </tr>
   <tr>
-    <td>**ETL log update**</td>
+    <td><b>ETL log update</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -2709,7 +2709,7 @@
     <th>Details</th>
   </tr>
   <tr>
-    <td>**BCBSA Updates**</td>
+    <td><b>BCBSA Updates</b></td>
     <td>ETL</td>
     <td>Mandatory</td>
     <td>Enhancement</td>
@@ -2732,7 +2732,7 @@
   </table></td>
   </tr>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>ETL/Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -2773,7 +2773,7 @@
   </table></td>
   </tr>
   <tr>
-    <td>**Add Scorecard views to Dashboard**</td>
+    <td><b>Add Scorecard views to Dashboard</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -2782,7 +2782,7 @@
     <td>Add additional Scorecards for 2017 historic and 2019 and 2020 proposals</td>
   </tr>
   <tr>
-    <td>**Security Fix**</td>
+    <td><b>Security Fix</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Bug</td>
@@ -2791,7 +2791,7 @@
     <td>XSS opportunity in ClaimExperienceServlet<br />*General testing</td>
   </tr>
   <tr>
-    <td>**Possible Security Fix**</td>
+    <td><b>Possible Security Fix</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Bug</td>
@@ -2800,7 +2800,7 @@
     <td>Possible XSS opportunity in ExportServlet<br />*General testing</td>
   </tr>
   <tr>
-    <td>**Sort All PLs**</td>
+    <td><b>Sort All PLs</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -2809,7 +2809,7 @@
     <td>PL sorting only goes to 2nd level; should go to all levels<br />NOTE:  Tested to 6th level.</td>
   </tr>
   <tr>
-    <td>**Replace ES Transport Client with Datanet ES Client**</td>
+    <td><b>Replace ES Transport Client with Datanet ES Client</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -2818,7 +2818,7 @@
     <td>Replace the dependency on the internal ES transport client with the Datanet ES Client.<br />*General testing</td>
   </tr>
   <tr>
-    <td>**ETL Model Review**</td>
+    <td><b>ETL Model Review</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -2827,7 +2827,7 @@
     <td>The model underpinning ETL processing (entries, maps, etc.) needs to be reviewed and refactored due to subsequent development in this area.</td>
   </tr>
   <tr>
-    <td>**Send e-mail on CDESU failure**</td>
+    <td><b>Send e-mail on CDESU failure</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -2836,7 +2836,7 @@
     <td>When a CDESU file goes to the error directory, send an email notification<br />Considerations:&lt;br&gt;- Include all ETL failures so as to not depend on error message text?&lt;br&gt;- If done through logback, move default logback file to conf</td>
   </tr>
   <tr>
-    <td>**Update FlexReport event logging**</td>
+    <td><b>Update FlexReport event logging</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -2845,7 +2845,7 @@
     <td>Enhance the more specific FlexReport event logging, such as when reports are updated, saved, deleted, made global/local, etc. by making it go to SystemOut.log by default and by quoting all report title references - original request by SC</td>
   </tr>
   <tr>
-    <td>**Bundle eLearning with Datanet**</td>
+    <td><b>Bundle eLearning with Datanet</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -2854,7 +2854,7 @@
     <td>Bundle the eLearning package with Datanet rather than using the external link to the Proteligence site</td>
   </tr>
   <tr>
-    <td>**Parse Comments for ADJUST/Q Messages**</td>
+    <td><b>Parse Comments for ADJUST/Q Messages</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -2863,7 +2863,7 @@
     <td>Add ADJUST/Q messages to the list of messages/sub-types where the Comments are parsed and included in Datanet - requested by Anthem</td>
   </tr>
   <tr>
-    <td>**ETL Startup Log check failing**</td>
+    <td><b>ETL Startup Log check failing</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -2872,7 +2872,7 @@
     <td>With parallel processing, files can finish close enough to the same time that the last file written to the ETL log is not the last file processed based on the processed timestamp which results in an ETL start-up failure</td>
   </tr>
   <tr>
-    <td>**Inputs Tab Export Update**</td>
+    <td><b>Inputs Tab Export Update</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -2881,7 +2881,7 @@
     <td>Make Inputs tab Export function available to standard users; see bug for latest export specifics</td>
   </tr>
   <tr>
-    <td>**Gap Audit**</td>
+    <td><b>Gap Audit</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -2890,7 +2890,7 @@
     <td>Non-duplicate logic causing extra gaps to be reported (such as when a DF or RF has an update with a different LAST_UPDT_TS)</td>
   </tr>
   <tr>
-    <td>**FlexReports - suggestible columns update**</td>
+    <td><b>FlexReports - suggestible columns update</b></td>
     <td>Datanet</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -2899,7 +2899,7 @@
     <td>Make Direction and Open/Closed? columns suggestible</td>
   </tr>
   <tr>
-    <td>**Input titles**</td>
+    <td><b>Input titles</b></td>
     <td>Datanet</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -2908,7 +2908,7 @@
     <td>Update input titles to match measure title changes</td>
   </tr>
   <tr>
-    <td>**About box**</td>
+    <td><b>About box</b></td>
     <td>Datanet</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -2932,7 +2932,7 @@
     <th>Details</th>
   </tr>
   <tr>
-    <td>**BCBSA Updates**</td>
+    <td><b>BCBSA Updates</b></td>
     <td>Datanet</td>
     <td>Mandatory</td>
     <td>Enhancement</td>
@@ -2955,7 +2955,7 @@
   </table></td>
   </tr>
   <tr>
-    <td>**Anthem LCD logging**</td>
+    <td><b>Anthem LCD logging</b></td>
     <td>Anthem-ETL</td>
     <td>High</td>
     <td>Bug</td>
@@ -2979,7 +2979,7 @@
     <th>Details</th>
   </tr>
   <tr>
-    <td>**BCBSA Updates**</td>
+    <td><b>BCBSA Updates</b></td>
     <td>ETL</td>
     <td>Mandatory</td>
     <td>Enhancement</td>
@@ -3002,7 +3002,7 @@
   </table></td>
   </tr>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>ETL/Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3023,7 +3023,7 @@
   </table></td>
   </tr>
   <tr>
-    <td>**Ctrl # Home XRef, Ctrl # Host XRef update**</td>
+    <td><b>Ctrl # Home XRef, Ctrl # Host XRef update</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Bug</td>
@@ -3032,7 +3032,7 @@
     <td>The XREF_SCCF_ID check should be per ADJUST Q/R message, not for the claim experience in general<br />If 17.5 has an ETL point release, this fix should be included there instead of with 18.0.</td>
   </tr>
   <tr>
-    <td>**Add Export option on Inputs tab**</td>
+    <td><b>Add Export option on Inputs tab</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3041,7 +3041,7 @@
     <td>Add an export option to the Inputs tab - requested by Anthem (Eliz)</td>
   </tr>
   <tr>
-    <td>**Eliminate need for manual build to remove Sub ID Suffix**</td>
+    <td><b>Eliminate need for manual build to remove Sub ID Suffix</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3050,7 +3050,7 @@
     <td>Add a setting to disable the loading of the Sub ID Suffix (SUB_SUFX_ID) field to Elasticsearch only. NOTE: This is to eventually eliminate the need for Anthem's custom application package.</td>
   </tr>
   <tr>
-    <td>**Copy Date Exp Res from Update to Request messages**</td>
+    <td><b>Copy Date Exp Res from Update to Request messages</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3059,7 +3059,7 @@
     <td>For the latest GENINQ/U message (based on LAST_UPDT_TS), populate the Date Exp Res value onto the corresponding GENINQ/Q (based on ROOT_MSG_ID). It is assumed the messages will always be for the same BOID/Perspective/SCCF_BASE_ID. For ESCL1/ESCL2 messages, do the same but also match on MSG_TP_CD. - Requested by CareFirst (Cindy)/Anthem (Eliz)<br />NOTE:  ESCL1/ESCL2 should already be accounted for and should also include copying ESCLTN_STS_DESC. See Bug #1390 for more information.</td>
   </tr>
   <tr>
-    <td>**Account for CLMAPPL/Q messages in Rsp Approval? column**</td>
+    <td><b>Account for CLMAPPL/Q messages in Rsp Approval? column</b></td>
     <td>Datanet/ETL</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3068,7 +3068,7 @@
     <td>Rename "Adj Rsp Approval?" column to "Rsp Approval?" and use it for CLMAPPL/Q messages in addition to ADJUST/Q messages - Requested by Anthem (Eliz)<br />NOTE: Bug #1646 Was sent with the 17.5.1 (3.8.1) update.</td>
   </tr>
   <tr>
-    <td>**Graphs Standard Range UI bug**</td>
+    <td><b>Graphs Standard Range UI bug</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Bug</td>
@@ -3077,7 +3077,7 @@
     <td>Graphing the Standard Range for various measures causes the UI to no longer function properly</td>
   </tr>
   <tr>
-    <td>**Date-based purge update**</td>
+    <td><b>Date-based purge update</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3086,7 +3086,7 @@
     <td>Date-based purge should not purge records where STS_CD is not V or R</td>
   </tr>
   <tr>
-    <td>**B2_Owner_ID and Program for DFs**</td>
+    <td><b>B2_Owner_ID and Program for DFs</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3095,7 +3095,7 @@
     <td>BLUE2_OWNER_ID and PGM_CD for a DF should reflect the values found on the DF rather than being overwritten by the SF values. The RF value should still come from the SF for BLUE2_OWNER_ID, but the PGM_CD should come from the DF.</td>
   </tr>
   <tr>
-    <td>**Update Scorecard titles**</td>
+    <td><b>Update Scorecard titles</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3104,7 +3104,7 @@
     <td>Remove years from Scorecard titles</td>
   </tr>
   <tr>
-    <td>**Update perspectives of LDLA measures**</td>
+    <td><b>Update perspectives of LDLA measures</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3113,7 +3113,7 @@
     <td>Update applicable perspectives for LDLA measures</td>
   </tr>
   <tr>
-    <td>**Rename locked FlexReports**</td>
+    <td><b>Rename locked FlexReports</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3122,7 +3122,7 @@
     <td>Rename locked FlexReports to place them at the top of the Global Report Views list</td>
   </tr>
   <tr>
-    <td>**Fix XREF duplicate removal bug**</td>
+    <td><b>Fix XREF duplicate removal bug</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3131,7 +3131,7 @@
     <td>Fix issue where duplicate removal for XREFs only considered SCCF_SUFX_ID and LAST_UPDT_TS instead of the full SCCF_ID</td>
   </tr>
   <tr>
-    <td>**Fix XREF scorecard bug**</td>
+    <td><b>Fix XREF scorecard bug</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3140,7 +3140,7 @@
     <td>Fix issue with scorecard calculation not considering Adjustment SF claim experiences (could affect Home Adj Proc &lt;= 14 Days calculations)</td>
   </tr>
   <tr>
-    <td>**CSV export for " characters**</td>
+    <td><b>CSV export for " characters</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3149,7 +3149,7 @@
     <td>Fix issue with exports to CSV files that contain " characters</td>
   </tr>
   <tr>
-    <td>**Add B2 Home/Host Overall beta reports**</td>
+    <td><b>Add B2 Home/Host Overall beta reports</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3158,7 +3158,7 @@
     <td>Add new FlexReports for B2 Home Overall (beta) and B2 Host Overall (beta)</td>
   </tr>
   <tr>
-    <td>**Parent PL scorecard input invalidation**</td>
+    <td><b>Parent PL scorecard input invalidation</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Bug</td>
@@ -3167,7 +3167,7 @@
     <td>On the Inputs tab, if you view a Parent PL then modify one of it's leaf PL's inputs then go back to the Parent PL, the leaf input change is not reflected</td>
   </tr>
   <tr>
-    <td>**Replace ES Transport Client with Datanet ES Client**</td>
+    <td><b>Replace ES Transport Client with Datanet ES Client</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3176,7 +3176,7 @@
     <td>Replace the dependency on the internal ES transport client with the Datanet ES Client.</td>
   </tr>
   <tr>
-    <td>**Performance Level Update Utility**</td>
+    <td><b>Performance Level Update Utility</b></td>
     <td>(Utility)</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3185,7 +3185,7 @@
     <td>Re-implement performance level update utility for IPDS and custom data modules - May be handled by ETL change to make PLs dynamic - dev investigating</td>
   </tr>
   <tr>
-    <td>**ETL Model Review**</td>
+    <td><b>ETL Model Review</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3194,7 +3194,7 @@
     <td>The model underpinning ETL processing (entries, maps, etc.) needs to be reviewed and refactored due to subsequent development in this area.</td>
   </tr>
   <tr>
-    <td>**LCD file scan and load**</td>
+    <td><b>LCD file scan and load</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3203,7 +3203,7 @@
     <td>LCD file scan &amp; load is inconsistent with IPDS file scan &amp; load behavior with input calculation timer CDR apply-changes</td>
   </tr>
   <tr>
-    <td>**Adjustment SFs should not need an XREF ID to self-close**</td>
+    <td><b>Adjustment SFs should not need an XREF ID to self-close</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Bug</td>
@@ -3212,7 +3212,7 @@
     <td>The current implementation requires an Adjustment SF to have an XREF to self-close. This was not the intention; however, the amount of data affected is very small. Tae would like to provide this fix if it is not going to take much time/effort; if it is going to be a significant effort, he would like that info to decide if we should make the change or wait to see if it affects enough data to justify the change.</td>
   </tr>
   <tr>
-    <td>**Update B2 date-based purge criteria to use LAST_UPDT_TS rather than CLOSE_DT**</td>
+    <td><b>Update B2 date-based purge criteria to use LAST_UPDT_TS rather than CLOSE_DT</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3221,7 +3221,7 @@
     <td>Not all B2 records receive a CLOSE_DT. Per BCBSA, B2 doesn't use CLOSE_DT to determine if a record can be purged by their equivalent of date-based purge. Instead, a B2 record is purged unless any of the following are true:&lt;br&gt;- Open or not Processed/Final OR&lt;br&gt;- Closed but LAST_UPDT_TS &gt;= Purge Date OR&lt;br&gt;- Recoupment Report Indicator = "Y"&lt;br&gt;In other works, a B2 record is eligible to be purged via the date-based purge process if all of the following are true:&lt;br&gt;- The record is in Processed/Final status AND&lt;br&gt;- The record is Closed AND&lt;br&gt;- The record's LAST_UPDT_TS &lt; Purge Date AND&lt;br&gt;- The record's Recoupment Report Indicator &lt;&gt; "Y"<br />Tae would like an estimate for this update to determine if he wants to make the change now or wait to see if enough data is affected by this difference to justify the change.</td>
   </tr>
   <tr>
-    <td>**Send e-mail on CDESU failure**</td>
+    <td><b>Send e-mail on CDESU failure</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3230,7 +3230,7 @@
     <td>When a CDESU file goes to the error directory, send an email notification</td>
   </tr>
   <tr>
-    <td>**Restore CDR size logging**</td>
+    <td><b>Restore CDR size logging</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Bug</td>
@@ -3239,7 +3239,7 @@
     <td>Restore CDR size logging after merge</td>
   </tr>
   <tr>
-    <td>**CDESU resource monitor**</td>
+    <td><b>CDESU resource monitor</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Bug</td>
@@ -3248,7 +3248,7 @@
     <td>ES resource monitor should do first check before first CDESU file poll to prevent files from being sent while ES is down, in read-only mode, etc.</td>
   </tr>
   <tr>
-    <td>**File check for validation**</td>
+    <td><b>File check for validation</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3257,7 +3257,7 @@
     <td>Based on TN log examples, files are not always being submitted for validation as early as they can be</td>
   </tr>
   <tr>
-    <td>**Update FlexReport event logging**</td>
+    <td><b>Update FlexReport event logging</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3266,7 +3266,7 @@
     <td>Add more specific FlexReport event logging, such as when reports are updated, saved, deleted, made global/local, etc. - requested by SC</td>
   </tr>
   <tr>
-    <td>**Add log entry for when summary email is sent**</td>
+    <td><b>Add log entry for when summary email is sent</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -3275,7 +3275,7 @@
     <td>A log message should be added for when the summary email is successfully sent (the log entry for when the generation starts should stay as it is)</td>
   </tr>
   <tr>
-    <td>**Limit Latest Loading Gaps check**</td>
+    <td><b>Limit Latest Loading Gaps check</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -3284,7 +3284,7 @@
     <td>Add an optional setting to dn3.properties to limit how far back the Latest Loading Gaps section checks</td>
   </tr>
   <tr>
-    <td>**Update section title Stuck to Other**</td>
+    <td><b>Update section title Stuck to Other</b></td>
     <td>Utility - Report Matrix</td>
     <td>Low</td>
     <td>Bug</td>
@@ -3293,7 +3293,7 @@
     <td>The Stuck section title should now be Other</td>
   </tr>
   <tr>
-    <td>**Check for files to merge before going to scorecard?**</td>
+    <td><b>Check for files to merge before going to scorecard?</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -3302,7 +3302,7 @@
     <td>Should ETL check for more files to merge instead of going from merge to scorecard calculation? Need to determine if Anthem would prefer this, how likely it is to let more FlexReport data be in before 7 based on existing logs (Charlie to look into this), etc.</td>
   </tr>
   <tr>
-    <td>**Partition data by region?**</td>
+    <td><b>Partition data by region?</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancment</td>
@@ -3311,7 +3311,7 @@
     <td>Should ETL partition data by region to allow merging of a given file to be limited to the data affected by the file's region? Needs discussion. Also want to evaluate performance after 17.5 implementation in production.</td>
   </tr>
   <tr>
-    <td>**DEID tool updates**</td>
+    <td><b>DEID tool updates</b></td>
     <td>Utility</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -3320,7 +3320,7 @@
     <td>Update DEID tool to leave elements in Payload that are used by Datanet/ETL - Values can be obscured but should remain</td>
   </tr>
   <tr>
-    <td>**SCCF/MSG/Sub ID obfuscation tool**</td>
+    <td><b>SCCF/MSG/Sub ID obfuscation tool</b></td>
     <td>Utility</td>
     <td>Low</td>
     <td>New</td>
@@ -3344,7 +3344,7 @@
     <th>Details</th>
   </tr>
   <tr>
-    <td>**BCBSA Updates**</td>
+    <td><b>BCBSA Updates</b></td>
     <td>Datanet</td>
     <td>Mandatory</td>
     <td>Enhancement</td>
@@ -3389,7 +3389,7 @@
     <th>Details</th>
   </tr>
   <tr>
-    <td>**BCBSA Updates**</td>
+    <td><b>BCBSA Updates</b></td>
     <td>ETL</td>
     <td>Mandatory</td>
     <td>Enhancement</td>
@@ -3412,7 +3412,7 @@
   </table></td>
   </tr>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>ETL/Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3503,7 +3503,7 @@
   </table></td>
   </tr>
   <tr>
-    <td>**Eliminate need for manual build to remove Sub ID Suffix**</td>
+    <td><b>Eliminate need for manual build to remove Sub ID Suffix</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3512,7 +3512,7 @@
     <td>Currently proposal is to add a setting to disable the loading of the Sub ID Suffix (SUB_SUFX_ID) field. If this is done, we will also need to handle removing the existing data from Elasticsearch (and the CDR?) which means a migration and/or an Elasticsearch reload will be needed for Anthem (or any other Plan that implements the change if done this way).</td>
   </tr>
   <tr>
-    <td>**Performance Level Update Utility**</td>
+    <td><b>Performance Level Update Utility</b></td>
     <td>(Utility)</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3521,7 +3521,7 @@
     <td>Re-implement performance level update utility for IPDS and custom data modules - May be handled by ETL change to make PLs dynamic - dev investigating</td>
   </tr>
   <tr>
-    <td>**Replace ES Transport Client with Datanet ES Client**</td>
+    <td><b>Replace ES Transport Client with Datanet ES Client</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3530,7 +3530,7 @@
     <td>Replace the dependency on the internal ES transport client with the Datanet ES Client.</td>
   </tr>
   <tr>
-    <td>**Improve CDESU error handling**</td>
+    <td><b>Improve CDESU error handling</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Defect</td>
@@ -3539,7 +3539,7 @@
     <td>Prevent silent failing.</td>
   </tr>
   <tr>
-    <td>**ETL Model Review**</td>
+    <td><b>ETL Model Review</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3548,7 +3548,7 @@
     <td>The model underpinning ETL processing (entries, maps, etc.) needs to be reviewed and refactored due to subsequent development in this area.</td>
   </tr>
   <tr>
-    <td>**ETL Summary E-mail: Include Gaps Section</td>
+    <td>'''ETL Summary E-mail: Include Gaps Section</td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3557,7 +3557,7 @@
     <td>Indicate on the ETL summary e-mail gaps between files loaded, if any.<br />*Saw differences between requirements and implementation but is acceptable for 17.5</td>
   </tr>
   <tr>
-    <td>**Improve CDR export filters**</td>
+    <td><b>Improve CDR export filters</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -3566,7 +3566,7 @@
     <td>*There are some performance concerns as compared with 17.0 but is acceptable for 17.5 initial release</td>
   </tr>
   <tr>
-    <td>**Send e-mail on CDESU failure**</td>
+    <td><b>Send e-mail on CDESU failure</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -3575,7 +3575,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>**PDF exports: incorrect page numbers**</td>
+    <td><b>PDF exports: incorrect page numbers</b></td>
     <td>Datanet</td>
     <td>Low</td>
     <td>Defect</td>
@@ -3583,7 +3583,7 @@
     <td>Bug #1591</td>
   </tr>
   <tr>
-    <td>**Selective restore**</td>
+    <td><b>Selective restore</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3592,7 +3592,7 @@
     <td>Utility to re-send specified claim experience(s) from CDR to Elasticsearch (to address scenarios where Elasticsearch did not receive proper updates from ETL).</td>
   </tr>
   <tr>
-    <td>**Selective resource monitoring**</td>
+    <td><b>Selective resource monitoring</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -3601,7 +3601,7 @@
     <td>Ability to assign individual resource monitors to a given process rather than all-or-nothing.</td>
   </tr>
   <tr>
-    <td>**Always "and" intrinsic filters**</td>
+    <td><b>Always "and" intrinsic filters</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3610,7 +3610,7 @@
     <td>Users can enter filters such as Status=i on the Valid report and get additional records than expected</td>
   </tr>
   <tr>
-    <td>**CDR exports error if not 15 chars**</td>
+    <td><b>CDR exports error if not 15 chars</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -3619,7 +3619,7 @@
     <td>CDR exports should check submitted SCCF_BASE_IDs and error out before exporting anything if any of the submissions are not 15 characters exactly</td>
   </tr>
   <tr>
-    <td>**Change column "Date Escl Exp Res" to "Date Exp Res" and also parse for GENINQ/U**</td>
+    <td><b>Change column "Date Escl Exp Res" to "Date Exp Res" and also parse for GENINQ/U</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3628,7 +3628,7 @@
     <td>Field will be used for GENINQ/U messages starting in 17.5</td>
   </tr>
   <tr>
-    <td>**Streamline column on locked DF reports"**</td>
+    <td><b>Streamline column on locked DF reports"</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3637,7 +3637,7 @@
     <td>Make Streamline column visible on locked DF reports after the BOID column (requested by MI/Karen)</td>
   </tr>
   <tr>
-    <td>**Delete incomplete Elasticsearch update files on start-up**</td>
+    <td><b>Delete incomplete Elasticsearch update files on start-up</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -3646,7 +3646,7 @@
     <td>Incomplete Elasticsearch update files (cdesu) without corresponding .done files should be deleted upon start-up</td>
   </tr>
   <tr>
-    <td>**LCD file scan and load**</td>
+    <td><b>LCD file scan and load</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3655,7 +3655,7 @@
     <td>LCD file scan &amp; load is inconsistent with IPDS file scan &amp; load behavior with input calculation timer CDR apply-changes</td>
   </tr>
   <tr>
-    <td>**Log Inquiry Detail status on apply changes timer**</td>
+    <td><b>Log Inquiry Detail status on apply changes timer</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -3664,7 +3664,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>**Additional Comments parsing**</td>
+    <td><b>Additional Comments parsing</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3673,7 +3673,7 @@
     <td>Add Comments parsing for GENINQ/Q/R and MEDREC/R messages</td>
   </tr>
   <tr>
-    <td>**Class Prov for Professional SFs**</td>
+    <td><b>Class Prov for Professional SFs</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3682,7 +3682,7 @@
     <td>Should use first available line level instance of X-F27-CLASS-PROV-CD (Institutional SFs should still use claim level field X-F01-CLASS-PROV-CD) - requested by Anthem (Eliz)</td>
   </tr>
   <tr>
-    <td>**Parse PRTY_IND for all applicable B2 messages**</td>
+    <td><b>Parse PRTY_IND for all applicable B2 messages</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancment</td>
@@ -3691,7 +3691,7 @@
     <td>Parse PRTY_IND for all applicable B2 messages</td>
   </tr>
   <tr>
-    <td>**PDF export issue**</td>
+    <td><b>PDF export issue</b></td>
     <td>Datanet</td>
     <td>Low</td>
     <td>Defect</td>
@@ -3700,7 +3700,7 @@
     <td>$ Total SF and $ Total DF Columns in ClaimExp report export should only be two lines</td>
   </tr>
   <tr>
-    <td>**CDR export to include rootMsg**</td>
+    <td><b>CDR export to include rootMsg</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -3709,7 +3709,7 @@
     <td>Add rootMsgId tag to B2-only claim experiences in the CDR exports</td>
   </tr>
   <tr>
-    <td>**Remove specific Comments parsing**</td>
+    <td><b>Remove specific Comments parsing</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -3718,7 +3718,7 @@
     <td>Code Cleanup: Remove Comments parsing for ADJUST/R and CNCLADJ/R messages</td>
   </tr>
   <tr>
-    <td>**Copy contact attempt dates from MEDREC/U to MEDREC/Q**</td>
+    <td><b>Copy contact attempt dates from MEDREC/U to MEDREC/Q</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3727,7 +3727,7 @@
     <td>Copy specific MEDREC/U info to the corresponding MEDREC/Q message - requested by CareFirst (Cindy)</td>
   </tr>
   <tr>
-    <td>**Reimplement special handling for INFOMSG/172 records**</td>
+    <td><b>Reimplement special handling for INFOMSG/172 records</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Defect</td>
@@ -3736,7 +3736,7 @@
     <td>Field CLM_MED_REC_REQ_SCCF_ID and Comments should only be populated on INFOMSG messages if RSN_CD = '172'</td>
   </tr>
   <tr>
-    <td>**PRTY_IND should not be parsed for MedicalRecordMessage messages**</td>
+    <td><b>PRTY_IND should not be parsed for MedicalRecordMessage messages</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -3745,7 +3745,7 @@
     <td>The field is not valid for MedicalRecordMessage messages per the schema. Although MedicalRecordMessageDetail does not extended InterplanMessageDetail, COMMENTS are in fact present on this message detail and had been being parsed, as such it will continue to be parsed.</td>
   </tr>
   <tr>
-    <td>**Retain valid records over non-valid records during IPDS duplicate removal**</td>
+    <td><b>Retain valid records over non-valid records during IPDS duplicate removal</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Defect</td>
@@ -3754,7 +3754,7 @@
     <td>Change our duplicate removal logic to prioritize valid records over non-valid ones. IBX encountered a claim experience with an original SF, an original valid DF, and an original non-valid DF. Due to our duplicate removal logic in 17.0 and prior, the effective experience was materialized as the original SF and the original non-valid DF and resulted in the SF being reopened because our close logic doesn't allow non-valid DFs to close SFs.</td>
   </tr>
   <tr>
-    <td>**Rename column Class Prov to Provider Class**</td>
+    <td><b>Rename column Class Prov to Provider Class</b></td>
     <td>DN3</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -3778,7 +3778,7 @@
     <th>Details</th>
   </tr>
   <tr>
-    <td>**BCBSA Updates**</td>
+    <td><b>BCBSA Updates</b></td>
     <td>ETL</td>
     <td>Mandatory</td>
     <td>Enhancement</td>
@@ -3813,13 +3813,13 @@
   </table></td>
   </tr>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>ETL/Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
     <td>See Details</td>
     <td>See Details</td>
-    <td>As requested by Plans. All are only available, not visible by default on any view. None are added as statistics.**Approved:** (none)**Proposed:**
+    <td>As requested by Plans. All are only available, not visible by default on any view. None are added as statistics.<b>Approved:</b> (none)<b>Proposed:</b>
     
   <table>
   <tr>
@@ -3885,7 +3885,7 @@
   </table></td>
   </tr>
   <tr>
-    <td>**Ignore Global Purges**</td>
+    <td><b>Ignore Global Purges</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Defect</td>
@@ -3894,7 +3894,7 @@
     <td>For purges of type G, the purge should be ignored if Archive Process ID &gt; 0 as that is a Global purge. Only when the purge is type G and the Archive Process ID = 0 is it a 15-digit selective purge which we should honor.</td>
   </tr>
   <tr>
-    <td>**Archive Search logic changes**</td>
+    <td><b>Archive Search logic changes</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Defect</td>
@@ -3903,7 +3903,7 @@
     <td>The existing timestamp logic used for Archive Search records does not work due to not receiving every change on IPOR flat files and BCBSA bugs where Last Update Timestamp is not modified. For 17.0, this update is to only account for when the purge LAST_UPDT_TS matches the record LAST_UPDT_TS. We will move consideration of making purges apply at all times before purge LAST_UPDT_TS to 17.5.</td>
   </tr>
   <tr>
-    <td>**Limit reported date based on detail record LAST_UPDT_TS**</td>
+    <td><b>Limit reported date based on detail record LAST_UPDT_TS</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -3912,7 +3912,7 @@
     <td>Data that is later than the corresponding detail record data is being provided in the IPOR flat files. This update is to filter out and ignore such data so that reporting is based only on data applicable to the detail data that is in the files. This can be done by loading the data as done today and filtering out non-applicable data during scorecard calculation and during FlexReport updates or it can be done by filtering out the non-applicable data at load time. If it is done at load time, the CDR will need to be migrated to remove the non-applicable data that has already been stored in the CDR. So, this will require some discussion to determine the exact method used based on the time allowed for 17.0 development.<br />UPDATE: The filtering is being done at load time, and there will not be a CDR migration. Data where the latest version of the record was loaded last can be fixed with an ES restore. Other data can be fixed by loading the earlier record then loading the later record after implementing 17.0. This should cover the vast majority of cases. In 17.5 (or a point release after 17.0), we will add selective restore which should also help with specific claim experiences that are identified.</td>
   </tr>
   <tr>
-    <td>**FlexReport column title updates**</td>
+    <td><b>FlexReport column title updates</b></td>
     <td>FlexReports</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3921,7 +3921,7 @@
     <td>Update FlexReport titles from XXX Release to Release XXX (requested by Eliz but is consistent with our convention)</td>
   </tr>
   <tr>
-    <td>**FlexReport column title updates - IQD**</td>
+    <td><b>FlexReport column title updates - IQD</b></td>
     <td>FlexReports</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3930,7 +3930,7 @@
     <td>Update IQD FlexReport column Host Home? title to Perspective to match the IPDS reports (requested by Eliz)</td>
   </tr>
   <tr>
-    <td>**Performance Level Update Utility**</td>
+    <td><b>Performance Level Update Utility</b></td>
     <td>(Utility)</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3939,7 +3939,7 @@
     <td>Re-implement performance level update utility for IPDS and custom data modules.</td>
   </tr>
   <tr>
-    <td>**Remove single-writer restriction from CDR**</td>
+    <td><b>Remove single-writer restriction from CDR</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3948,7 +3948,7 @@
     <td>Refactor the CDR so that multiple loads can occur in parallel.</td>
   </tr>
   <tr>
-    <td>**Replace ES Transport Client with Datanet ES Client**</td>
+    <td><b>Replace ES Transport Client with Datanet ES Client</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3957,7 +3957,7 @@
     <td>Replace the dependency on the internal ES transport client with the Datanet ES Client.</td>
   </tr>
   <tr>
-    <td>**Improve CDESU error handling**</td>
+    <td><b>Improve CDESU error handling</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Defect</td>
@@ -3966,7 +3966,7 @@
     <td>Prevent silent failing.</td>
   </tr>
   <tr>
-    <td>**ETL Model Review**</td>
+    <td><b>ETL Model Review</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3975,7 +3975,7 @@
     <td>The model underpinning ETL processing (entries, maps, etc.) needs to be reviewed and refactored due to subsequent development in this area.</td>
   </tr>
   <tr>
-    <td>**ETL Summary E-mail: Include Gaps Section</td>
+    <td>'''ETL Summary E-mail: Include Gaps Section</td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -3984,7 +3984,7 @@
     <td>Indicate on the ETL summary e-mail gaps between files loaded, if any.</td>
   </tr>
   <tr>
-    <td>**Improve CDR export filters**</td>
+    <td><b>Improve CDR export filters</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -3993,7 +3993,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>**No warning popup when switching scorecards with unsaved manual inputs**</td>
+    <td><b>No warning popup when switching scorecards with unsaved manual inputs</b></td>
     <td>Datanet</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4016,7 +4016,7 @@
     <th>Details</th>
   </tr>
   <tr>
-    <td>**BCBSA:** Claim Appeals measure updates</td>
+    <td><b>BCBSA:</b> Claim Appeals measure updates</td>
     <td>ETL</td>
     <td>Mandatory</td>
     <td>Enhancement</td>
@@ -4040,7 +4040,7 @@
     <td>Loading just LCD files does not result in a merge; the LCD files do not get merged until an IPDS file is loaded</td>
   </tr>
   <tr>
-    <td>**Overwriting reports**</td>
+    <td><b>Overwriting reports</b></td>
     <td>Flexeports</td>
     <td>Low</td>
     <td>Defect</td>
@@ -4049,7 +4049,7 @@
     <td>If you modify a locked report view then try to overwrite a saved view with that locked report, it doesn't work and there are DB2 errors in the log.</td>
   </tr>
   <tr>
-    <td>**Warning range color on exports**</td>
+    <td><b>Warning range color on exports</b></td>
     <td>Flexeports</td>
     <td>Low</td>
     <td>Defect</td>
@@ -4058,7 +4058,7 @@
     <td>The warning range color on exports doesn't match the color in the application.</td>
   </tr>
   <tr>
-    <td>**PDF exports: incorrect page numbers**</td>
+    <td><b>PDF exports: incorrect page numbers</b></td>
     <td>Datanet</td>
     <td>Lowest</td>
     <td>Defect</td>
@@ -4080,7 +4080,7 @@
     <th>Details</th>
   </tr>
   <tr>
-    <td>**National Programs Scorecard 2017**</td>
+    <td><b>National Programs Scorecard 2017</b></td>
     <td>ETL/Datanet</td>
     <td>Mandatory</td>
     <td>Enhancement</td>
@@ -4088,7 +4088,7 @@
     <td>Addition of new scorecard.</td>
   </tr>
   <tr>
-    <td>**BCBSA Updates**</td>
+    <td><b>BCBSA Updates</b></td>
     <td>ETL</td>
     <td>Mandatory</td>
     <td>Enhancement</td>
@@ -4106,12 +4106,12 @@
   </table></td>
   </tr>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>ETL/Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
     <td>Development</td>
-    <td>As requested by Plans. All are only available, not visible by default on any view. None are added as statistics.**Approved:**
+    <td>As requested by Plans. All are only available, not visible by default on any view. None are added as statistics.<b>Approved:</b>
     
   <table>
   <tr>
@@ -4133,7 +4133,7 @@
   </table></td>
   </tr>
   <tr>
-    <td>**Close logic: End-to-End Experiences**</td>
+    <td><b>Close logic: End-to-End Experiences</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Defect</td>
@@ -4142,7 +4142,7 @@
     </td>
   </tr>
   <tr>
-    <td>**Gap Audit**</td>
+    <td><b>Gap Audit</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -4150,7 +4150,7 @@
     <td>Generate Gap Audit files in the IPDS format that contains the SCCF IDs of parent records based on orphan records.</td>
   </tr>
   <tr>
-    <td>**Dashboard comparison view**</td>
+    <td><b>Dashboard comparison view</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -4158,7 +4158,7 @@
     <td>Provide the ability for a user to see multiple scorecard results at the same time.</td>
   </tr>
   <tr>
-    <td>**Date Closed calculation corrections**</td>
+    <td><b>Date Closed calculation corrections</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Defect</td>
@@ -4166,7 +4166,7 @@
     <td>Currently Datanet provides Date Closed for messages that IPOR does not.</td>
   </tr>
   <tr>
-    <td>**Allow only one instance of ETL**</td>
+    <td><b>Allow only one instance of ETL</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Defect</td>
@@ -4174,7 +4174,7 @@
     <td>Bug Bug #1544.</td>
   </tr>
   <tr>
-    <td>**Improve CDESU error handling**</td>
+    <td><b>Improve CDESU error handling</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Defect</td>
@@ -4196,21 +4196,21 @@
     <th>Details</th>
   </tr>
   <tr>
-    <td>**BCBSA:** SFI, SFP file changes</td>
+    <td><b>BCBSA:</b> SFI, SFP file changes</td>
     <td>ETL</td>
     <td>Mandatory</td>
     <td>Enhancement</td>
     <td>LDLA field fixes</td>
   </tr>
   <tr>
-    <td>**Scorecard calculation:** Date restriction should allow only month-ends earlier than settings indicate</td>
+    <td><b>Scorecard calculation:</b> Date restriction should allow only month-ends earlier than settings indicate</td>
     <td>ETL</td>
     <td>High</td>
     <td>Defect</td>
     <td>Bug Bug #1576.</td>
   </tr>
   <tr>
-    <td>**Scorecard calculation:** scorecard.min.date comparison should be &gt;=, not &gt;</td>
+    <td><b>Scorecard calculation:</b> scorecard.min.date comparison should be &gt;=, not &gt;</td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Defect</td>
@@ -4229,35 +4229,35 @@
     <th>Details</th>
   </tr>
   <tr>
-    <td>**BCBSA Updates**</td>
+    <td><b>BCBSA Updates</b></td>
     <td>ETL</td>
     <td>Mandatory</td>
     <td>Enhancement</td>
     <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.</td>
   </tr>
   <tr>
-    <td>**Dependency Upgrades**</td>
+    <td><b>Dependency Upgrades</b></td>
     <td>ETL/Datanet</td>
     <td>Mandatory</td>
     <td>Defect/Enhancement</td>
     <td>Upgrade 3rd party dependencies if needed. Dependency releases should be reviewed for critical fixes. This should not include Elasticsearch 2, if possible.</td>
   </tr>
   <tr>
-    <td>**eLearning**</td>
+    <td><b>eLearning</b></td>
     <td>(External)</td>
     <td>High</td>
     <td>Enhancement</td>
     <td>Provide existing eLearning separate from Datanet but in conjunction with the release.</td>
   </tr>
   <tr>
-    <td>**No-Volume Logic**</td>
+    <td><b>No-Volume Logic</b></td>
     <td>Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
     <td>Starting in 16.0, IPDS will give full points for a measure if that measure's inputs are 0. Datanet should match this behavior.</td>
   </tr>
   <tr>
-    <td>**Additional FlexReport Columns**</td>
+    <td><b>Additional FlexReport Columns</b></td>
     <td>ETL/Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -4321,7 +4321,7 @@
   </table></td>
   </tr>
   <tr>
-    <td>**Close Indicator and Date Defects**</td>
+    <td><b>Close Indicator and Date Defects</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Defect</td>
@@ -4329,49 +4329,49 @@
     </td>
   </tr>
   <tr>
-    <td>**Date-Based Purge**</td>
+    <td><b>Date-Based Purge</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
     <td>Re-implement date-based purge feature for IPDS and custom data modules. Include special handling for recoupment records.</td>
   </tr>
   <tr>
-    <td>**Improve logging**</td>
+    <td><b>Improve logging</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
     <td>Bugs Bug #1554, Bug #1381.</td>
   </tr>
   <tr>
-    <td>**Improve FlexReport Views**</td>
+    <td><b>Improve FlexReport Views</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Enhancement</td>
     <td>Update descriptions on locked and saved ITS views to distinguish between valid and non-valid. Combine Open and Processed Non-Valid report views into just Non-Valid.</td>
   </tr>
   <tr>
-    <td>**Defaultable inputs should default**</td>
+    <td><b>Defaultable inputs should default</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Defect</td>
     <td>Defaultable inputs such as LDLA currently require the user to enter values to get scorecard calculation of the associated measure to occur.</td>
   </tr>
   <tr>
-    <td>**Make record count checks consistent**</td>
+    <td><b>Make record count checks consistent</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Defect</td>
     <td>Bug Bug #1548.</td>
   </tr>
   <tr>
-    <td>**Recoupment Record Purge Accommodation (Worked Indicator)**</td>
+    <td><b>Recoupment Record Purge Accommodation (Worked Indicator)</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
     <td>(Note: Only the Recoupment Record Purge Accommodation is completed; no Worked Indicator was added.) The BCBSA's Open/Closed Indicator is not sufficient to know whether a record has already been worked. For example, recoupment records are closed adjustment responses that nevertheless are waiting on a follow-up. Therefore, date-based purge should ignore these records until they actually are worked. Provide a Worked Indicator to supplement the Open/Closed Indicator in FlexReports and to replace the usage of Open/Closed Indicator in date-based purge.</td>
   </tr>
   <tr>
-    <td>**Plan Exit UID Removal**</td>
+    <td><b>Plan Exit UID Removal</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Defect</td>
@@ -4393,7 +4393,7 @@
     <th>Details</th>
   </tr>
   <tr>
-    <td>**Summary report exports**</td>
+    <td><b>Summary report exports</b></td>
     <td>Datanet/ETL</td>
     <td>High</td>
     <td>Enhancement</td>
@@ -4402,7 +4402,7 @@
     <td>Only Open Inventory and Exceptions (i.e. only records needing to be worked).</td>
   </tr>
   <tr>
-    <td>**IPOR flat file de-identifier**</td>
+    <td><b>IPOR flat file de-identifier</b></td>
     <td>(Utility)</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -4411,7 +4411,7 @@
     <td>Create a utility that de-identifies IPOR flat files. This is necessary especially for production support.</td>
   </tr>
   <tr>
-    <td>**Exclude restricted columns**</td>
+    <td><b>Exclude restricted columns</b></td>
     <td>Report Matrix</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -4420,7 +4420,7 @@
     <td>Columns the user cannot make visible on a FlexReport view should not appear on the Report Matrix as available.</td>
   </tr>
   <tr>
-    <td>**Reporting Infrastructure**</td>
+    <td><b>Reporting Infrastructure</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -4429,7 +4429,7 @@
     <td>Extract custom reporting metadata and provide a discovery mechanism for lookup. As part of this, create an isolated report view API.</td>
   </tr>
   <tr>
-    <td>**Claim Experience Window Review**</td>
+    <td><b>Claim Experience Window Review</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -4438,7 +4438,7 @@
     <td>The infrastructure underpinning claim experience window needs to be reviewed and possibly refactored due to subsequent development in this area.</td>
   </tr>
   <tr>
-    <td>**Scorecard Calculation/CDESU Separation**</td>
+    <td><b>Scorecard Calculation/CDESU Separation</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -4447,7 +4447,7 @@
     <td>Separate scorecard calculation from CDESU so that the two processed could run independent of each other.</td>
   </tr>
   <tr>
-    <td>**Update ES Client for Elasticsearch 2 Aggregates**</td>
+    <td><b>Update ES Client for Elasticsearch 2 Aggregates</b></td>
     <td>Datanet, ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -4456,7 +4456,7 @@
     <td>Aggregates must be supported for newer versions of Elasticsearch. Any code that relies on the deprecated Elasticsearch summarization must be upgraded to use aggregates.</td>
   </tr>
   <tr>
-    <td>**Performance Level Update Utility**</td>
+    <td><b>Performance Level Update Utility</b></td>
     <td>(Utility)</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -4465,7 +4465,7 @@
     <td>Re-implement performance level update utility for IPDS and custom data modules - May be handled by ETL change to make PLs dynamic - dev investigating</td>
   </tr>
   <tr>
-    <td>**Update B2 date-based purge criteria to use LAST_UPDT_TS rather than CLOSE_DT**</td>
+    <td><b>Update B2 date-based purge criteria to use LAST_UPDT_TS rather than CLOSE_DT</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -4474,7 +4474,7 @@
     <td>Not all B2 records receive a CLOSE_DT. Per BCBSA, B2 doesn't use CLOSE_DT to determine if a record can be purged by their equivalent of date-based purge. Instead, a B2 record is purged unless any of the following are true:&lt;br&gt;- Open or not Processed/Final OR&lt;br&gt;- Closed but LAST_UPDT_TS &gt;= Purge Date OR&lt;br&gt;- Recoupment Report Indicator = "Y"&lt;br&gt;In other works, a B2 record is eligible to be purged via the date-based purge process if all of the following are true:&lt;br&gt;- The record is in Processed/Final status AND&lt;br&gt;- The record is Closed AND&lt;br&gt;- The record's LAST_UPDT_TS &lt; Purge Date AND&lt;br&gt;- The record's Recoupment Report Indicator &lt;&gt; "Y"<br />Tae would like an estimate for this update to determine if he wants to make the change now or wait to see if enough data is affected by this difference to justify the change.</td>
   </tr>
   <tr>
-    <td>**Restore CDR size logging**</td>
+    <td><b>Restore CDR size logging</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Bug</td>
@@ -4483,7 +4483,7 @@
     <td>Restore CDR size logging after merge</td>
   </tr>
   <tr>
-    <td>**LCD file scan and load**</td>
+    <td><b>LCD file scan and load</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -4492,7 +4492,7 @@
     <td>LCD file scan &amp; load is inconsistent with IPDS file scan &amp; load behavior with input calculation timer CDR apply-changes</td>
   </tr>
   <tr>
-    <td>**Scorecard - required columns**</td>
+    <td><b>Scorecard - required columns</b></td>
     <td>Datanet</td>
     <td>Medium</td>
     <td>Bug</td>
@@ -4501,7 +4501,7 @@
     <td>The score for Claim Appeals Resolved &lt;= 20 Days is calculated even if only one of Home/Host Home Claim Appeals Resolved &lt;= 20 Days and one of Home/Host Claim Appeals Resolved Total is entered. You can even enter Home Total and Host &lt;= 20 and get a score. Each of the 4 inputs be required to get a score.</td>
   </tr>
   <tr>
-    <td>**ETL rolling log update**</td>
+    <td><b>ETL rolling log update</b></td>
     <td>ETL</td>
     <td>Medium</td>
     <td>Enhancement</td>
@@ -4510,7 +4510,7 @@
     <td>ES being in read only mode is only logged when the status changes or on start-up of ETL; if it is in read-only mode and the log is rolled or files are loaded, etc., no additional notification is given; this can result in no ES files being loaded with no obvious explanation</td>
   </tr>
   <tr>
-    <td>**Limit scorecard calculation to current date**</td>
+    <td><b>Limit scorecard calculation to current date</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Defect</td>
@@ -4519,7 +4519,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>**Display FlexReport column descriptions**</td>
+    <td><b>Display FlexReport column descriptions</b></td>
     <td>Datanet</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4528,7 +4528,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>**Evaluate field validation**</td>
+    <td><b>Evaluate field validation</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4537,7 +4537,7 @@
     <td>Any validation desired for additional fields from the files? Review e.g. Plan Codes, Host/Home Indicator, Disposition Code.</td>
   </tr>
   <tr>
-    <td>**Add selective restore limit property**</td>
+    <td><b>Add selective restore limit property</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4546,7 +4546,7 @@
     <td>Add an optional setting to dn3.properties to override the 4096 claim experience limit for selective restore</td>
   </tr>
   <tr>
-    <td>**Add weekly option to graphs**</td>
+    <td><b>Add weekly option to graphs</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4555,7 +4555,7 @@
     <td>Add an option on graphs for weekly (need to determine what day to use) (requested during Premera demo)</td>
   </tr>
   <tr>
-    <td>**Create eLearning downloadable/printable document**</td>
+    <td><b>Create eLearning downloadable/printable document</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4564,7 +4564,7 @@
     <td>Create an downloadable/printable version of eLearning (requested during Premera demo)</td>
   </tr>
   <tr>
-    <td>**Limit Latest Loading Gaps check**</td>
+    <td><b>Limit Latest Loading Gaps check</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4573,7 +4573,7 @@
     <td>Add an optional setting to dn3.properties to limit how far back the Latest Loading Gaps section checks</td>
   </tr>
   <tr>
-    <td>**Check for files to merge before going to scorecard?**</td>
+    <td><b>Check for files to merge before going to scorecard?</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4582,7 +4582,7 @@
     <td>Should ETL check for more files to merge instead of going from merge to scorecard calculation? Need to determine if Anthem would prefer this, how likely it is to let more FlexReport data be in before 7 based on existing logs (Charlie to look into this), etc.</td>
   </tr>
   <tr>
-    <td>**Partition data by region?**</td>
+    <td><b>Partition data by region?</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancment</td>
@@ -4591,7 +4591,7 @@
     <td>Should ETL partition data by region to allow merging of a given file to be limited to the data affected by the file's region? Needs discussion. Also want to evaluate performance after 17.5 implementation in production.</td>
   </tr>
   <tr>
-    <td>**DEID tool updates**</td>
+    <td><b>DEID tool updates</b></td>
     <td>Utility</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4600,7 +4600,7 @@
     <td>Update DEID tool to leave elements in Payload that are used by Datanet/ETL - Values can be obscured but should remain</td>
   </tr>
   <tr>
-    <td>**SCCF/MSG/Sub ID obfuscation tool**</td>
+    <td><b>SCCF/MSG/Sub ID obfuscation tool</b></td>
     <td>Utility</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4609,7 +4609,7 @@
     <td>Create tool to obfuscate all SCCF fields, all MSG_ID fields, and Sub ID Suffix so data is not recognizable. This combined with the DEID tool will allow more production-like demo data based on files from Anthem without the IDs being real (unless by coincidence only)</td>
   </tr>
   <tr>
-    <td>**Add log entry for when summary email is sent**</td>
+    <td><b>Add log entry for when summary email is sent</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4618,7 +4618,7 @@
     <td>A log message should be added for when the summary email is successfully sent (the log entry for when the generation starts should stay as it is)</td>
   </tr>
   <tr>
-    <td>**Configurable Timeout Threshold for ES Connection**</td>
+    <td><b>Configurable Timeout Threshold for ES Connection</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4627,7 +4627,7 @@
     <td>Currently there is no configurable timeout threshold. Requesting to add a timeout threshold value to dn3.properties. Currently the connection to elasticsearch is very delicate. This would allow the connection to better adapt to the network environment and reduce the number of failed loads.</td>
   </tr>
   <tr>
-    <td>**Create tool for scorecard recalculation**</td>
+    <td><b>Create tool for scorecard recalculation</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4636,7 +4636,7 @@
     <td>Create tool to validate the requested interval to be resubmitted for calculation and to submit it if valid. At a minimum, should accept a start date and submit a recalculation of dates from the start date through the last date in the database with a calculated input. If the latest calculated value is from before the submitted start date, report error and do not submit for recalculation. Could be other scenarios that we could discuss.</td>
   </tr>
   <tr>
-    <td>**User manual within app**</td>
+    <td><b>User manual within app</b></td>
     <td>Datanet</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4645,7 +4645,7 @@
     <td>Add a link to the user manual from within the application</td>
   </tr>
   <tr>
-    <td>**Send notification on merge**</td>
+    <td><b>Send notification on merge</b></td>
     <td>ETL</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4654,7 +4654,7 @@
     <td>Add notification when data from files are fully accounted for; TN had merge issues but summary email indicated the files were loaded successfully; since merge wasn't running successfully, the data was not accounted for properly (requested by TN/Tony); this could be handled by providing email notification of ETL errors in general</td>
   </tr>
   <tr>
-    <td>**Unchanged inputs submitted on save in new UI**</td>
+    <td><b>Unchanged inputs submitted on save in new UI</b></td>
     <td>Datanet</td>
     <td>Low</td>
     <td>Enhancement</td>
@@ -4676,14 +4676,14 @@
     <th>Details</th>
   </tr>
   <tr>
-    <td>**Upgrade process: Handle Elasticsearch records that should have purged**</td>
+    <td><b>Upgrade process: Handle Elasticsearch records that should have purged</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Defect</td>
     <td>Clean up for bug Bug #1559, fixed in 16.0.</td>
   </tr>
   <tr>
-    <td>**Out of Memory Handling**</td>
+    <td><b>Out of Memory Handling</b></td>
     <td>ETL</td>
     <td>High</td>
     <td>Defect</td>

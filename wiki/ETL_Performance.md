@@ -59,9 +59,9 @@ and deserialization of 500000 Entry objects.
 
 <table>
   <tr align="center">
-    <th colspan="5">5" style="background: #efefef;"  Parameters</th>
-    <th>1" style="background: #efefef;"  Memory Times</th>
-    <th colspan="2">2" style="background: #efefef;"  Disk Times</th>
+    <th colspan="5">  Parameters</th>
+    <th>  Memory Times</th>
+    <th colspan="2">  Disk Times</th>
   </tr>
   <tr align="center">
     <th>scope="col"  Trial</th>
@@ -167,9 +167,9 @@ and deserialization of 100000000 EntryB objects.
 
 <table>
   <tr align="center">
-    <th colspan="5">5" style="background: #efefef;"  Parameters</th>
-    <th>1" style="background: #efefef;"  Memory Times</th>
-    <th colspan="2">2" style="background: #efefef;"  Disk Times</th>
+    <th colspan="5">  Parameters</th>
+    <th>  Memory Times</th>
+    <th colspan="2">  Disk Times</th>
   </tr>
   <tr align="center">
     <th>scope="col"  Trial</th>
@@ -407,10 +407,10 @@ set).
 
 <table>
   <tr align="center">
-    <th colspan="4">4" style="background: #efefef;"  Parameters</th>
-    <th colspan="3">3" style="background: #efefef;"  LZF</th>
-    <th colspan="3">3" style="background: #efefef;"  Snappy</th>
-    <th colspan="2">2" style="background: #efefef;"  LZ4</th>
+    <th colspan="4">  Parameters</th>
+    <th colspan="3">  LZF</th>
+    <th colspan="3">  Snappy</th>
+    <th colspan="2">  LZ4</th>
   </tr>
   <tr align="center">
     <th>scope="col"  Trial</th>
@@ -491,10 +491,10 @@ EntryB objects).
 
 <table>
   <tr align="center">
-    <th colspan="4">4" style="background: #efefef;"  Parameters</th>
-    <th colspan="3">3" style="background: #efefef;"  LZF</th>
-    <th colspan="3">3" style="background: #efefef;"  Snappy</th>
-    <th colspan="2">2" style="background: #efefef;"  LZ4</th>
+    <th colspan="4">  Parameters</th>
+    <th colspan="3">  LZF</th>
+    <th colspan="3">  Snappy</th>
+    <th colspan="2">  LZ4</th>
   </tr>
   <tr align="center">
     <th>scope="col"  Trial</th>
@@ -734,8 +734,8 @@ TODO
 
 <table>
   <tr align="center">
-    <th colspan="11">11" style="background: #efefef;"  Parameters</th>
-    <th colspan="3">3" style="background: #efefef;"  Results</th>
+    <th colspan="11">  Parameters</th>
+    <th colspan="3">  Results</th>
   </tr>
   <tr align="center">
     <th>scope="col"  Start State</th>

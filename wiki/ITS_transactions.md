@@ -109,7 +109,7 @@ for NFs, but no further work will occur for them.
     <td>CFA Code != 0</td>
   </tr>
   <tr>
-    <td colspan="4">4"  ...</td>
+    <td colspan="4">  ...</td>
   </tr>
   <tr>
     <td>99</td>
@@ -160,7 +160,7 @@ using its own fields, setting Date Closed to its own Date Started:
 
 <table>
   <tr>
-    <th colspan="3">3"</th>
+    <th colspan="3"></th>
     <th>Applies To</th>
     <th rowspan="2"></th>
     <th>Scenario</th>
@@ -190,7 +190,7 @@ using its own fields, setting Date Closed to its own Date Started:
     <td>Yes</td>
     <td>Yes</td>
     <td></td>
-    <td>**Out of scope:** Program == '6'&lt;br&gt;NOTE: As of the 20.0 ETL update 3.11.1, there will be no PGM_CD=6 considerations</td>
+    <td><b>Out of scope:</b> Program == '6'&lt;br&gt;NOTE: As of the 20.0 ETL update 3.11.1, there will be no PGM_CD=6 considerations</td>
     <td>Custom transactions are Plan-configurable in BCBSA software to either close immediately or remain open. Therefore, Datanet does not implement this logic but simply relies on the file to populate Date Closed if the Plan configured them to close immediately.&lt;br&gt;NOTE: As of the 20.0 ETL update 3.11.1, there will be no PGM_CD=6 considerations</td>
   </tr>
   <tr>

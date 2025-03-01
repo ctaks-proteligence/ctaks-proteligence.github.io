@@ -83,35 +83,35 @@ The following columns exist in the file:
   </tr>
   <tr>
     <td>Host_Home_Ind</td>
-    <td>**Yes**</td>
+    <td><b>Yes</b></td>
     <td>No</td>
     <td>String</td>
     <td>The perspective; the values match those used by IPDS ('1' = Host, '2' = Home)</td>
   </tr>
   <tr>
     <td>Report_Date</td>
-    <td>**Yes**</td>
-    <td>**Yes**</td>
+    <td><b>Yes</b></td>
+    <td><b>Yes</b></td>
     <td>Date (YYYY-MM-DD)</td>
     <td>The report date for which the E2E values apply</td>
   </tr>
   <tr>
     <td>Plan</td>
-    <td>**Yes**</td>
+    <td><b>Yes</b></td>
     <td>No</td>
     <td>String</td>
     <td>The Plan associated with the data; maps to Performance Level(s)</td>
   </tr>
   <tr>
     <td>Partner</td>
-    <td>**Yes**</td>
+    <td><b>Yes</b></td>
     <td>No</td>
     <td>String</td>
     <td>The Partner Plan associated with the data</td>
   </tr>
   <tr>
     <td>Claim_Type</td>
-    <td>**Yes**</td>
+    <td><b>Yes</b></td>
     <td>No</td>
     <td>String</td>
     <td>The Claim Type of the data which should be one of the following:* Inpatient* Outpatient* Professional* Overall

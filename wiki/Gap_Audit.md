@@ -161,19 +161,19 @@ A claim experience is missing records if any of the following are true:
     <td>Status Code</td>
     <td>==</td>
     <td>V</td>
-    <td>**Valid**: Only valid records move the claim experience forward.</td>
+    <td><b>Valid</b>: Only valid records move the claim experience forward.</td>
   </tr>
   <tr>
     <td>Estimate Indicator</td>
     <td>!=</td>
     <td>E</td>
-    <td>**Not Estimate**: Only non-estimates move the claim experience forward.</td>
+    <td><b>Not Estimate</b>: Only non-estimates move the claim experience forward.</td>
   </tr>
   <tr>
     <td>Program Code</td>
     <td>!=</td>
     <td>6</td>
-    <td>**Not Custom**: Logic for Custom records is Plan-specific and is therefore currently out of scope.</td>
+    <td><b>Not Custom</b>: Logic for Custom records is Plan-specific and is therefore currently out of scope.</td>
   </tr>
 </table>
 <br  />
