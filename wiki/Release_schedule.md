@@ -606,8 +606,7 @@
 
 <table>
   <tr>
-    <td>'''Additional Report Columns'''</td>
-  <td><table>
+    <td>'''Additional Report Columns'''  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -1142,8 +1141,7 @@
 
 <table>
   <tr>
-    <td>'''Additional FlexReport Columns'''</td>
-  <td><table>
+    <td>'''Additional FlexReport Columns'''  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -1211,8 +1209,7 @@
 
 <table>
   <tr>
-    <td>'''Additional FlexReport Columns'''</td>
-  <td><table>
+    <td>'''Additional FlexReport Columns'''  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -1256,8 +1253,7 @@
 
 <table>
   <tr>
-    <td>'''Additional FlexReport Columns'''</td>
-  <td><table>
+    <td>'''Additional FlexReport Columns'''  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -1376,8 +1372,7 @@
 
 <table>
   <tr>
-    <td>'''Additional FlexReport Columns'''</td>
-  <td><table>
+    <td>'''Additional FlexReport Columns'''  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -1503,8 +1498,7 @@
 
 <table>
   <tr>
-    <td>'''Additional FlexReport Columns'''</td>
-  <td><table>
+    <td>'''Additional FlexReport Columns'''  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -1743,8 +1737,7 @@
 
 <table>
   <tr>
-    <td>'''Additional FlexReport Columns'''</td>
-  <td><table>
+    <td>'''Additional FlexReport Columns'''  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -1911,8 +1904,7 @@
 
 <table>
   <tr>
-    <td>'''Additional FlexReport Columns'''</td>
-  <td><table>
+    <td>'''Additional FlexReport Columns'''  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -1986,8 +1978,7 @@
 
 <table>
   <tr>
-    <td>'''Additional FlexReport Columns'''</td>
-  <td><table>
+    <td>'''Additional FlexReport Columns'''  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -2134,8 +2125,7 @@
 
 <table>
   <tr>
-    <td>'''Additional FlexReport Columns'''</td>
-  <td><table>
+    <td>'''Additional FlexReport Columns'''  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -2541,8 +2531,7 @@
     <td>Enhancement</td>
     <td>See Details</td>
     <td>See Details</td>
-    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.</td>
-  <td><table>
+    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -2562,8 +2551,7 @@
     <td>High</td>
     <td>Enhancement</td>
     <td>See Details</td>
-    <td>See Details</td>
-  <td><table>
+    <td>See Details  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -2697,8 +2685,7 @@
     <td>Enhancement</td>
     <td>See Details</td>
     <td>See Details</td>
-    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.</td>
-  <td><table>
+    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -2718,8 +2705,7 @@
     <td>High</td>
     <td>Enhancement</td>
     <td>See Details</td>
-    <td>See Details</td>
-  <td><table>
+    <td>See Details  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -2918,8 +2904,7 @@
     <td>Enhancement</td>
     <td>See Details</td>
     <td>See Details</td>
-    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.</td>
-  <td><table>
+    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -2965,8 +2950,7 @@
     <td>Enhancement</td>
     <td>See Details</td>
     <td>See Details</td>
-    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.</td>
-  <td><table>
+    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -2987,8 +2971,7 @@
     <td>High</td>
     <td>Enhancement</td>
     <td>See Details</td>
-    <td>See Details</td>
-  <td><table>
+    <td>See Details  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -3329,8 +3312,7 @@
     <td>Enhancement</td>
     <td>See Details</td>
     <td>See Details</td>
-    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.</td>
-  <td><table>
+    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -3387,8 +3369,7 @@ NOTE: - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with
     <td>Enhancement</td>
     <td>See Details</td>
     <td>See Details</td>
-    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.</td>
-  <td><table>
+    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -3409,8 +3390,7 @@ NOTE: - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with
     <td>High</td>
     <td>Enhancement</td>
     <td>See Details</td>
-    <td>See Details</td>
-  <td><table>
+    <td>See Details  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -3773,8 +3753,7 @@ NOTE: - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with
     <td>Enhancement</td>
     <td>See Details</td>
     <td>See Details</td>
-    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.</td>
-  <td><table>
+    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.  <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -3809,8 +3788,7 @@ NOTE: - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with
     <td>See Details</td>
     <td>See Details</td>
     <td>As requested by Plans. All are only available, not visible by default on any view. None are added as statistics.'''Approved:''' (none)'''Proposed:'''
-    </td>
-  <td><table>
+      <table>
   <tr>
     <th>Bug</th>
     <th>Status</th>
@@ -4080,8 +4058,7 @@ NOTE: - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with
     <td>Mandatory</td>
     <td>Enhancement</td>
     <td>Testing</td>
-    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.</td>
-  <td><table>
+    <td>Updates to data extracts or scorecard logic as dictated by BCBSA updates.  <table>
   <tr>
     <th>BCBSA Ticket</th>
     <th>Comments</th>
@@ -4099,8 +4076,7 @@ NOTE: - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with
     <td>Enhancement</td>
     <td>Development</td>
     <td>As requested by Plans. All are only available, not visible by default on any view. None are added as statistics.'''Approved:'''
-    </td>
-  <td><table>
+      <table>
   <tr>
     <th>Title</th>
     <th>BCBSA Field</th>
@@ -4248,8 +4224,7 @@ NOTE: - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with
     <td>ETL/Datanet</td>
     <td>High</td>
     <td>Enhancement</td>
-    <td>Plans have requested additional FlexReport columns: Medical Record Attachment Type, Date of Service range, Blue^2 comments; as well as Ages and Cycle Times not currently provided for existing dates (e.g. Date Status). All are only available, not visible by default on any view. None are added as statistics.</td>
-  <td><table>
+    <td>Plans have requested additional FlexReport columns: Medical Record Attachment Type, Date of Service range, Blue^2 comments; as well as Ages and Cycle Times not currently provided for existing dates (e.g. Date Status). All are only available, not visible by default on any view. None are added as statistics.  <table>
   <tr>
     <th>Title</th>
     <th>BCBSA Field</th>
