@@ -24,15 +24,15 @@ Total record count was ~1.1 million.
 
 <table>
   <tr align="center">
-    <th>Num Partitions</th>
-    <th>3.2.5 IPDS  Init</th>
-    <th>3.3.0 IPDS  Init</th>
-    <th>3.3.0 IPDS  Init w/ Date Based Purge</th>
-    <th>3.3.0 IPDS w/ LCD  Init</th>
-    <th>3.2.5 IPDS Incr</th>
-    <th>3.3.0 IPDS Incr</th>
-    <th>3.3.0 IPDS Incr w/ Date Based Purge</th>
-    <th>3.3.0 IPDS w/ LCD Incr</th>
+    <th>scope="col"  Num Partitions</th>
+    <th>scope="col"  3.2.5 IPDS  Init</th>
+    <th>scope="col"  3.3.0 IPDS  Init</th>
+    <th>scope="col"  3.3.0 IPDS  Init w/ Date Based Purge</th>
+    <th>scope="col"  3.3.0 IPDS w/ LCD  Init</th>
+    <th>scope="col"  3.2.5 IPDS Incr</th>
+    <th>scope="col"  3.3.0 IPDS Incr</th>
+    <th>scope="col"  3.3.0 IPDS Incr w/ Date Based Purge</th>
+    <th>scope="col"  3.3.0 IPDS w/ LCD Incr</th>
   </tr>
   <tr align="center">
     <td>1</td>
@@ -119,19 +119,19 @@ Total record count was ~1.1 million.
 
 <table>
   <tr align="center">
-    <th>Num Partitions</th>
-    <th>AWS Init Load Time</th>
-    <th>SL Init Load Time</th>
-    <th>AWS Init Sort Time</th>
-    <th>SL Init Sort Time</th>
-    <th>AWS Init Merge Time</th>
-    <th>SL Init Merge Time</th>
-    <th>AWS Incr Load Time</th>
-    <th>SL Incr Load Time</th>
-    <th>AWS Incr Sort Time</th>
-    <th>SL Incr Sort Time</th>
-    <th>AWS Incr Merge Time</th>
-    <th>SL Incr Merge Time</th>
+    <th>scope="col"  Num Partitions</th>
+    <th>scope="col"  AWS Init Load Time</th>
+    <th>scope="col"  SL Init Load Time</th>
+    <th>scope="col"  AWS Init Sort Time</th>
+    <th>scope="col"  SL Init Sort Time</th>
+    <th>scope="col"  AWS Init Merge Time</th>
+    <th>scope="col"  SL Init Merge Time</th>
+    <th>scope="col"  AWS Incr Load Time</th>
+    <th>scope="col"  SL Incr Load Time</th>
+    <th>scope="col"  AWS Incr Sort Time</th>
+    <th>scope="col"  SL Incr Sort Time</th>
+    <th>scope="col"  AWS Incr Merge Time</th>
+    <th>scope="col"  SL Incr Merge Time</th>
   </tr>
   <tr align="center">
     <td>1</td>

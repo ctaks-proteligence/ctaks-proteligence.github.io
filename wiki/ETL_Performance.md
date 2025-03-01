@@ -59,19 +59,19 @@ and deserialization of 500000 Entry objects.
 
 <table>
   <tr align="center">
-    <th colspan="5">Parameters</th>
-    <th>Memory Times</th>
-    <th colspan="2">Disk Times</th>
+    <th colspan="5">colspan="5" style="background: #efefef;"  Parameters</th>
+    <th>colspan="1" style="background: #efefef;"  Memory Times</th>
+    <th colspan="2">colspan="2" style="background: #efefef;"  Disk Times</th>
   </tr>
   <tr align="center">
-    <th>Trial</th>
-    <th>Serializer Type</th>
-    <th>Compressed</th>
-    <th>Compatible</th>
-    <th>Class and Object</th>
-    <th>Serialization (ms)</th>
-    <th>Serialization (ms)</th>
-    <th>Deserialization (ms)</th>
+    <th>scope="col"  Trial</th>
+    <th>scope="col"  Serializer Type</th>
+    <th>scope="col"  Compressed</th>
+    <th>scope="col"  Compatible</th>
+    <th>scope="col"  Class and Object</th>
+    <th>scope="col"  Serialization (ms)</th>
+    <th>scope="col"  Serialization (ms)</th>
+    <th>scope="col"  Deserialization (ms)</th>
   </tr>
   <tr align="center">
     <td>1</td>
@@ -167,19 +167,19 @@ and deserialization of 100000000 EntryB objects.
 
 <table>
   <tr align="center">
-    <th colspan="5">Parameters</th>
-    <th>Memory Times</th>
-    <th colspan="2">Disk Times</th>
+    <th colspan="5">colspan="5" style="background: #efefef;"  Parameters</th>
+    <th>colspan="1" style="background: #efefef;"  Memory Times</th>
+    <th colspan="2">colspan="2" style="background: #efefef;"  Disk Times</th>
   </tr>
   <tr align="center">
-    <th>Trial</th>
-    <th>Serializer Type</th>
-    <th>Compressed</th>
-    <th>Compatible</th>
-    <th>Class and Object</th>
-    <th>Serialization (ms)</th>
-    <th>Serialization (ms)</th>
-    <th>Deserialization (ms)</th>
+    <th>scope="col"  Trial</th>
+    <th>scope="col"  Serializer Type</th>
+    <th>scope="col"  Compressed</th>
+    <th>scope="col"  Compatible</th>
+    <th>scope="col"  Class and Object</th>
+    <th>scope="col"  Serialization (ms)</th>
+    <th>scope="col"  Serialization (ms)</th>
+    <th>scope="col"  Deserialization (ms)</th>
   </tr>
   <tr align="center">
     <td>1</td>
@@ -407,24 +407,24 @@ set).
 
 <table>
   <tr align="center">
-    <th colspan="4">Parameters</th>
-    <th colspan="3">LZF</th>
-    <th colspan="3">Snappy</th>
-    <th colspan="2">LZ4</th>
+    <th colspan="4">colspan="4" style="background: #efefef;"  Parameters</th>
+    <th colspan="3">colspan="3" style="background: #efefef;"  LZF</th>
+    <th colspan="3">colspan="3" style="background: #efefef;"  Snappy</th>
+    <th colspan="2">colspan="2" style="background: #efefef;"  LZ4</th>
   </tr>
   <tr align="center">
-    <th>Trial</th>
-    <th>Serialization Type</th>
-    <th>Compatible</th>
-    <th>Class and Object</th>
-    <th>Serialization (ms)</th>
-    <th>Deserialization (ms)</th>
-    <th>Size On Disk (kb)</th>
-    <th>Serialization (ms)</th>
-    <th>Deserialization (ms)</th>
-    <th>Size On Disk (kb)</th>
-    <th>Serialization (ms)</th>
-    <th>Deserialization (ms)</th>
+    <th>scope="col"  Trial</th>
+    <th>scope="col"  Serialization Type</th>
+    <th>scope="col"  Compatible</th>
+    <th>scope="col"  Class and Object</th>
+    <th>scope="col"  Serialization (ms)</th>
+    <th>scope="col"  Deserialization (ms)</th>
+    <th>scope="col"  Size On Disk (kb)</th>
+    <th>scope="col"  Serialization (ms)</th>
+    <th>scope="col"  Deserialization (ms)</th>
+    <th>scope="col"  Size On Disk (kb)</th>
+    <th>scope="col"  Serialization (ms)</th>
+    <th>scope="col"  Deserialization (ms)</th>
   </tr>
   <tr align="center">
     <td>1</td>
@@ -491,24 +491,24 @@ EntryB objects).
 
 <table>
   <tr align="center">
-    <th colspan="4">Parameters</th>
-    <th colspan="3">LZF</th>
-    <th colspan="3">Snappy</th>
-    <th colspan="2">LZ4</th>
+    <th colspan="4">colspan="4" style="background: #efefef;"  Parameters</th>
+    <th colspan="3">colspan="3" style="background: #efefef;"  LZF</th>
+    <th colspan="3">colspan="3" style="background: #efefef;"  Snappy</th>
+    <th colspan="2">colspan="2" style="background: #efefef;"  LZ4</th>
   </tr>
   <tr align="center">
-    <th>Trial</th>
-    <th>Serialization Type</th>
-    <th>Compatible</th>
-    <th>Class and Object</th>
-    <th>Serialization (ms)</th>
-    <th>Deserialization (ms)</th>
-    <th>Size On Disk (kb)</th>
-    <th>Serialization (ms)</th>
-    <th>Deserialization (ms)</th>
-    <th>Size On Disk (kb)</th>
-    <th>Serialization (ms)</th>
-    <th>Deserialization (ms)</th>
+    <th>scope="col"  Trial</th>
+    <th>scope="col"  Serialization Type</th>
+    <th>scope="col"  Compatible</th>
+    <th>scope="col"  Class and Object</th>
+    <th>scope="col"  Serialization (ms)</th>
+    <th>scope="col"  Deserialization (ms)</th>
+    <th>scope="col"  Size On Disk (kb)</th>
+    <th>scope="col"  Serialization (ms)</th>
+    <th>scope="col"  Deserialization (ms)</th>
+    <th>scope="col"  Size On Disk (kb)</th>
+    <th>scope="col"  Serialization (ms)</th>
+    <th>scope="col"  Deserialization (ms)</th>
   </tr>
   <tr align="center">
     <td>1</td>
@@ -734,24 +734,24 @@ TODO
 
 <table>
   <tr align="center">
-    <th colspan="11">Parameters</th>
-    <th colspan="3">Results</th>
+    <th colspan="11">colspan="11" style="background: #efefef;"  Parameters</th>
+    <th colspan="3">colspan="3" style="background: #efefef;"  Results</th>
   </tr>
   <tr align="center">
-    <th>Start State</th>
-    <th>Record Count</th>
-    <th>File Count</th>
-    <th>Disk Type</th>
-    <th>Partition Count</th>
-    <th>CDF Compression</th>
-    <th>Temp File Compression</th>
-    <th>Concurrency</th>
-    <th>Buffer Size</th>
-    <th>Sort Threshold</th>
-    <th>Max Merge Files</th>
-    <th>Sort Time (ms)</th>
-    <th>Merge Rounds</th>
-    <th>Merge Time (ms)</th>
+    <th>scope="col"  Start State</th>
+    <th>scope="col"  Record Count</th>
+    <th>scope="col"  File Count</th>
+    <th>scope="col"  Disk Type</th>
+    <th>scope="col"  Partition Count</th>
+    <th>scope="col"  CDF Compression</th>
+    <th>scope="col"  Temp File Compression</th>
+    <th>scope="col"  Concurrency</th>
+    <th>scope="col"  Buffer Size</th>
+    <th>scope="col"  Sort Threshold</th>
+    <th>scope="col"  Max Merge Files</th>
+    <th>scope="col"  Sort Time (ms)</th>
+    <th>scope="col"  Merge Rounds</th>
+    <th>scope="col"  Merge Time (ms)</th>
   </tr>
   <tr align="center">
     <td>SORT</td>

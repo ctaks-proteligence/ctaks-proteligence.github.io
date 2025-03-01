@@ -206,10 +206,10 @@ Claim key tested is:
 
 <table>
   <tr align="center">
-    <th rowspan="2">All Closed</th>
-    <th colspan="3">for greatest sccf suffix</th>
-    <th rowspan="2">newer slective purge rec exists?</th>
-    <th rowspan="2">should be purged?</th>
+    <th rowspan="2">rowspan="2"All Closed</th>
+    <th colspan="3">colspan="3"for greatest sccf suffix</th>
+    <th rowspan="2">rowspan="2"newer slective purge rec exists?</th>
+    <th rowspan="2">rowspan="2"should be purged?</th>
   </tr>
   <tr align="center">
     <th>adj resp msg with act_cd 301 or 304 exists?</th>

@@ -103,22 +103,22 @@ The following columns exist in the file:
   </tr>
   <tr>
     <td>System</td>
-    <td>'''Yes'''</td>
+    <td>**Yes**</td>
     <td>No</td>
     <td>String</td>
     <td>The system that generated the file</td>
   </tr>
   <tr>
     <td>Group</td>
-    <td>'''Yes'''</td>
+    <td>**Yes**</td>
     <td>No</td>
     <td>String</td>
     <td>The group associated with the record; maps to Performance Level(s)</td>
   </tr>
   <tr>
     <td>Call_Date</td>
-    <td>'''Yes'''</td>
-    <td>'''Yes'''</td>
+    <td>**Yes**</td>
+    <td>**Yes**</td>
     <td>Date (YYYY-MM-DD)</td>
     <td>The date on which the calls were received</td>
   </tr>
@@ -173,28 +173,28 @@ The following columns exist in the file:
   </tr>
   <tr>
     <td>System</td>
-    <td>'''Yes'''</td>
+    <td>**Yes**</td>
     <td>No</td>
     <td>String</td>
     <td>The system that generated the file</td>
   </tr>
   <tr>
     <td>Group</td>
-    <td>'''Yes'''</td>
+    <td>**Yes**</td>
     <td>No</td>
     <td>String</td>
     <td>The group associated with the record; maps to Performance Level(s)</td>
   </tr>
   <tr>
     <td>Host_Home_Ind</td>
-    <td>'''Yes'''</td>
+    <td>**Yes**</td>
     <td>No</td>
     <td>String</td>
     <td>The perspective; the values match those used by IPDS ('1' = Host, '2' = Home)</td>
   </tr>
   <tr>
     <td>Inquiry_Number</td>
-    <td>'''Yes'''</td>
+    <td>**Yes**</td>
     <td>No</td>
     <td>String</td>
     <td>The key in the source inquiry system</td>
@@ -209,7 +209,7 @@ The following columns exist in the file:
   <tr>
     <td>Close_Date</td>
     <td>No</td>
-    <td>'''Yes'''</td>
+    <td>**Yes**</td>
     <td>Date (YYYY-MM-DD)</td>
     <td>The end date of the inquiry</td>
   </tr>
@@ -256,7 +256,7 @@ Each input increments its value by one according to the following:
     <td>No</td>
     <td>No</td>
     <td>No</td>
-    <td>'''Yes'''</td>
+    <td>**Yes**</td>
     <td>No</td>
     <td>No</td>
   </tr>
@@ -265,8 +265,8 @@ Each input increments its value by one according to the following:
     <td>No</td>
     <td>No</td>
     <td>No</td>
-    <td>'''Yes'''</td>
-    <td>'''Yes'''</td>
+    <td>**Yes**</td>
+    <td>**Yes**</td>
     <td>No</td>
   </tr>
   <tr>
@@ -274,13 +274,13 @@ Each input increments its value by one according to the following:
     <td>No</td>
     <td>No</td>
     <td>No</td>
-    <td>'''Yes'''</td>
-    <td>'''Yes'''</td>
-    <td>'''Yes'''</td>
+    <td>**Yes**</td>
+    <td>**Yes**</td>
+    <td>**Yes**</td>
   </tr>
   <tr>
     <td>Host/Par Inquiries Resolved &lt;= 7 Days</td>
-    <td>'''Yes'''</td>
+    <td>**Yes**</td>
     <td>No</td>
     <td>No</td>
     <td>No</td>
@@ -289,8 +289,8 @@ Each input increments its value by one according to the following:
   </tr>
   <tr>
     <td>Host/Par Inquiries Resolved &lt;= 30 Days</td>
-    <td>'''Yes'''</td>
-    <td>'''Yes'''</td>
+    <td>**Yes**</td>
+    <td>**Yes**</td>
     <td>No</td>
     <td>No</td>
     <td>No</td>
@@ -298,9 +298,9 @@ Each input increments its value by one according to the following:
   </tr>
   <tr>
     <td>Host/Par Inquiries Resolved Total</td>
-    <td>'''Yes'''</td>
-    <td>'''Yes'''</td>
-    <td>'''Yes'''</td>
+    <td>**Yes**</td>
+    <td>**Yes**</td>
+    <td>**Yes**</td>
     <td>No</td>
     <td>No</td>
     <td>No</td>
