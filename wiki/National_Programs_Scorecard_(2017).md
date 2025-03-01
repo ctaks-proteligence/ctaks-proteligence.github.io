@@ -160,10 +160,10 @@ processed \[i.e. PRSD exists in its Message State history\].)
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>
@@ -196,11 +196,11 @@ once towards each input for this measure.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"</th>
-    <th rowspan="2">rowspan="2"  Date Field</th>
-    <th rowspan="2">rowspan="2"  Order</th>
-    <th rowspan="2">rowspan="2"  Record</th>
-    <th colspan="2">colspan="2"  Restriction</th>
+    <th rowspan="2"></th>
+    <th rowspan="2">Date Field</th>
+    <th rowspan="2">Order</th>
+    <th rowspan="2">Record</th>
+    <th colspan="2">2"  Restriction</th>
   </tr>
   <tr>
     <th>Field</th>
@@ -211,13 +211,13 @@ once towards each input for this measure.
     <td>Date Posted</td>
     <td align="center">align="center"  1</td>
     <td>SF</td>
-    <td colspan="2">colspan="2"  (none)</td>
+    <td colspan="2">2"  (none)</td>
   </tr>
   <tr>
-    <td rowspan="3">rowspan="3"  Finish</td>
-    <td rowspan="3">rowspan="3"  Date Created</td>
-    <td rowspan="3" align="center">rowspan="3" align="center"  2</td>
-    <td rowspan="3">rowspan="3"  DF</td>
+    <td rowspan="3">Finish</td>
+    <td rowspan="3">Date Created</td>
+    <td rowspan="3" align="center">2</td>
+    <td rowspan="3">DF</td>
     <td>SCCF Suffix</td>
     <td>00 (Original)</td>
   </tr>
@@ -273,10 +273,10 @@ once towards each input for this measure.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>
@@ -302,11 +302,11 @@ once towards each input for this measure.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"</th>
-    <th rowspan="2">rowspan="2"  Date Field</th>
-    <th rowspan="2">rowspan="2"  Order</th>
-    <th rowspan="2">rowspan="2"  Record</th>
-    <th colspan="2">colspan="2"  Restriction</th>
+    <th rowspan="2"></th>
+    <th rowspan="2">Date Field</th>
+    <th rowspan="2">Order</th>
+    <th rowspan="2">Record</th>
+    <th colspan="2">2"  Restriction</th>
   </tr>
   <tr>
     <th>Field</th>
@@ -315,10 +315,10 @@ once towards each input for this measure.
   <tr>
     <td>Start</td>
     <td>Date Host Rcpt</td>
-    <td rowspan="2" align="center">rowspan="2" align="center"  1</td>
-    <td rowspan="2">rowspan="2"  SF</td>
-    <td rowspan="2">rowspan="2"  Submission Type</td>
-    <td rowspan="2">rowspan="2"  1, 2 (Original, Resubmitted Original)</td>
+    <td rowspan="2" align="center">1</td>
+    <td rowspan="2">SF</td>
+    <td rowspan="2">Submission Type</td>
+    <td rowspan="2">1, 2 (Original, Resubmitted Original)</td>
   </tr>
   <tr>
     <td>Finish</td>
@@ -376,10 +376,10 @@ once towards each input for this measure.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>
@@ -433,11 +433,11 @@ optional presence of the Cross-Reference SF.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"</th>
-    <th rowspan="2" colspan="2">colspan="2" rowspan="2"  Date Field</th>
-    <th colspan="2">colspan="2"  Order</th>
-    <th rowspan="2">rowspan="2"  Record</th>
-    <th colspan="2">colspan="2"  Restriction</th>
+    <th rowspan="2"></th>
+    <th rowspan="2" colspan="2">2"   Date Field</th>
+    <th colspan="2">2"  Order</th>
+    <th rowspan="2">Record</th>
+    <th colspan="2">2"  Restriction</th>
   </tr>
   <tr>
     <th>Path A</th>
@@ -446,11 +446,11 @@ optional presence of the Cross-Reference SF.
     <th>Criteria</th>
   </tr>
   <tr>
-    <td rowspan="3">rowspan="3"  Start</td>
-    <td rowspan="2">rowspan="2"  Date Created</td>
-    <td rowspan="3">rowspan="3"  (the later of those records present and considered)</td>
-    <td rowspan="2" colspan="2" align="center">colspan="2" rowspan="2" align="center"  1</td>
-    <td rowspan="2">rowspan="2"  ADJUST request</td>
+    <td rowspan="3">Start</td>
+    <td rowspan="2">Date Created</td>
+    <td rowspan="3">(the later of those records present and considered)</td>
+    <td rowspan="2" colspan="2" align="center">2"   1</td>
+    <td rowspan="2">ADJUST request</td>
     <td>Direction</td>
     <td>Received</td>
   </tr>
@@ -460,23 +460,23 @@ optional presence of the Cross-Reference SF.
   </tr>
   <tr>
     <td>Date Posted</td>
-    <td colspan="2" align="center">colspan="2" align="center"  2 (optional)</td>
+    <td colspan="2" align="center">2" align="center"  2 (optional)</td>
     <td>SF (Cross-Reference)</td>
     <td>SCCF ID</td>
     <td>ADJUST request Cross-Reference SCCF ID</td>
   </tr>
   <tr>
-    <td colspan="3">colspan="3"</td>
+    <td colspan="3">3"</td>
     <td></td>
     <td align="center">align="center"  3</td>
     <td>CNCLADJ request</td>
-    <td colspan="2">colspan="2"  (none)</td>
+    <td colspan="2">2"  (none)</td>
   </tr>
   <tr>
-    <td rowspan="2" colspan="3">colspan="3" rowspan="2"</td>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2" align="center">rowspan="2" align="center"  4</td>
-    <td rowspan="2">rowspan="2"  CNCLADJ response</td>
+    <td rowspan="2" colspan="3">3"</td>
+    <td rowspan="2"></td>
+    <td rowspan="2" align="center">4</td>
+    <td rowspan="2">CNCLADJ response</td>
     <td>Action</td>
     <td>136 (Approved)</td>
   </tr>
@@ -485,9 +485,9 @@ optional presence of the Cross-Reference SF.
     <td>&lt;= Interval end date</td>
   </tr>
   <tr>
-    <td rowspan="3">rowspan="3"  Finish</td>
-    <td rowspan="3">rowspan="3"  Date Created</td>
-    <td rowspan="3">rowspan="3"  (the earlier of those records present and considered)</td>
+    <td rowspan="3">Finish</td>
+    <td rowspan="3">Date Created</td>
+    <td rowspan="3">(the earlier of those records present and considered)</td>
     <td align="center">align="center"  3 (optional)</td>
     <td></td>
     <td>ADJUST response</td>
@@ -495,9 +495,9 @@ optional presence of the Cross-Reference SF.
     <td>Sent</td>
   </tr>
   <tr>
-    <td rowspan="2" align="center">rowspan="2" align="center"  4</td>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  DF</td>
+    <td rowspan="2" align="center">4</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">DF</td>
     <td>Disposition</td>
     <td>4 (Void)</td>
   </tr>
@@ -551,10 +551,10 @@ optional presence of the Cross-Reference SF.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>
@@ -605,11 +605,11 @@ consideration of a Cross-Reference SF.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"</th>
-    <th rowspan="2" colspan="2">colspan="2" rowspan="2"  Date Field</th>
-    <th colspan="2">colspan="2"  Order</th>
-    <th rowspan="2">rowspan="2"  Record</th>
-    <th colspan="2">colspan="2"  Restriction</th>
+    <th rowspan="2"></th>
+    <th rowspan="2" colspan="2">2"   Date Field</th>
+    <th colspan="2">2"  Order</th>
+    <th rowspan="2">Record</th>
+    <th colspan="2">2"  Restriction</th>
   </tr>
   <tr>
     <th>Path A</th>
@@ -618,11 +618,11 @@ consideration of a Cross-Reference SF.
     <th>Criteria</th>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"  Start</td>
-    <td rowspan="2">rowspan="2"  Date Created</td>
-    <td rowspan="2">rowspan="2"  (the later of those records present and considered)</td>
-    <td rowspan="2" colspan="2" align="center">colspan="2" rowspan="2" align="center"  1</td>
-    <td rowspan="2">rowspan="2"  ADJUST request</td>
+    <td rowspan="2">Start</td>
+    <td rowspan="2">Date Created</td>
+    <td rowspan="2">(the later of those records present and considered)</td>
+    <td rowspan="2" colspan="2" align="center">2"   1</td>
+    <td rowspan="2">ADJUST request</td>
     <td>Direction</td>
     <td>Received</td>
   </tr>
@@ -631,17 +631,17 @@ consideration of a Cross-Reference SF.
     <td>!= (209, 220, 222, 273, 274, 275)</td>
   </tr>
   <tr>
-    <td colspan="3">colspan="3"</td>
+    <td colspan="3">3"</td>
     <td></td>
     <td align="center">align="center"  2</td>
     <td>CNCLADJ request</td>
-    <td colspan="2">colspan="2"  (none)</td>
+    <td colspan="2">2"  (none)</td>
   </tr>
   <tr>
-    <td rowspan="2" colspan="3">colspan="3" rowspan="2"</td>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2" align="center">rowspan="2" align="center"  3</td>
-    <td rowspan="2">rowspan="2"  CNCLADJ response</td>
+    <td rowspan="2" colspan="3">3"</td>
+    <td rowspan="2"></td>
+    <td rowspan="2" align="center">3</td>
+    <td rowspan="2">CNCLADJ response</td>
     <td>Action</td>
     <td>136 (Approved)</td>
   </tr>
@@ -650,9 +650,9 @@ consideration of a Cross-Reference SF.
     <td>&lt;= Interval end date</td>
   </tr>
   <tr>
-    <td rowspan="3">rowspan="3"  Finish</td>
+    <td rowspan="3">Finish</td>
     <td>Date Created</td>
-    <td rowspan="3">rowspan="3"  (the earlier of those records present and considered)</td>
+    <td rowspan="3">(the earlier of those records present and considered)</td>
     <td align="center">align="center"  2 (optional)</td>
     <td></td>
     <td>ADJUST response</td>
@@ -660,10 +660,10 @@ consideration of a Cross-Reference SF.
     <td>Sent</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"  Date Posted</td>
-    <td rowspan="2" align="center">rowspan="2" align="center"  3</td>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  DF</td>
+    <td rowspan="2">Date Posted</td>
+    <td rowspan="2" align="center">3</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">DF</td>
     <td>Disposition</td>
     <td>4 (Void)</td>
   </tr>
@@ -725,10 +725,10 @@ consideration of a Cross-Reference SF.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>
@@ -757,11 +757,11 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"</th>
-    <th rowspan="2">rowspan="2"  Date Field</th>
-    <th colspan="2">colspan="2"  Order</th>
-    <th rowspan="2">rowspan="2"  Record</th>
-    <th colspan="2">colspan="2"  Restriction</th>
+    <th rowspan="2"></th>
+    <th rowspan="2">Date Field</th>
+    <th colspan="2">2"  Order</th>
+    <th rowspan="2">Record</th>
+    <th colspan="2">2"  Restriction</th>
   </tr>
   <tr>
     <th>Path A</th>
@@ -770,10 +770,10 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
     <th>Criteria</th>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2" colspan="2" align="center">colspan="2" rowspan="2" align="center"  1</td>
-    <td rowspan="2">rowspan="2"  MEDREC Request</td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+    <td rowspan="2" colspan="2" align="center">2"   1</td>
+    <td rowspan="2">MEDREC Request</td>
     <td>Date Closed</td>
     <td>&lt;= DF Date Created</td>
   </tr>
@@ -782,11 +782,11 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
     <td>Sent</td>
   </tr>
   <tr>
-    <td rowspan="7">rowspan="7"  Start</td>
-    <td rowspan="7">rowspan="7"  Date Created (the later from those records present and considered)</td>
-    <td rowspan="3" align="center">rowspan="3" align="center"  2</td>
-    <td rowspan="3">rowspan="3"</td>
-    <td rowspan="3">rowspan="3"  MEDREC Response</td>
+    <td rowspan="7">Start</td>
+    <td rowspan="7">Date Created (the later from those records present and considered)</td>
+    <td rowspan="3" align="center">2</td>
+    <td rowspan="3"></td>
+    <td rowspan="3">MEDREC Response</td>
     <td>Date Created</td>
     <td>Final: The request can have multiple responses; only consider the response with the latest Date Created. (Request must be closed for latest to be "Final"; already covered by request-response pairing above.)</td>
   </tr>
@@ -799,9 +799,9 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
     <td>Received</td>
   </tr>
   <tr>
-    <td rowspan="4">rowspan="4"</td>
-    <td rowspan="4" align="center">rowspan="4" align="center"  2</td>
-    <td rowspan="4">rowspan="4"  INFO One-way</td>
+    <td rowspan="4"></td>
+    <td rowspan="4" align="center">2</td>
+    <td rowspan="4">INFO One-way</td>
     <td>Date Created</td>
     <td>&gt;= MEDREC Request Date Created</td>
   </tr>
@@ -818,10 +818,10 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
     <td>173, 178</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"  Finish</td>
-    <td rowspan="2">rowspan="2"  Date Created</td>
-    <td rowspan="2" colspan="2" align="center">colspan="2" rowspan="2" align="center"  3</td>
-    <td rowspan="2">rowspan="2"  DF</td>
+    <td rowspan="2">Finish</td>
+    <td rowspan="2">Date Created</td>
+    <td rowspan="2" colspan="2" align="center">2"   3</td>
+    <td rowspan="2">DF</td>
     <td>Disposition</td>
     <td>1 (Non-Void)</td>
   </tr>
@@ -873,10 +873,10 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>
@@ -902,11 +902,11 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"</th>
-    <th rowspan="2">rowspan="2"  Date Field</th>
-    <th rowspan="2">rowspan="2"  Order</th>
-    <th rowspan="2">rowspan="2"  Record</th>
-    <th colspan="2">colspan="2"  Restriction</th>
+    <th rowspan="2"></th>
+    <th rowspan="2">Date Field</th>
+    <th rowspan="2">Order</th>
+    <th rowspan="2">Record</th>
+    <th colspan="2">2"  Restriction</th>
   </tr>
   <tr>
     <th>Field</th>
@@ -969,10 +969,10 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>
@@ -998,11 +998,11 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"</th>
-    <th rowspan="2">rowspan="2"  Date Field</th>
-    <th rowspan="2">rowspan="2"  Order</th>
-    <th rowspan="2">rowspan="2"  Record</th>
-    <th colspan="2">colspan="2"  Restriction</th>
+    <th rowspan="2"></th>
+    <th rowspan="2">Date Field</th>
+    <th rowspan="2">Order</th>
+    <th rowspan="2">Record</th>
+    <th colspan="2">2"  Restriction</th>
   </tr>
   <tr>
     <th>Field</th>
@@ -1067,10 +1067,10 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>
@@ -1096,21 +1096,21 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"</th>
-    <th rowspan="2">rowspan="2"  Date Field</th>
-    <th rowspan="2">rowspan="2"  Order</th>
-    <th rowspan="2">rowspan="2"  Record</th>
-    <th colspan="2">colspan="2"  Restriction</th>
+    <th rowspan="2"></th>
+    <th rowspan="2">Date Field</th>
+    <th rowspan="2">Order</th>
+    <th rowspan="2">Record</th>
+    <th colspan="2">2"  Restriction</th>
   </tr>
   <tr>
     <th>Field</th>
     <th>Criteria</th>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"  Start</td>
-    <td rowspan="2">rowspan="2"  Date Created</td>
-    <td rowspan="2" align="center">rowspan="2" align="center"  1</td>
-    <td rowspan="2">rowspan="2"  GENINQ Request</td>
+    <td rowspan="2">Start</td>
+    <td rowspan="2">Date Created</td>
+    <td rowspan="2" align="center">1</td>
+    <td rowspan="2">GENINQ Request</td>
     <td>Direction</td>
     <td>Received</td>
   </tr>
@@ -1119,10 +1119,10 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
     <td>!= 168</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"  Finish</td>
-    <td rowspan="2">rowspan="2"  Date Created</td>
-    <td rowspan="2" align="center">rowspan="2" align="center"  2</td>
-    <td rowspan="2">rowspan="2"  GENINQ Response</td>
+    <td rowspan="2">Finish</td>
+    <td rowspan="2">Date Created</td>
+    <td rowspan="2" align="center">2</td>
+    <td rowspan="2">GENINQ Response</td>
     <td>Direction</td>
     <td>Sent</td>
   </tr>
@@ -1171,10 +1171,10 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>
@@ -1200,11 +1200,11 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"</th>
-    <th rowspan="2">rowspan="2"  Date Field</th>
-    <th rowspan="2">rowspan="2"  Order</th>
-    <th rowspan="2">rowspan="2"  Record</th>
-    <th colspan="2">colspan="2"  Restriction</th>
+    <th rowspan="2"></th>
+    <th rowspan="2">Date Field</th>
+    <th rowspan="2">Order</th>
+    <th rowspan="2">Record</th>
+    <th colspan="2">2"  Restriction</th>
   </tr>
   <tr>
     <th>Field</th>
@@ -1267,10 +1267,10 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>
@@ -1331,10 +1331,10 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>
@@ -1411,10 +1411,10 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>
@@ -1503,10 +1503,10 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>
@@ -1597,10 +1597,10 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>
@@ -1661,10 +1661,10 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>
@@ -1725,10 +1725,10 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 
 <table>
   <tr>
-    <th rowspan="2">rowspan="2"  Title</th>
-    <th rowspan="2">rowspan="2"  Calculated?</th>
-    <th rowspan="2">rowspan="2"  Shared with Enhanced IPP Scorecard 2012?</th>
-    <th colspan="2">colspan="2"  Interval Length</th>
+    <th rowspan="2">Title</th>
+    <th rowspan="2">Calculated?</th>
+    <th rowspan="2">Shared with Enhanced IPP Scorecard 2012?</th>
+    <th colspan="2">2"  Interval Length</th>
   </tr>
   <tr>
     <th>Smallest Cumulative</th>

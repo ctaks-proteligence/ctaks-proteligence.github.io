@@ -67,24 +67,28 @@ contain at least the following columns:
     <td>VARCHAR</td>
     <td>100</td>
     <td>Yes</td>
+    <td></td>
   </tr>
   <tr>
     <td>ADJUST_Manager</td>
     <td>VARCHAR</td>
     <td>100</td>
     <td>Yes</td>
+    <td></td>
   </tr>
   <tr>
     <td>CLMAPPL_Director</td>
     <td>VARCHAR</td>
     <td>100</td>
     <td>Yes</td>
+    <td></td>
   </tr>
   <tr>
     <td>CLMAPPL_Manager</td>
     <td>VARCHAR</td>
     <td>100</td>
     <td>Yes</td>
+    <td></td>
   </tr>
   <tr>
     <td>ESCL_Director</td>
@@ -105,24 +109,28 @@ contain at least the following columns:
     <td>VARCHAR</td>
     <td>100</td>
     <td>Yes</td>
+    <td></td>
   </tr>
   <tr>
     <td>GENINQ_Manager</td>
     <td>VARCHAR</td>
     <td>100</td>
     <td>Yes</td>
+    <td></td>
   </tr>
   <tr>
     <td>MEDREC_Director</td>
     <td>VARCHAR</td>
     <td>100</td>
     <td>Yes</td>
+    <td></td>
   </tr>
   <tr>
     <td>MEDREC_Manager</td>
     <td>VARCHAR</td>
     <td>100</td>
     <td>Yes</td>
+    <td></td>
   </tr>
 </table>
 <br  />

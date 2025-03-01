@@ -812,6 +812,7 @@ fields are in addition to the base message detail fields.
     <td></td>
     <td>0</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>patient</td>
@@ -2073,12 +2074,14 @@ fields are in addition to the base message detail fields.
     <td>20</td>
     <td>0</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>groupId</td>
     <td>AlphaNumericSpecialWithSpace</td>
     <td></td>
     <td>0</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -2087,12 +2090,14 @@ fields are in addition to the base message detail fields.
     <td></td>
     <td>0</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>subscriberDependantId</td>
     <td>string</td>
     <td>2</td>
     <td>0</td>
+    <td></td>
     <td></td>
   </tr>
 </table>
@@ -2821,6 +2826,7 @@ fields are in addition to the base message detail fields.
   </tr>
   <tr>
     <td>clerk</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>

@@ -45,6 +45,7 @@
     <td>2023/08/31</td>
     <td></td>
     <td>2023/10/19</td>
+    <td></td>
   </tr>
   <tr align="center">
     <th>23.0 (3.19)</th>
@@ -55,6 +56,7 @@
     <td>2023/02/27</td>
     <td></td>
     <td>2023/03/09</td>
+    <td></td>
   </tr>
   <tr align="center">
     <th>22.5 (3.18)</th>
@@ -65,6 +67,7 @@
     <td>2022/07/26</td>
     <td></td>
     <td>2022/08/23</td>
+    <td></td>
   </tr>
   <tr align="center">
     <th>22.0 (3.17)</th>
@@ -75,6 +78,7 @@
     <td>2022/02/25</td>
     <td></td>
     <td>2022/03/10</td>
+    <td></td>
   </tr>
   <tr align="center">
     <th>21.5 (3.16)</th>
@@ -88,7 +92,7 @@
     <td></td>
   </tr>
   <tr align="center">
-    <th rowspan="3">rowspan="3"  21.0 (3.15)</th>
+    <th rowspan="3">21.0 (3.15)</th>
     <th>Datanet</th>
     <td>21.0 (ETL 3.13.0)</td>
     <td>2020/10/18</td>
@@ -117,10 +121,10 @@
     <td>2020/11/12</td>
   </tr>
   <tr align="center">
-    <td colspan="9">colspan="9"</td>
+    <td colspan="9">9"</td>
   </tr>
   <tr align="center">
-    <th rowspan="3">rowspan="3"  20.5 (3.14)</th>
+    <th rowspan="3">20.5 (3.14)</th>
     <th>Datanet</th>
     <td>20.5 (ETL 3.12.0)</td>
     <td>2020/04/19</td>
@@ -149,10 +153,10 @@
     <td>2020/05/14</td>
   </tr>
   <tr align="center">
-    <td colspan="9">colspan="9"</td>
+    <td colspan="9">9"</td>
   </tr>
   <tr align="center">
-    <th rowspan="3">rowspan="3"  20.0 (3.13)</th>
+    <th rowspan="3">20.0 (3.13)</th>
     <th>Datanet</th>
     <td>20.0 (ETL 3.11.0)</td>
     <td>2019/10/20</td>
@@ -181,10 +185,10 @@
     <td>2019/11/14</td>
   </tr>
   <tr align="center">
-    <td colspan="9">colspan="9"</td>
+    <td colspan="9">9"</td>
   </tr>
   <tr align="center">
-    <th rowspan="3">rowspan="3"  19.5 (3.12)</th>
+    <th rowspan="3">19.5 (3.12)</th>
     <th>Datanet</th>
     <td>19.5 (ETL 3.10.0)</td>
     <td>2019/04/14</td>
@@ -213,10 +217,10 @@
     <td>2019/05/16</td>
   </tr>
   <tr align="center">
-    <td colspan="9">colspan="9"</td>
+    <td colspan="9">9"</td>
   </tr>
   <tr align="center">
-    <th rowspan="3">rowspan="3"  19.0 (3.11)</th>
+    <th rowspan="3">19.0 (3.11)</th>
     <th>Datanet</th>
     <td>19.0 (ETL 3.9.0)</td>
     <td>2018/10/14</td>
@@ -245,10 +249,10 @@
     <td>2018/11/15</td>
   </tr>
   <tr align="center">
-    <td colspan="9">colspan="9"</td>
+    <td colspan="9">9"</td>
   </tr>
   <tr align="center">
-    <th rowspan="4">rowspan="4"  18.5 (3.10)</th>
+    <th rowspan="4">18.5 (3.10)</th>
     <th>Datanet</th>
     <td>18.5 (ETL 3.8.0)</td>
     <td>2018/04/15</td>
@@ -286,10 +290,10 @@
     <td>2018/05/17</td>
   </tr>
   <tr align="center">
-    <td colspan="9">colspan="9"</td>
+    <td colspan="9">9"</td>
   </tr>
   <tr align="center">
-    <th rowspan="4">rowspan="4"  18.0 (3.9)</th>
+    <th rowspan="4">18.0 (3.9)</th>
     <th>Datanet</th>
     <td>18.0 (ETL 3.7.0)</td>
     <td>2017/10/15</td>
@@ -327,10 +331,10 @@
     <td>2017/11/09</td>
   </tr>
   <tr align="center">
-    <td colspan="9">colspan="9"</td>
+    <td colspan="9">9"</td>
   </tr>
   <tr align="center">
-    <th rowspan="5">rowspan="5"  17.5 (3.8)</th>
+    <th rowspan="5">17.5 (3.8)</th>
     <th>Datanet</th>
     <td>17.5 (3.8.1)</td>
     <td></td>
@@ -377,10 +381,10 @@
     <td>2017/05/11</td>
   </tr>
   <tr align="center">
-    <td colspan="9">colspan="9"</td>
+    <td colspan="9">9"</td>
   </tr>
   <tr align="center">
-    <th rowspan="4">rowspan="4"  17.0 (3.7)</th>
+    <th rowspan="4">17.0 (3.7)</th>
     <th>Datanet</th>
     <td>17.0 (ETL 3.5.0)</td>
     <td>2016/10/23</td>
@@ -418,10 +422,10 @@
     <td>2016/11/10</td>
   </tr>
   <tr align="center">
-    <td colspan="9">colspan="9"</td>
+    <td colspan="9">9"</td>
   </tr>
   <tr align="center">
-    <th rowspan="4">rowspan="4"  16.5 (3.6)</th>
+    <th rowspan="4">16.5 (3.6)</th>
     <th>Datanet</th>
     <td>16.5 (ETL 3.4.0)</td>
     <td>2016/04/25</td>
@@ -459,10 +463,10 @@
     <td>2016/05/12</td>
   </tr>
   <tr align="center">
-    <td colspan="9">colspan="9"</td>
+    <td colspan="9">9"</td>
   </tr>
   <tr align="center">
-    <th rowspan="6">rowspan="6"  16.0 (3.5)</th>
+    <th rowspan="6">16.0 (3.5)</th>
     <th>Datanet (ETL only)</th>
     <td>16.0 (ETL 3.3.1)</td>
     <td>2016/01/12</td>
@@ -606,7 +610,8 @@
 
 <table>
   <tr>
-    <td>**Additional Report Columns**
+    <td>**Additional Report Columns**</td>
+    <td>
   <table>
   <tr>
     <th>Bug</th>
@@ -759,6 +764,7 @@
     <td>N/A</td>
     <td>df table</td>
     <td>After STMT_COV_FROM_DT as of 17.5</td>
+    <td></td>
   </tr>
   <tr>
     <td>DNA-120</td>
@@ -775,6 +781,7 @@
     <td>N/A</td>
     <td>df table</td>
     <td>After above as of 17.5</td>
+    <td></td>
   </tr>
   <tr>
     <td>DNA-121</td>
@@ -1142,7 +1149,8 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**
+    <td>**Additional FlexReport Columns**</td>
+    <td>
   <table>
   <tr>
     <th>Bug</th>
@@ -1179,21 +1187,21 @@
     <td>Eliz/Elevance</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"  DN-372, DNA-98</td>
-    <td rowspan="2">rowspan="2"  Tested-CN</td>
-    <td rowspan="2">rowspan="2"  Pricing Method</td>
+    <td rowspan="2">DN-372, DNA-98</td>
+    <td rowspan="2">Tested-CN</td>
+    <td rowspan="2">Pricing Method</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F03-PRC-METH-CD</td>
     <td>1209-1210</td>
     <td>X(2)</td>
-    <td rowspan="2">rowspan="2"  N/A</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  SF,DF - all reports</td>
-    <td rowspan="2">rowspan="2"  NOTE: Already loaded to CDR; add to ES/RS</td>
-    <td rowspan="2">rowspan="2"  Marilyn/Triple S</td>
+    <td rowspan="2">N/A</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">SF,DF - all reports</td>
+    <td rowspan="2">NOTE: Already loaded to CDR; add to ES/RS</td>
+    <td rowspan="2">Marilyn/Triple S</td>
   </tr>
   <tr>
     <td>DF</td>
@@ -1211,7 +1219,8 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**
+    <td>**Additional FlexReport Columns**</td>
+    <td>
   <table>
   <tr>
     <th>Bug</th>
@@ -1256,7 +1265,8 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**
+    <td>**Additional FlexReport Columns**</td>
+    <td>
   <table>
   <tr>
     <th>Bug</th>
@@ -1344,21 +1354,21 @@
     <td>Elaine.Macomber@bcbsma.com/MA</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"  DN-348</td>
-    <td rowspan="2">rowspan="2"  Tested - CN</td>
-    <td rowspan="2">rowspan="2"  Facility Type</td>
+    <td rowspan="2">DN-348</td>
+    <td rowspan="2">Tested - CN</td>
+    <td rowspan="2">Facility Type</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-FACIL-TP-CD</td>
     <td>715-718</td>
     <td>X(4)</td>
-    <td rowspan="2">rowspan="2"  N/A</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  SF - all reports</td>
-    <td rowspan="2">rowspan="2"  NOTE:  Already loaded to CDR; add to ES</td>
-    <td rowspan="2">rowspan="2"  Elaine.Macomber@bcbsma.com/MA</td>
+    <td rowspan="2">N/A</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">SF - all reports</td>
+    <td rowspan="2">NOTE:  Already loaded to CDR; add to ES</td>
+    <td rowspan="2">Elaine.Macomber@bcbsma.com/MA</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -1376,7 +1386,8 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**
+    <td>**Additional FlexReport Columns**</td>
+    <td>
   <table>
   <tr>
     <th>Bug</th>
@@ -1447,21 +1458,21 @@
     <td>Caryl/Anthem</td>
   </tr>
   <tr>
-    <td rowspan="3">rowspan="3"</td>
-    <td rowspan="3">rowspan="3"  Tested - CN</td>
-    <td rowspan="3">rowspan="3"  Input Medium</td>
+    <td rowspan="3"></td>
+    <td rowspan="3">Tested - CN</td>
+    <td rowspan="3">Input Medium</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-INP-MEDIA-CD</td>
     <td>252-252</td>
     <td>X(1)</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"  Yes</td>
-    <td rowspan="3">rowspan="3"  Yes</td>
-    <td rowspan="3">rowspan="3"  Yes</td>
-    <td rowspan="3">rowspan="3"  SF, DF - all reports</td>
-    <td rowspan="3">rowspan="3"</td>
-    <td rowspan="3">rowspan="3"  Donna Neff/CA</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3">Yes</td>
+    <td rowspan="3">Yes</td>
+    <td rowspan="3">Yes</td>
+    <td rowspan="3">SF, DF - all reports</td>
+    <td rowspan="3"></td>
+    <td rowspan="3">Donna Neff/CA</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -1503,7 +1514,8 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**
+    <td>**Additional FlexReport Columns**</td>
+    <td>
   <table>
   <tr>
     <th>Bug</th>
@@ -1540,21 +1552,21 @@
     <td>James/CF</td>
   </tr>
   <tr>
-    <td rowspan="3">rowspan="3"</td>
-    <td rowspan="3">rowspan="3"  Tested - CN</td>
-    <td rowspan="3">rowspan="3"  SPC Note</td>
+    <td rowspan="3"></td>
+    <td rowspan="3">Tested - CN</td>
+    <td rowspan="3">SPC Note</td>
     <td>SFI</td>
     <td>11</td>
     <td>X-F32-SPCL-NOTE-CD</td>
     <td>29-33</td>
     <td>X(5)</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"  DNA</td>
-    <td rowspan="3">rowspan="3"  Sample Values:  ABCDE, 12345</td>
-    <td rowspan="3">rowspan="3"  Cindy/CF</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3">DNA</td>
+    <td rowspan="3">Sample Values:  ABCDE, 12345</td>
+    <td rowspan="3">Cindy/CF</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -1571,21 +1583,21 @@
     <td>X(5)</td>
   </tr>
   <tr>
-    <td rowspan="3">rowspan="3"</td>
-    <td rowspan="3">rowspan="3"  Tested - CN</td>
-    <td rowspan="3">rowspan="3"  SPC Note Transmission</td>
+    <td rowspan="3"></td>
+    <td rowspan="3">Tested - CN</td>
+    <td rowspan="3">SPC Note Transmission</td>
     <td>SFI</td>
     <td>11</td>
     <td>X-F32-SPCL-NOTE-TRANS-CD</td>
     <td>34-34</td>
     <td>X(1)</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"  DNA</td>
-    <td rowspan="3">rowspan="3"</td>
-    <td rowspan="3">rowspan="3"  Cindy/CF</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3">DNA</td>
+    <td rowspan="3"></td>
+    <td rowspan="3">Cindy/CF</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -1602,21 +1614,21 @@
     <td>X(1)</td>
   </tr>
   <tr>
-    <td rowspan="3">rowspan="3"</td>
-    <td rowspan="3">rowspan="3"  Tested - CN</td>
-    <td rowspan="3">rowspan="3"  SPC Note Text</td>
+    <td rowspan="3"></td>
+    <td rowspan="3">Tested - CN</td>
+    <td rowspan="3">SPC Note Text</td>
     <td>SFI</td>
     <td>11</td>
     <td>X-F32-SPCL-NOTE-TXT</td>
     <td>35-290</td>
     <td>X(256)</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"  DNA</td>
-    <td rowspan="3">rowspan="3"</td>
-    <td rowspan="3">rowspan="3"  Cindy/CF</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3">DNA</td>
+    <td rowspan="3"></td>
+    <td rowspan="3">Cindy/CF</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -1743,7 +1755,8 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**
+    <td>**Additional FlexReport Columns**</td>
+    <td>
   <table>
   <tr>
     <th>Bug</th>
@@ -1797,21 +1810,21 @@
     <td></td>
   </tr>
   <tr>
-    <td rowspan="3">rowspan="3"</td>
-    <td rowspan="3">rowspan="3"  Tested - CN</td>
-    <td rowspan="3">rowspan="3"  Investigated</td>
+    <td rowspan="3"></td>
+    <td rowspan="3">Tested - CN</td>
+    <td rowspan="3">Investigated</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-INVST-CD</td>
     <td>254-254</td>
     <td>X(01)</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"  Yes</td>
-    <td rowspan="3">rowspan="3"  Yes</td>
-    <td rowspan="3">rowspan="3"  Yes</td>
-    <td rowspan="3">rowspan="3"  SF, DF - all reports</td>
-    <td rowspan="3">rowspan="3"  Sample Values:  Y, N, A, etc. or null/space<br />NOTE:  Already loaded to CDR; add to ES</td>
-    <td rowspan="3">rowspan="3"  BCBSA requirements indicate this is going to be needed for Surprise Billing</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3">Yes</td>
+    <td rowspan="3">Yes</td>
+    <td rowspan="3">Yes</td>
+    <td rowspan="3">SF, DF - all reports</td>
+    <td rowspan="3">Sample Values:  Y, N, A, etc. or null/space<br />NOTE:  Already loaded to CDR; add to ES</td>
+    <td rowspan="3">BCBSA requirements indicate this is going to be needed for Surprise Billing</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -1828,21 +1841,21 @@
     <td>X(01)</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Tested - CN</td>
-    <td rowspan="2">rowspan="2"  Investigated Days</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Tested - CN</td>
+    <td rowspan="2">Investigated Days</td>
     <td>SFP</td>
     <td>01</td>
     <td>X-F01-INVST-DAY-NUM</td>
     <td>1231-1232</td>
     <td>S9(04) COMP</td>
-    <td rowspan="2">rowspan="2"  N/A</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  No</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  SF, DF - all reports</td>
-    <td rowspan="2">rowspan="2"  NOTE:  Already loaded to CDR; add to ES</td>
-    <td rowspan="2">rowspan="2"  BCBSA requirements indicate this is going to be needed for Surprise Billing</td>
+    <td rowspan="2">N/A</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">No</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">SF, DF - all reports</td>
+    <td rowspan="2">NOTE:  Already loaded to CDR; add to ES</td>
+    <td rowspan="2">BCBSA requirements indicate this is going to be needed for Surprise Billing</td>
   </tr>
   <tr>
     <td>DF</td>
@@ -1911,7 +1924,8 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**
+    <td>**Additional FlexReport Columns**</td>
+    <td>
   <table>
   <tr>
     <th>Bug</th>
@@ -1931,21 +1945,21 @@
     <th>Requested By</th>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2" style="white-space: nowrap;"  Tested - CN</td>
-    <td rowspan="2">rowspan="2" style="white-space: nowrap;"  Provider NPI Perform</td>
-    <td rowspan="2">rowspan="2"  SFP</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Tested - CN</td>
+    <td rowspan="2">Provider NPI Perform</td>
+    <td rowspan="2">SFP</td>
     <td>01</td>
     <td>X-F04-PERF-PROV-NPI-CD</td>
     <td>1122-1131</td>
     <td>X(10)</td>
-    <td rowspan="2">rowspan="2"  Use first Line level value if Claim value is null</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  SF - all reports</td>
-    <td rowspan="2">rowspan="2"  Sample values:  1234567890</td>
-    <td rowspan="2">rowspan="2"  Caryl/Anthem</td>
+    <td rowspan="2">Use first Line level value if Claim value is null</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">SF - all reports</td>
+    <td rowspan="2">Sample values:  1234567890</td>
+    <td rowspan="2">Caryl/Anthem</td>
   </tr>
   <tr>
     <td>05</td>
@@ -1954,21 +1968,21 @@
     <td>X(10)</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Tested - CN</td>
-    <td rowspan="2">rowspan="2" style="white-space: nowrap;"  Sub Group</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Tested - CN</td>
+    <td rowspan="2">Sub Group</td>
     <td>SFI</td>
     <td>06</td>
     <td>X-F05-SUB-GRP-ID</td>
     <td>36-44</td>
     <td>X(9)</td>
-    <td rowspan="2">rowspan="2"  N/A</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  SF - all reports</td>
-    <td rowspan="2">rowspan="2"  N/A</td>
-    <td rowspan="2">rowspan="2"  Dolores Arzola/BlueKC<br />NOTE: Caryl/Anthem is okay with this field.</td>
+    <td rowspan="2">N/A</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">SF - all reports</td>
+    <td rowspan="2">N/A</td>
+    <td rowspan="2">Dolores Arzola/BlueKC<br />NOTE: Caryl/Anthem is okay with this field.</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -1986,7 +2000,8 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**
+    <td>**Additional FlexReport Columns**</td>
+    <td>
   <table>
   <tr>
     <th>Bug</th>
@@ -2023,21 +2038,21 @@
     <td>Matthew/Anthem</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Tested - CN</td>
-    <td rowspan="2">rowspan="2"  Network Avail</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Tested - CN</td>
+    <td rowspan="2">Network Avail</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-PPO-AVL-IND</td>
     <td>541-541</td>
     <td>X(1)</td>
-    <td rowspan="2">rowspan="2"  N/A</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  SF - all reports</td>
-    <td rowspan="2">rowspan="2"  Sample values:  Y, N, 1, 2, 3, 4, or Blank</td>
-    <td rowspan="2">rowspan="2"  Matthew/Anthem</td>
+    <td rowspan="2">N/A</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">SF - all reports</td>
+    <td rowspan="2">Sample values:  Y, N, 1, 2, 3, 4, or Blank</td>
+    <td rowspan="2">Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2047,21 +2062,21 @@
     <td>X(1)</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Tested - CN</td>
-    <td rowspan="2">rowspan="2"  Prov Type Avail</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Tested - CN</td>
+    <td rowspan="2">Prov Type Avail</td>
     <td>SFI</td>
     <td>01</td>
     <td>style="white-space: nowrap;"  X-F03-PPO-PROVTP-AVL-IND</td>
     <td>style="white-space: nowrap;"  1381-1381</td>
     <td>X(1)</td>
     <td>N/A</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  SF - all reports</td>
-    <td rowspan="2">rowspan="2"  Sample values:  Y, N, 1, 2, 3, 4, or Blank</td>
-    <td rowspan="2">rowspan="2"  Matthew/Anthem</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">SF - all reports</td>
+    <td rowspan="2">Sample values:  Y, N, 1, 2, 3, 4, or Blank</td>
+    <td rowspan="2">Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2072,21 +2087,21 @@
     <td>Use first Line level value</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Tested - CN</td>
-    <td rowspan="2">rowspan="2" style="white-space: nowrap;"  Prov Type Perform</td>
-    <td rowspan="2">rowspan="2"  SFP</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Tested - CN</td>
+    <td rowspan="2">Prov Type Perform</td>
+    <td rowspan="2">SFP</td>
     <td>01</td>
     <td>X-F04-PERF-PROV-TP-CD</td>
     <td>1071-1072</td>
     <td>X(2)</td>
-    <td rowspan="2">rowspan="2"  Use first Line level value if Claim value is null</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  SF - all reports</td>
-    <td rowspan="2">rowspan="2"  Sample values:  AC, BB, BF, CE</td>
-    <td rowspan="2">rowspan="2"  Matthew/Anthem</td>
+    <td rowspan="2">Use first Line level value if Claim value is null</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">SF - all reports</td>
+    <td rowspan="2">Sample values:  AC, BB, BF, CE</td>
+    <td rowspan="2">Matthew/Anthem</td>
   </tr>
   <tr>
     <td>05</td>
@@ -2095,29 +2110,29 @@
     <td>X(2)</td>
   </tr>
   <tr>
-    <td rowspan="3">rowspan="3"</td>
-    <td rowspan="3">rowspan="3"  Tested - CN</td>
-    <td rowspan="3">rowspan="3"  Tier Desig</td>
+    <td rowspan="3"></td>
+    <td rowspan="3">Tested - CN</td>
+    <td rowspan="3">Tier Desig</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-TIER-DESIG-IND-CLM</td>
     <td>3334-3334</td>
     <td>X(1)</td>
     <td>N/A</td>
-    <td rowspan="3">rowspan="3"  Yes</td>
-    <td rowspan="3">rowspan="3"  Yes</td>
-    <td rowspan="3">rowspan="3"  Yes</td>
-    <td rowspan="3">rowspan="3"  SF - all reports</td>
-    <td rowspan="3">rowspan="3"  Sample values:  Y, N, 1 - 5, or Blank</td>
-    <td rowspan="3">rowspan="3"  Matthew/Anthem</td>
+    <td rowspan="3">Yes</td>
+    <td rowspan="3">Yes</td>
+    <td rowspan="3">Yes</td>
+    <td rowspan="3">SF - all reports</td>
+    <td rowspan="3">Sample values:  Y, N, 1 - 5, or Blank</td>
+    <td rowspan="3">Matthew/Anthem</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"  SFP</td>
+    <td rowspan="2">SFP</td>
     <td>01</td>
     <td>X-F01-TIER-DESIG-IND-CLM</td>
     <td>1902-1902</td>
     <td>X(1)</td>
-    <td rowspan="2">rowspan="2"  Use first Line level value if Claim value is null</td>
+    <td rowspan="2">Use first Line level value if Claim value is null</td>
   </tr>
   <tr>
     <td>05</td>
@@ -2134,7 +2149,8 @@
 
 <table>
   <tr>
-    <td>**Additional FlexReport Columns**
+    <td>**Additional FlexReport Columns**</td>
+    <td>
   <table>
   <tr>
     <th>Bug</th>
@@ -2154,21 +2170,21 @@
     <th>Requested By</th>
   </tr>
   <tr>
-    <td rowspan="4">rowspan="4"</td>
-    <td rowspan="4">rowspan="4"  Tested - CN</td>
-    <td rowspan="4">rowspan="4"  Prefix Acct?</td>
+    <td rowspan="4"></td>
+    <td rowspan="4">Tested - CN</td>
+    <td rowspan="4">Prefix Acct?</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-PRFX-ACCT-ID-IND</td>
     <td>3333-3333</td>
     <td>X(01)</td>
-    <td rowspan="4">rowspan="4"  Yes</td>
-    <td rowspan="4">rowspan="4"  Yes</td>
-    <td rowspan="4">rowspan="4"  Yes</td>
-    <td rowspan="4">rowspan="4"  SF, DF, RF - all reports</td>
-    <td rowspan="4">rowspan="4"  N/A</td>
-    <td rowspan="4">rowspan="4"  NOTE: Expected values are Y or N (or null/space).</td>
-    <td rowspan="4">rowspan="4"  Matthew/Anthem</td>
+    <td rowspan="4">Yes</td>
+    <td rowspan="4">Yes</td>
+    <td rowspan="4">Yes</td>
+    <td rowspan="4">SF, DF, RF - all reports</td>
+    <td rowspan="4">N/A</td>
+    <td rowspan="4">NOTE: Expected values are Y or N (or null/space).</td>
+    <td rowspan="4">Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2192,21 +2208,21 @@
     <td>X(01)</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Tested - CN</td>
-    <td rowspan="2">rowspan="2" style="white-space: nowrap;"  Prefix Acct ID</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Tested - CN</td>
+    <td rowspan="2">Prefix Acct ID</td>
     <td>DF</td>
     <td>01</td>
     <td>X-F51-PRFX-ACCT-ID</td>
     <td>&lt;p style="text-decoration:line-through"&gt;1300-1319&lt;/p&gt;1458-1477</td>
     <td>X(20)</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes*<br />*Originally No but implemented as Yes and should stay suggestible at this point</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  DF, RF - all reports</td>
-    <td rowspan="2">rowspan="2"  N/A</td>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Matthew/Anthem (and other users/Plans)</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes*<br />*Originally No but implemented as Yes and should stay suggestible at this point</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">DF, RF - all reports</td>
+    <td rowspan="2">N/A</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Matthew/Anthem (and other users/Plans)</td>
   </tr>
   <tr>
     <td>RF</td>
@@ -2216,21 +2232,21 @@
     <td>X(20)</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2" style="white-space: nowrap;"  Tested - CN</td>
-    <td rowspan="2">rowspan="2"  $ SPC 1&lt;br&gt;$ SPC 2&lt;br&gt;$ SPC 3&lt;br&gt;$ SPC 4&lt;br&gt;$ SPC 5</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Tested - CN</td>
+    <td rowspan="2">$ SPC 1&lt;br&gt;$ SPC 2&lt;br&gt;$ SPC 3&lt;br&gt;$ SPC 4&lt;br&gt;$ SPC 5</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-SPCL-PRC-AMT</td>
     <td>545-574</td>
     <td>S9(09)V99 COMP-3 OCCURS 5</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  No</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  SF - all reports</td>
-    <td rowspan="2">rowspan="2"  N/A</td>
-    <td rowspan="2">rowspan="2"  NOTE: This is a multi-value field, but the values need to be separate columns as they are amounts, not codes.</td>
-    <td rowspan="2">rowspan="2"  Matthew/Anthem</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">No</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">SF - all reports</td>
+    <td rowspan="2">N/A</td>
+    <td rowspan="2">NOTE: This is a multi-value field, but the values need to be separate columns as they are amounts, not codes.</td>
+    <td rowspan="2">Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2240,21 +2256,21 @@
     <td>S9(09)V99 COMP-3 OCCURS 5</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Tested - CN</td>
-    <td rowspan="2">rowspan="2"  SPC Codes</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Tested - CN</td>
+    <td rowspan="2">SPC Codes</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-SPCL-PRC-CD</td>
     <td>575-589</td>
     <td>X(3) OCCURS 5</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  No</td>
-    <td rowspan="2">rowspan="2"  No*<br />*Implemented as Yes - okay</td>
-    <td rowspan="2">rowspan="2"  SF - all reports</td>
-    <td rowspan="2">rowspan="2"  N/A</td>
-    <td rowspan="2">rowspan="2"  NOTE: This is a multi-value field with required placeholders for empty values between defined values (such as XXX --- YYY if the 1st and 3rd are defined and the 2nd is null).</td>
-    <td rowspan="2">rowspan="2"  Matthew/Anthem</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">No</td>
+    <td rowspan="2">No*<br />*Implemented as Yes - okay</td>
+    <td rowspan="2">SF - all reports</td>
+    <td rowspan="2">N/A</td>
+    <td rowspan="2">NOTE: This is a multi-value field with required placeholders for empty values between defined values (such as XXX --- YYY if the 1st and 3rd are defined and the 2nd is null).</td>
+    <td rowspan="2">Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2264,21 +2280,21 @@
     <td>X(3) OCCURS 5</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Tested - CN</td>
-    <td rowspan="2">rowspan="2"  &lt;br&gt;% SPC 1&lt;br&gt;% SPC 2&lt;br&gt;% SPC 3&lt;br&gt;% SPC 4&lt;br&gt;% SPC 5</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Tested - CN</td>
+    <td rowspan="2">&lt;br&gt;% SPC 1&lt;br&gt;% SPC 2&lt;br&gt;% SPC 3&lt;br&gt;% SPC 4&lt;br&gt;% SPC 5</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-SPCL-PRC-PCT</td>
     <td>590-614</td>
     <td>S999V9(5) COMP-3 OCCURS 5</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  No</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  SF - all reports</td>
-    <td rowspan="2">rowspan="2"  N/A</td>
-    <td rowspan="2">rowspan="2"  NOTE: This is a multi-value field, but the values need to be separate colums as they are percentages, not codes.</td>
-    <td rowspan="2">rowspan="2"  Matthew/Anthem</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">No</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">SF - all reports</td>
+    <td rowspan="2">N/A</td>
+    <td rowspan="2">NOTE: This is a multi-value field, but the values need to be separate colums as they are percentages, not codes.</td>
+    <td rowspan="2">Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2288,21 +2304,21 @@
     <td>S999V9(5) COMP-3 OCCURS 5 Times</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Tested - CN</td>
-    <td rowspan="2">rowspan="2"  &lt;br&gt;SPC Days 1&lt;br&gt;SPC Days 2&lt;br&gt;SPC Days 3&lt;br&gt;SPC Days 4&lt;br&gt;SPC Days 5</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Tested - CN</td>
+    <td rowspan="2">&lt;br&gt;SPC Days 1&lt;br&gt;SPC Days 2&lt;br&gt;SPC Days 3&lt;br&gt;SPC Days 4&lt;br&gt;SPC Days 5</td>
     <td>SFI</td>
     <td>01</td>
     <td>style="white-space: nowrap;"  X-F01-SPCL-PRC-DAY-NUM</td>
     <td>615-624</td>
     <td>S9(4) COMP OCCURS 5</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  No</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  SF - all reports</td>
-    <td rowspan="2">rowspan="2"  N/A</td>
-    <td rowspan="2">rowspan="2"  NOTE: This is a multi-value field, but the values need to be separate colums as they are days, not codes.</td>
-    <td rowspan="2">rowspan="2"  Matthew/Anthem</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">No</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">SF - all reports</td>
+    <td rowspan="2">N/A</td>
+    <td rowspan="2">NOTE: This is a multi-value field, but the values need to be separate colums as they are days, not codes.</td>
+    <td rowspan="2">Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2312,21 +2328,21 @@
     <td>S9(4) COMP OCCURS 5</td>
   </tr>
   <tr>
-    <td rowspan="3">rowspan="3"</td>
-    <td rowspan="3">rowspan="3"  Deferred indefinitely</td>
-    <td rowspan="3">rowspan="3"  SN Code</td>
+    <td rowspan="3"></td>
+    <td rowspan="3">Deferred indefinitely</td>
+    <td rowspan="3">SN Code</td>
     <td>SFI</td>
     <td>11</td>
     <td>X-F32-SPCL-NOTE-CD</td>
     <td>29-33</td>
     <td>X(5)</td>
-    <td rowspan="3">rowspan="3"  Yes</td>
-    <td rowspan="3">rowspan="3"  No</td>
-    <td rowspan="3">rowspan="3"  Yes</td>
-    <td rowspan="3">rowspan="3"  SF, DF - all reports</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"</td>
-    <td rowspan="3">rowspan="3"  Matthew/Anthem</td>
+    <td rowspan="3">Yes</td>
+    <td rowspan="3">No</td>
+    <td rowspan="3">Yes</td>
+    <td rowspan="3">SF, DF - all reports</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3"></td>
+    <td rowspan="3">Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2343,21 +2359,21 @@
     <td>X(5)</td>
   </tr>
   <tr>
-    <td rowspan="3">rowspan="3"</td>
-    <td rowspan="3">rowspan="3"  Deferred indefinitely</td>
-    <td rowspan="3">rowspan="3"  SN Data</td>
+    <td rowspan="3"></td>
+    <td rowspan="3">Deferred indefinitely</td>
+    <td rowspan="3">SN Data</td>
     <td>SFI</td>
     <td>11</td>
     <td>X-F32-SPCL-NOTE-TXT</td>
     <td>35-290</td>
     <td>X(256)</td>
-    <td rowspan="3">rowspan="3"  Yes</td>
-    <td rowspan="3">rowspan="3"  No</td>
-    <td rowspan="3">rowspan="3"  Yes</td>
-    <td rowspan="3">rowspan="3"  SF, DF - all reports</td>
-    <td rowspan="3">rowspan="3"  N/A</td>
-    <td rowspan="3">rowspan="3"</td>
-    <td rowspan="3">rowspan="3"  Matthew/Anthem</td>
+    <td rowspan="3">Yes</td>
+    <td rowspan="3">No</td>
+    <td rowspan="3">Yes</td>
+    <td rowspan="3">SF, DF - all reports</td>
+    <td rowspan="3">N/A</td>
+    <td rowspan="3"></td>
+    <td rowspan="3">Matthew/Anthem</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2374,21 +2390,21 @@
     <td>X(256)</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Tested - CN</td>
-    <td rowspan="2">rowspan="2"  Bill Type</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Tested - CN</td>
+    <td rowspan="2">Bill Type</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-BILL-TP-CD</td>
     <td>194-196</td>
     <td>X(3)</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  SF - all reports*</td>
-    <td rowspan="2">rowspan="2"  N/A</td>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Cindy/CareFirst</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">SF - all reports*</td>
+    <td rowspan="2">N/A</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Cindy/CareFirst</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2398,21 +2414,21 @@
     <td>X(3)</td>
   </tr>
   <tr>
-    <td rowspan="4">rowspan="4"</td>
-    <td rowspan="4">rowspan="4"  Tested - CN</td>
-    <td rowspan="4">rowspan="4"  Date Admit</td>
+    <td rowspan="4"></td>
+    <td rowspan="4">Tested - CN</td>
+    <td rowspan="4">Date Admit</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F01-ADMIT-DT</td>
     <td>178-187</td>
     <td>X(10)</td>
-    <td rowspan="4">rowspan="4"  Yes</td>
-    <td rowspan="4">rowspan="4"  No</td>
-    <td rowspan="4">rowspan="4"  Yes</td>
-    <td rowspan="4">rowspan="4"  SF, DF, RF - all reports</td>
-    <td rowspan="4">rowspan="4"  N/A</td>
-    <td rowspan="4">rowspan="4"</td>
-    <td rowspan="4">rowspan="4"  Cindy/CareFirst</td>
+    <td rowspan="4">Yes</td>
+    <td rowspan="4">No</td>
+    <td rowspan="4">Yes</td>
+    <td rowspan="4">SF, DF, RF - all reports</td>
+    <td rowspan="4">N/A</td>
+    <td rowspan="4"></td>
+    <td rowspan="4">Cindy/CareFirst</td>
   </tr>
   <tr>
     <td>SFP</td>
@@ -2453,21 +2469,21 @@
     <td>Cindy/CareFirst</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Tested - CN</td>
-    <td rowspan="2">rowspan="2"  Date Stmt Cov From</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Tested - CN</td>
+    <td rowspan="2">Date Stmt Cov From</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F03-STMT-COV-FROM-DT</td>
     <td>1272-1281</td>
     <td>X(10)</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  No</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  SF, DF - all reports</td>
-    <td rowspan="2">rowspan="2"  N/A</td>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Cindy/CareFirst</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">No</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">SF, DF - all reports</td>
+    <td rowspan="2">N/A</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Cindy/CareFirst</td>
   </tr>
   <tr>
     <td>DF</td>
@@ -2494,21 +2510,21 @@
     <td>Cindy/CareFirst</td>
   </tr>
   <tr>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Tested - CN</td>
-    <td rowspan="2">rowspan="2"  Patient Status</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Tested - CN</td>
+    <td rowspan="2">Patient Status</td>
     <td>SFI</td>
     <td>01</td>
     <td>X-F03-PAT-STS-CD</td>
     <td>3227-3228</td>
     <td>X(2)</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  Yes</td>
-    <td rowspan="2">rowspan="2"  SF, DF - all reports</td>
-    <td rowspan="2">rowspan="2"  N/A</td>
-    <td rowspan="2">rowspan="2"</td>
-    <td rowspan="2">rowspan="2"  Cindy/CareFirst</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">Yes</td>
+    <td rowspan="2">SF, DF - all reports</td>
+    <td rowspan="2">N/A</td>
+    <td rowspan="2"></td>
+    <td rowspan="2">Cindy/CareFirst</td>
   </tr>
   <tr>
     <td>DF</td>
@@ -2553,6 +2569,7 @@
     <td></td>
     <td>Tested - CN</td>
     <td>Add HVA Reason Code exclusions for 208 and 246 to the Home Adjustments Processed &lt;= 14 Days measure (applies to all scorecards since inputs are shared, etc.)</td>
+    <td></td>
   </tr>
   </table></td>
   </tr>
@@ -2562,7 +2579,8 @@
     <td>High</td>
     <td>Enhancement</td>
     <td>See Details</td>
-    <td>See Details
+    <td>See Details</td>
+    <td>
   <table>
   <tr>
     <th>Bug</th>
@@ -2709,6 +2727,7 @@
     <td></td>
     <td>Tested - CN</td>
     <td>Extract file updates (version numbers)</td>
+    <td></td>
   </tr>
   </table></td>
   </tr>
@@ -2718,7 +2737,8 @@
     <td>High</td>
     <td>Enhancement</td>
     <td>See Details</td>
-    <td>See Details
+    <td>See Details</td>
+    <td>
   <table>
   <tr>
     <th>Bug</th>
@@ -2987,7 +3007,8 @@
     <td>High</td>
     <td>Enhancement</td>
     <td>See Details</td>
-    <td>See Details
+    <td>See Details</td>
+    <td>
   <table>
   <tr>
     <th>Bug</th>
@@ -3396,7 +3417,8 @@
     <td>High</td>
     <td>Enhancement</td>
     <td>See Details</td>
-    <td>See Details
+    <td>See Details</td>
+    <td>
   <table>
   <tr>
     <th>Bug</th>
@@ -3550,6 +3572,7 @@
     <td>Enhancement</td>
     <td>Development - Moved from 17.0 - Moved to 18.0</td>
     <td>Bug #1573</td>
+    <td></td>
   </tr>
   <tr>
     <td>**PDF exports: incorrect page numbers**</td>
@@ -3638,6 +3661,7 @@
     <td>Enhancement</td>
     <td>Tested - CN</td>
     <td>Bug #1615</td>
+    <td></td>
   </tr>
   <tr>
     <td>**Additional Comments parsing**</td>
@@ -3966,6 +3990,7 @@
     <td>Enhancement</td>
     <td>Development - Moved to 17.5</td>
     <td>Bug #1547</td>
+    <td></td>
   </tr>
   <tr>
     <td>**No warning popup when switching scorecards with unsaved manual inputs**</td>
@@ -3974,6 +3999,7 @@
     <td>Enhancement</td>
     <td>Tested</td>
     <td>Bug #1595</td>
+    <td></td>
   </tr>
 </table>
 <br  />
@@ -4490,6 +4516,7 @@
     <td>Defect</td>
     <td></td>
     <td>Bug #1557</td>
+    <td></td>
   </tr>
   <tr>
     <td>**Display FlexReport column descriptions**</td>
@@ -4497,6 +4524,7 @@
     <td>Low</td>
     <td>Enhancement</td>
     <td>Proposed</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>

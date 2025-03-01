@@ -109,7 +109,7 @@ for NFs, but no further work will occur for them.
     <td>CFA Code != 0</td>
   </tr>
   <tr>
-    <td colspan="4">colspan="4"  ...</td>
+    <td colspan="4">4"  ...</td>
   </tr>
   <tr>
     <td>99</td>
@@ -160,11 +160,11 @@ using its own fields, setting Date Closed to its own Date Started:
 
 <table>
   <tr>
-    <th colspan="3">colspan="3"</th>
+    <th colspan="3">3"</th>
     <th>Applies To</th>
-    <th rowspan="2">rowspan="2"</th>
+    <th rowspan="2"></th>
     <th>Scenario</th>
-    <th rowspan="2">rowspan="2"</th>
+    <th rowspan="2"></th>
     <th>Notes</th>
   </tr>
   <tr>

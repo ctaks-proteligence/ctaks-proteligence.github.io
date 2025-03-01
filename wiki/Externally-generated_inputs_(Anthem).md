@@ -226,21 +226,21 @@ Each input increments its value by one according to the following:
 <table>
     <caption>Increments?</caption>
   <tr>
-    <th rowspan="4">rowspan="4"</th>
+    <th rowspan="4"></th>
     <th>Input Title</th>
-    <th colspan="6">colspan="6"</th>
+    <th colspan="6">6"</th>
     <th>Host/Home Ind</th>
   </tr>
   <tr>
-    <th colspan="3">colspan="3"</th>
+    <th colspan="3">3"</th>
     <th>'1'</th>
-    <th colspan="3">colspan="3"</th>
+    <th colspan="3">3"</th>
     <th>'2'</th>
   </tr>
   <tr>
-    <th colspan="3">colspan="3"</th>
+    <th colspan="3">3"</th>
     <th>Cycle Time</th>
-    <th colspan="3">colspan="3"</th>
+    <th colspan="3">3"</th>
     <th>Cycle Time</th>
   </tr>
   <tr>
