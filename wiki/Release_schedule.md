@@ -1133,7 +1133,7 @@
     <td>ID from latest state with status FNAL and where ID is not RESTORE</td>
     <td>Dolores.Castro@BlueKC.com and Ann Lessard (annl@ebpabenefits.com)</td>
   </tr>
-</table>
+  </table></td>
   </tr>
 </table>
 <br  />
@@ -1202,7 +1202,7 @@
     <td>350-351</td>
     <td>X(2)</td>
   </tr>
-</table>
+  </table></td>
   </tr>
 </table>
 <br  />
@@ -1247,7 +1247,7 @@
     <td>17 characters</td>
     <td>Cindy/CareFirst</td>
   </tr>
-</table>
+  </table></td>
   </tr>
 </table>
 <br  />
@@ -1367,7 +1367,7 @@
     <td>619-622</td>
     <td>X(4)</td>
   </tr>
-</table>
+  </table></td>
   </tr>
 </table>
 <br  />
@@ -1494,7 +1494,7 @@
     <td>Y, N, or null</td>
     <td>Chad Cole/AR</td>
   </tr>
-</table>
+  </table></td>
   </tr>
 </table>
 <br  />
@@ -1734,7 +1734,7 @@
     <td>*Expect integer 0 - 20</td>
     <td>Caryl/Anthem</td>
   </tr>
-</table>
+  </table></td>
   </tr>
 </table>
 <br  />
@@ -1902,7 +1902,7 @@
     <td></td>
     <td>Barry.Delong@bcbsnc.com and Stephane.LeBlanc@bcbsnc.com</td>
   </tr>
-</table>
+  </table></td>
   </tr>
 </table>
 <br  />
@@ -1977,7 +1977,7 @@
     <td>939-947</td>
     <td>X(9)</td>
   </tr>
-</table>
+  </table></td>
   </tr>
 </table>
 <br  />
@@ -2125,7 +2125,7 @@
     <td>210-210</td>
     <td>X(1)</td>
   </tr>
-</table>
+  </table></td>
   </tr>
 </table>
 <br  />
@@ -2517,7 +2517,7 @@
     <td>769-770</td>
     <td>X(2)</td>
   </tr>
-</table>
+  </table></td>
   </tr>
 </table>
 <br  />
@@ -2554,7 +2554,7 @@
     <td>Tested - CN</td>
     <td>Add HVA Reason Code exclusions for 208 and 246 to the Home Adjustments Processed &lt;= 14 Days measure (applies to all scorecards since inputs are shared, etc.)</td>
   </tr>
-</table>
+  </table></td>
   </tr>
   <tr>
     <td>'''Additional FlexReport Columns'''</td>
@@ -2574,7 +2574,7 @@
     <th>Calculation</th>
     <th>Requested By</th>
   </tr>
-</table>
+  </table></td>
   </tr>
   <tr>
     <td>'''2020 Scorecard update'''</td>
@@ -2710,7 +2710,7 @@
     <td>Tested - CN</td>
     <td>Extract file updates (version numbers)</td>
   </tr>
-</table>
+  </table></td>
   </tr>
   <tr>
     <td>'''Additional FlexReport Columns'''</td>
@@ -2750,7 +2750,7 @@
     <td>N/A</td>
     <td>This is a new field in 18.5; confirmed desirable in 18.5 by Anthem/Christina</td>
   </tr>
-</table>
+  </table></td>
   </tr>
   <tr>
     <td>'''Add Scorecard views to Dashboard'''</td>
@@ -2932,7 +2932,7 @@
     <td></td>
     <td>Update Med Recs Adjud and Claim Appeals measures per new BCBSA rules; see validation document for details</td>
   </tr>
-</table>
+  </table></td>
   </tr>
   <tr>
     <td>'''Anthem LCD logging'''</td>
@@ -2979,7 +2979,7 @@
     <td>Extract file updates</td>
     <td>Tested with sample 18.0.1 files received from BCBSA (B2 version number updates only; no layout changes)</td>
   </tr>
-</table>
+  </table></td>
   </tr>
   <tr>
     <td>'''Additional FlexReport Columns'''</td>
@@ -2999,7 +2999,7 @@
     <th>Calculation</th>
     <th>Requested By</th>
   </tr>
-</table>
+  </table></td>
   </tr>
   <tr>
     <td>'''Ctrl # Home XRef, Ctrl # Host XRef update'''</td>
@@ -3349,8 +3349,7 @@
     <td></td>
     <td>Update 2017 Scorecard measure titles for 2018</td>
   </tr>
-</table>
-NOTE: These updates are expected to go to production in IPDS in mid-January but will apply officially as of 1/1/18. Older data viewed will reflect the new allocation as well, but the official scores for 2017 will be based on the initial 17.5 version.&lt;br&gt;&lt;br&gt;NOTE: If an ETL update ends up being required for some reason, the Ctrl # Home/Host XRef update needs to be included.&lt;br&gt;&lt;br&gt;bugnum=1646}} - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with 17.5.1 (3.8.1).
+  </table>NOTE: These updates are expected to go to production in IPDS in mid-January but will apply officially as of 1/1/18. Older data viewed will reflect the new allocation as well, but the official scores for 2017 will be based on the initial 17.5 version.&lt;br&gt;&lt;br&gt;NOTE: If an ETL update ends up being required for some reason, the Ctrl # Home/Host XRef update needs to be included.&lt;br&gt;&lt;br&gt;bugnum=1646}} - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with 17.5.1 (3.8.1).
     </td>
   </tr>
 </table>
@@ -3402,7 +3401,7 @@ NOTE: - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with
     <td>e_104138</td>
     <td>Change Alpha Prefix column references to Prefix and verify support of numeric characters in field</td>
   </tr>
-</table>
+  </table></td>
   </tr>
   <tr>
     <td>'''Additional FlexReport Columns'''</td>
@@ -3492,7 +3491,7 @@ NOTE: - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with
     <td>N/A</td>
     <td>Jason.Mciver@blueshieldca.com</td>
   </tr>
-</table>
+  </table></td>
   </tr>
   <tr>
     <td>'''Eliminate need for manual build to remove Sub ID Suffix'''</td>
@@ -3800,7 +3799,7 @@ NOTE: - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with
     <td>e_113471</td>
     <td>Scorecard input calculation: Logic change for Home Adjustment Requests (% Home Med Recs Adjud &lt;= 30).</td>
   </tr>
-</table>
+  </table></td>
   </tr>
   <tr>
     <td>'''Additional FlexReport Columns'''</td>
@@ -3872,7 +3871,7 @@ NOTE: - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with
     <td>N/A</td>
     <td>Anthem:  Eliz</td>
   </tr>
-</table>
+  </table></td>
   </tr>
   <tr>
     <td>'''Ignore Global Purges'''</td>
@@ -4091,7 +4090,7 @@ NOTE: - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with
     <td>e_102914</td>
     <td>Adjustment response messages in Mismatch status may now be Terminated. Confirm scorecard calculations do not include Terminated adjustment response messages that were previously in Mismatch state.</td>
   </tr>
-</table>
+  </table></td>
   </tr>
   <tr>
     <td>'''Additional FlexReport Columns'''</td>
@@ -4118,7 +4117,7 @@ NOTE: - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with
     <td></td>
     <td>CareFirst: Cindy Glinowiecki</td>
   </tr>
-</table>
+  </table></td>
   </tr>
   <tr>
     <td>'''Close logic: End-to-End Experiences'''</td>
@@ -4306,7 +4305,7 @@ NOTE: - update "Adj Rsp Approval?" to "Rsp Approval?" - was sent with
     <td></td>
     <td>SC: Steven Hankins</td>
   </tr>
-</table>
+  </table></td>
   </tr>
   <tr>
     <td>'''Close Indicator and Date Defects'''</td>
