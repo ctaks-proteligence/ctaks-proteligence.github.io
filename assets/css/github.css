@@ -290,7 +290,6 @@ body>.wrapper table {
     border-spacing: 0;
     border: 1px solid black;
     max-width: 100%;
-    table-layout: auto;
 }
 
 body>.wrapper td,
