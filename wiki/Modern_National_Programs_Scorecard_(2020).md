@@ -167,7 +167,7 @@ and one of the following conditions is true:
 - the earlier of ADJ_RESP_DATE and VOID_DF_DATE is between 'MM/01/MMMM'
   and 'MM/DD/MMMM'
 
-=====Home Adjustment Messages Proc \<= 14 Days=====
+##### Home Adjustment Messages Proc \<= 14 Days
 
 Count of above where:
 
@@ -255,7 +255,7 @@ and one of the following conditions is true:
 - the earlier of ADJ_RESP_DATE and VOID_DF_DATE is between 'MM/01/MMMM'
   and 'MM/DD/MMMM'
 
-=====Host Adjustment Messages Proc \<= 7 Days=====
+##### Host Adjustment Messages Proc \<= 7 Days
 
 Count of above where:
 
@@ -371,7 +371,7 @@ and one of the following conditions is true:
 - MEDREC_DATE \<= DATE2 or
 - INFOMSG_DATE is not null
 
-=====Home Medical Record Claims Adjudicated \<= 30 Days=====
+##### Home Medical Record Claims Adjudicated \<= 30 Days
 
 Count of above where:
 
@@ -421,7 +421,7 @@ where there is a matching message as follows:
     t2.SEND_RCVE_CD = 'R'
     t2.OPEN_CLOSE_IND = '2'
 
-=====Host Misrouted Messages Processed \<= 10 Days=====
+##### Host Misrouted Messages Processed \<= 10 Days
 
 Count of above where:
 
@@ -496,7 +496,7 @@ and one of the following conditions is true:
 - the earlier of CLM_RESP_DATE and VOID_DF_DATE is between 'MM/01/MMMM'
   and 'MM/DD/MMMM' and
 
-=====Home Claim Appeals Resolved \<= 20 Days=====
+##### Home Claim Appeals Resolved \<= 20 Days
 
 Count of above where:
 
@@ -559,7 +559,7 @@ and one of the following conditions is true:
 - the earlier of CLM_RESP_DATE and VOID_DF_DATE is between 'MM/01/MMMM'
   and 'MM/DD/MMMM'
 
-=====Host Claim Appeals Resolved \<= 20 Days=====
+##### Host Claim Appeals Resolved \<= 20 Days
 
 Count of above where:
 
@@ -608,7 +608,7 @@ where there is a matching message as follows:
     t2.SEND_RCVE_CD = 'R' and
     t2.SCCF_ID <> ''
 
-=====Home General Inquiries Finalized \<= 14 Days=====
+##### Home General Inquiries Finalized \<= 14 Days
 
 Count of above where:
 
@@ -650,7 +650,7 @@ where there is a matching message as follows:
     t2.SEND_RCVE_CD = 'R' and
     t2.SCCF_ID <> ''
 
-=====Host General Inquiries Finalized \<= 14 Days=====
+##### Host General Inquiries Finalized \<= 14 Days
 
 Count of above where:
 

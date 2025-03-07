@@ -133,7 +133,7 @@ where there is no matching message or Void DF as follows:
     df2_.HOST_HOME_CD = '2' and
     df2_.FMT_DB_POST_DT <= 'MM/DD/YYYY'
 
-=====Home Adjustment Messages to Process \<= 14 Days=====
+##### Home Adjustment Messages to Process \<= 14 Days
 
 Count of above where:
 
@@ -205,7 +205,7 @@ where there is no matching message or Void DF as follows:
     df2_.HOST_HOME_CD = '1' and
     df2_.FMT_DB_POST_DT <= 'MM/DD/YYYY'
 
-=====Host Adjustment Messages to Process \<= 7 Days=====
+##### Host Adjustment Messages to Process \<= 7 Days
 
 Count of above where:
 
@@ -296,7 +296,7 @@ and where neither of the following is true:
     t0.RSN_CD = '240' and
     No approved cancellation exists as of the report date
 
-=====Home Medical Record Claims to Adjudicate \<= 30 Days=====
+##### Home Medical Record Claims to Adjudicate \<= 30 Days
 
 Count of above where:
 
@@ -340,7 +340,7 @@ where there is no matching message as follows:
     t1.PGM_CD <> '6' and
     t1.CRT_DT <= 'MM/DD/YYYY'
 
-=====Host Misroute Messages to Process \<= 10 Days=====
+##### Host Misroute Messages to Process \<= 10 Days
 
 Count of above where:
 
@@ -406,7 +406,7 @@ and where there is no matching message or Void DF as follows:
     df2_.HOST_HOME_CD = '2' and
     df2_.FMT_DB_POST_DT <= 'MM/DD/YYYY'
 
-=====Home Claim Appeals to Resolve \<= 20 Days=====
+##### Home Claim Appeals to Resolve \<= 20 Days
 
 Count of above where:
 
@@ -458,7 +458,7 @@ and where there is no matching message or Void DF as follows:
     df2_.HOST_HOME_CD = '2' and
     df2_.FMT_DB_POST_DT <= 'MM/DD/YYYY'
 
-=====Host Claim Appeals to Resolve \<= 20 Days=====
+##### Host Claim Appeals to Resolve \<= 20 Days
 
 Count of above where:
 
@@ -505,7 +505,7 @@ where there is no matching message as follows:
     t1.REQ_RESP_IND = 'R' and
     t1.CRT_DT <= 'MM/DD/YYYY';
 
-=====Home General Inquiries to Finalize \<= 14 Days=====
+##### Home General Inquiries to Finalize \<= 14 Days
 
 Count of above where:
 
@@ -548,7 +548,7 @@ where there is no matching message as follows:
     t1.REQ_RESP_IND = 'R' and
     t1.CRT_DT <= 'MM/DD/YYYY';
 
-=====Host General Inquiries to Finalize \<= 14 Days=====
+##### Host General Inquiries to Finalize \<= 14 Days
 
 Count of above where:
 

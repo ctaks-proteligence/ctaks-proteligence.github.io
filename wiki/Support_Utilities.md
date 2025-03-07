@@ -29,18 +29,18 @@ Latest Info:
 Usage:
 
 - `java -jar extract-datagen-0.0.1-SNAPSHOT.jar -b {boid} -msc {masterstationcode} -p {processid} -d {xmltemplate} -xml|-dat`
-- ~~`java -cp path-to-extract-datagen-jar;path-to-db2-driver;path-to-dn3-properties-planexit com.proteligence.datanet.tools.test.data.main.ExtractGenerator `<parameters>~~
+- ~~`java -cp path-to-extract-datagen-jar;path-to-db2-driver;path-to-dn3-properties-planexit com.proteligence.datanet.tools.test.data.main.ExtractGenerator <parameters>`~~
 
 Required Parameters
 
-1.  -b/--boid <arg>:
+1.  -b/--boid \<arg\>:
     - the boid to be used with the records to be generated. The boid can
       also be specified in the xml definition, if specified the boid in
       the xml will be used.
-2.  -msc/--master-station-code <arg>:
+2.  -msc/--master-station-code \<arg\>:
     - the master station code to be used with the records to be
       generated. This is currently not output on the XML descriptor.
-3.  -pid/--process-id <arg>:
+3.  -pid/--process-id \<arg\>:
     - the process id to be used with the records generated. This is
       currently not output on the XML descriptor.
 4.  -dat/--export-extract:
@@ -56,19 +56,19 @@ Required Parameters
 
 Optional Parameters
 
-1.  -v/--version <arg>:
+1.  -v/--version \<arg\>:
     - the IPP Release version '15.0' - '16.0.1', defaults to the latest
       IPP Release
-2.  -o/--output <arg>:
+2.  -o/--output \<arg\>:
     - the output directory to which the generated files will be written
-3.  -c/--count <arg>
+3.  -c/--count \<arg\>
     - specify the total number of claim experiences to be generated
-4.  -sd/--start-date <YYYY-MM-DD>:
+4.  -sd/--start-date \<YYYY-MM-DD\>:
     - specify the start date which claim experiences are generated with,
-      1 claim experience per day up to today or <end-date>
-5.  -ed/--end-date <YYYY-MM-DD>:
+      1 claim experience per day up to today or \<end-date\>
+5.  -ed/--end-date \<YYYY-MM-DD\>:
     - specify the end date which claim experiences are generated up to,
-      from <start-date> or today.
+      from \<start-date\> or today.
 6.  -z/--compress
     - indicates whether the output should be compressed, defaults to
       false - only applies to flat file outputs
