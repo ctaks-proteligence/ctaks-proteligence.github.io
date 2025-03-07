@@ -36,7 +36,7 @@ remove only some records comprising a claim experience. A claim
 experience is removed only if all the following are true of the records
 present:
 
-1.  **Non-purged fact records:**
+A.  **Non-purged fact records:**
     1.  All in the claim experience are closed.
     2.  The latest Date Closed (explicit or implicit) in the claim
         experience is earlier than the earliest date to retain.
@@ -51,7 +51,7 @@ present:
         - A Void DF exists.
     4.  No records in the claim experience have STS_CD that is not V or
         R ().
-2.  **Selective-purge records:** The latest Last Update Timestamp in the
+B.  **Selective-purge records:** The latest Last Update Timestamp in the
     claim experience is earlier than the earliest date to retain.
 
 Selectively-purged fact records are not considered; they may have been

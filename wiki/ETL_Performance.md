@@ -34,17 +34,8 @@ serialization.
 **Parameters**
 
 - Type of serializer (Kryo or ETL 2.1.1)
-
-<!-- -->
-
 - Compression (LZF compression or None)
-
-<!-- -->
-
 - CompatibleFieldSerializer (Kryo only)
-
-<!-- -->
-
 - Class and object serialization (Kryo only)
 
 **Results (Entry)**
@@ -64,14 +55,14 @@ and deserialization of 500000 Entry objects.
     <th colspan="2">  Disk Times</th>
   </tr>
   <tr align="center">
-    <th>scope="col"  Trial</th>
-    <th>scope="col"  Serializer Type</th>
-    <th>scope="col"  Compressed</th>
-    <th>scope="col"  Compatible</th>
-    <th>scope="col"  Class and Object</th>
-    <th>scope="col"  Serialization (ms)</th>
-    <th>scope="col"  Serialization (ms)</th>
-    <th>scope="col"  Deserialization (ms)</th>
+    <th>Trial</th>
+    <th>Serializer Type</th>
+    <th>Compressed</th>
+    <th>Compatible</th>
+    <th>Class and Object</th>
+    <th>Serialization (ms)</th>
+    <th>Serialization (ms)</th>
+    <th>Deserialization (ms)</th>
   </tr>
   <tr align="center">
     <td>1</td>
@@ -172,14 +163,14 @@ and deserialization of 100000000 EntryB objects.
     <th colspan="2">  Disk Times</th>
   </tr>
   <tr align="center">
-    <th>scope="col"  Trial</th>
-    <th>scope="col"  Serializer Type</th>
-    <th>scope="col"  Compressed</th>
-    <th>scope="col"  Compatible</th>
-    <th>scope="col"  Class and Object</th>
-    <th>scope="col"  Serialization (ms)</th>
-    <th>scope="col"  Serialization (ms)</th>
-    <th>scope="col"  Deserialization (ms)</th>
+    <th>Trial</th>
+    <th>Serializer Type</th>
+    <th>Compressed</th>
+    <th>Compatible</th>
+    <th>Class and Object</th>
+    <th>Serialization (ms)</th>
+    <th>Serialization (ms)</th>
+    <th>Deserialization (ms)</th>
   </tr>
   <tr align="center">
     <td>1</td>
@@ -268,14 +259,8 @@ and deserialization of 100000000 EntryB objects.
 **Constructors**
 
 - public Entry() //creates an instance of Entry with null fields
-
-<!-- -->
-
 - public Entry(boolean a) //creates an instance of Entry with all
   non-null randomly generated fields
-
-<!-- -->
-
 - public Entry(String m1, String m2, long m3, int m4, double m5, String
   m6, Date m7) //creates an instance of Entry with specified field
   values
@@ -283,30 +268,12 @@ and deserialization of 100000000 EntryB objects.
 **Fields**
 
 - private String m1 //10000 character, randomly generated string
-
-<!-- -->
-
 - private String m2 //500 characeter, randomly generated string
-
-<!-- -->
-
 - private long m3 //randomly generated long between 0 and Long.MAX_VALUE
-
-<!-- -->
-
 - private int m4 //randomly generated int between 0 and
   Integer.MAX_VALUE
-
-<!-- -->
-
 - private double m5 //randomly generated double
-
-<!-- -->
-
 - private String m6 // 10 character, randomly generated string
-
-<!-- -->
-
 - private Date m7 //default constructed Date object
 
 ### EntryB
@@ -314,14 +281,8 @@ and deserialization of 100000000 EntryB objects.
 **Constructors**
 
 - public EntryB() //creates an instance of EntryB with null fields
-
-<!-- -->
-
 - public EntryB(boolean a) //creates an instance of EntryB with all
   non-null randomly generated fields
-
-<!-- -->
-
 - public EntryB(String randString, String short1, String short2, String
   short3, String short4, String short5, String short6) //creates an
   instance of EntryB with specified field values
@@ -329,34 +290,16 @@ and deserialization of 100000000 EntryB objects.
 **Fields**
 
 - private String randString //32 character, randomly generated string
-
-<!-- -->
-
 - private String short1 //a choice of four, 4 character long random
   strings
-
-<!-- -->
-
 - private String short2 //a choice of four, 8 character long random
   strings
-
-<!-- -->
-
 - private String short3 //a choice of four, 2 character long random
   strings
-
-<!-- -->
-
 - private String short4 //a choice of four, 1 character long random
   strings
-
-<!-- -->
-
 - private String short5 //a choice of four, 4 character long random
   strings
-
-<!-- -->
-
 - private String short6 //a choice of four, 4 character long random
   strings
 
@@ -386,17 +329,8 @@ and the time was recorded.
 **Parameters**
 
 - Type of serializer (Kryo or ETL 2.1.1)
-
-<!-- -->
-
 - CompatibleFieldSerializer (Kryo only)
-
-<!-- -->
-
 - Class and object serialization (Kryo only)
-
-<!-- -->
-
 - Compression (LZF compression, Snappy, or LZ4)
 
 **Results (Entry)**
@@ -413,18 +347,18 @@ set).
     <th colspan="2">  LZ4</th>
   </tr>
   <tr align="center">
-    <th>scope="col"  Trial</th>
-    <th>scope="col"  Serialization Type</th>
-    <th>scope="col"  Compatible</th>
-    <th>scope="col"  Class and Object</th>
-    <th>scope="col"  Serialization (ms)</th>
-    <th>scope="col"  Deserialization (ms)</th>
-    <th>scope="col"  Size On Disk (kb)</th>
-    <th>scope="col"  Serialization (ms)</th>
-    <th>scope="col"  Deserialization (ms)</th>
-    <th>scope="col"  Size On Disk (kb)</th>
-    <th>scope="col"  Serialization (ms)</th>
-    <th>scope="col"  Deserialization (ms)</th>
+    <th>Trial</th>
+    <th>Serialization Type</th>
+    <th>Compatible</th>
+    <th>Class and Object</th>
+    <th>Serialization (ms)</th>
+    <th>Deserialization (ms)</th>
+    <th>Size On Disk (kb)</th>
+    <th>Serialization (ms)</th>
+    <th>Deserialization (ms)</th>
+    <th>Size On Disk (kb)</th>
+    <th>Serialization (ms)</th>
+    <th>Deserialization (ms)</th>
   </tr>
   <tr align="center">
     <td>1</td>
@@ -497,18 +431,18 @@ EntryB objects).
     <th colspan="2">  LZ4</th>
   </tr>
   <tr align="center">
-    <th>scope="col"  Trial</th>
-    <th>scope="col"  Serialization Type</th>
-    <th>scope="col"  Compatible</th>
-    <th>scope="col"  Class and Object</th>
-    <th>scope="col"  Serialization (ms)</th>
-    <th>scope="col"  Deserialization (ms)</th>
-    <th>scope="col"  Size On Disk (kb)</th>
-    <th>scope="col"  Serialization (ms)</th>
-    <th>scope="col"  Deserialization (ms)</th>
-    <th>scope="col"  Size On Disk (kb)</th>
-    <th>scope="col"  Serialization (ms)</th>
-    <th>scope="col"  Deserialization (ms)</th>
+    <th>Trial</th>
+    <th>Serialization Type</th>
+    <th>Compatible</th>
+    <th>Class and Object</th>
+    <th>Serialization (ms)</th>
+    <th>Deserialization (ms)</th>
+    <th>Size On Disk (kb)</th>
+    <th>Serialization (ms)</th>
+    <th>Deserialization (ms)</th>
+    <th>Size On Disk (kb)</th>
+    <th>Serialization (ms)</th>
+    <th>Deserialization (ms)</th>
   </tr>
   <tr align="center">
     <td>1</td>
@@ -573,14 +507,8 @@ EntryB objects).
 **Constructors**
 
 - public Entry() //creates an instance of Entry with null fields
-
-<!-- -->
-
 - public Entry(boolean a) //creates an instance of Entry with all
   non-null randomly generated fields
-
-<!-- -->
-
 - public Entry(String m1, String m2, long m3, int m4, double m5, String
   m6, Date m7) //creates an instance of Entry with specified field
   values
@@ -588,30 +516,12 @@ EntryB objects).
 **Fields**
 
 - private String m1 //10000 character, randomly generated string
-
-<!-- -->
-
 - private String m2 //500 characeter, randomly generated string
-
-<!-- -->
-
 - private long m3 //randomly generated long between 0 and Long.MAX_VALUE
-
-<!-- -->
-
 - private int m4 //randomly generated int between 0 and
   Integer.MAX_VALUE
-
-<!-- -->
-
 - private double m5 //randomly generated double
-
-<!-- -->
-
 - private String m6 // 10 character, randomly generated string
-
-<!-- -->
-
 - private Date m7 //default constructed Date object
 
 ### EntryB
@@ -619,14 +529,8 @@ EntryB objects).
 **Constructors**
 
 - public EntryB() //creates an instance of EntryB with null fields
-
-<!-- -->
-
 - public EntryB(boolean a) //creates an instance of EntryB with all
   non-null randomly generated fields
-
-<!-- -->
-
 - public EntryB(String randString, String short1, String short2, String
   short3, String short4, String short5, String short6) //creates an
   instance of EntryB with specified field values
@@ -634,34 +538,16 @@ EntryB objects).
 **Fields**
 
 - private String randString //32 character, randomly generated string
-
-<!-- -->
-
 - private String short1 //a choice of four, 4 character long random
   strings
-
-<!-- -->
-
 - private String short2 //a choice of four, 8 character long random
   strings
-
-<!-- -->
-
 - private String short3 //a choice of four, 2 character long random
   strings
-
-<!-- -->
-
 - private String short4 //a choice of four, 1 character long random
   strings
-
-<!-- -->
-
 - private String short5 //a choice of four, 4 character long random
   strings
-
-<!-- -->
-
 - private String short6 //a choice of four, 4 character long random
   strings
 
@@ -685,47 +571,17 @@ selection of four different Entry types described below.
 
 - Start State - The state the CDF was in before applying changes
   (corresponds to ClaimDataFileState enum)
-
-<!-- -->
-
 - Record Count - The number of records loaded
-
-<!-- -->
-
 - File Count - The number of CDF files corresponding to the record count
   and start state
-
-<!-- -->
-
 - Disk Type
-
-<!-- -->
-
 - Partition Count (claimmanager.partitions.number)
-
-<!-- -->
-
 - CDF Compression (claimmanager.repo.compressed)
-
-<!-- -->
-
 - Temp File Compression (claimmanager.repo.compressed)
-
-<!-- -->
-
 - Concurrency (claimmanager.concurrency.sort and
   claimmanager.concurrency.merge)
-
-<!-- -->
-
 - Buffer Size (claimmanager.filebuffersizek)
-
-<!-- -->
-
 - Sort Threshold (claimmanager.sort.size)
-
-<!-- -->
-
 - Max Merge Files (claimmanager.merge.maxfiles)
 
 **Results**
@@ -738,20 +594,20 @@ TODO
     <th colspan="3">  Results</th>
   </tr>
   <tr align="center">
-    <th>scope="col"  Start State</th>
-    <th>scope="col"  Record Count</th>
-    <th>scope="col"  File Count</th>
-    <th>scope="col"  Disk Type</th>
-    <th>scope="col"  Partition Count</th>
-    <th>scope="col"  CDF Compression</th>
-    <th>scope="col"  Temp File Compression</th>
-    <th>scope="col"  Concurrency</th>
-    <th>scope="col"  Buffer Size</th>
-    <th>scope="col"  Sort Threshold</th>
-    <th>scope="col"  Max Merge Files</th>
-    <th>scope="col"  Sort Time (ms)</th>
-    <th>scope="col"  Merge Rounds</th>
-    <th>scope="col"  Merge Time (ms)</th>
+    <th>Start State</th>
+    <th>Record Count</th>
+    <th>File Count</th>
+    <th>Disk Type</th>
+    <th>Partition Count</th>
+    <th>CDF Compression</th>
+    <th>Temp File Compression</th>
+    <th>Concurrency</th>
+    <th>Buffer Size</th>
+    <th>Sort Threshold</th>
+    <th>Max Merge Files</th>
+    <th>Sort Time (ms)</th>
+    <th>Merge Rounds</th>
+    <th>Merge Time (ms)</th>
   </tr>
   <tr align="center">
     <td>SORT</td>
@@ -891,22 +747,13 @@ implementations.
 
 - String key1 //randomly generated lowercase character string with
   length of 4
-
-<!-- -->
-
 - String key2 //string randomly picked from \["1", "2"\]
-
-<!-- -->
-
 - String key3 //randomly generated numeric string with length of 10
 
 *Scorecard Fields*
 
 - String scorecard1 //randomly generated lowercase character string with
   length of 8
-
-<!-- -->
-
 - String scorecard2 //randomly generated numeric string with length of 3
 
 #### BenchmarkEntryA Fields
@@ -915,64 +762,25 @@ implementations.
 
 - String abcd //randomly generated lowercase character string with
   length of 4
-
-<!-- -->
-
 - long efgh //randomly generated date between 2000-01-01 and 2015-04-01
 
 *Extended Field Map*
 
 - long 1 //randomly generated date between 2000-01-01 and 2015-04-01
-
-<!-- -->
-
 - int 2 //randomly generated int between 0 and 100
-
-<!-- -->
-
 - String 3 //randomly generated lowercase character string with length
   of 6
-
-<!-- -->
-
 - String 4 //randomly generated lowercase character string with length
   of 4
-
-<!-- -->
-
 - String 5 //string randomly picked from \["Y", "N"\]
-
-<!-- -->
-
 - int 6 //randomly generated int between Integer.MIN_VALUE and
   Integer.MAX_VALUE
-
-<!-- -->
-
 - String 7 //randomly generated numeric string with length of 4
-
-<!-- -->
-
 - long 8 //randomly generated date between 2000-01-01 and 2015-04-01
-
-<!-- -->
-
 - double 9 //randomly generated double between 0.0 and 1.0
-
-<!-- -->
-
 - long 10 //randomly generated date between 2000-01-01 and 2015-04-01
-
-<!-- -->
-
 - String 11 //string randomly picked from \["A", "B", "C", "D", "E"\]
-
-<!-- -->
-
 - int 12 //int randomly picked from \[5, 7, 10\]
-
-<!-- -->
-
 - int 13 //randomly generated int between 0 and 5000
 
 #### BenchmarkEntryB Fields
@@ -980,56 +788,23 @@ implementations.
 *Scorecard Fields*
 
 - long ijkl //randomly generated double between 0.0 and 1.0
-
-<!-- -->
-
 - String mnop //string randomly picked from \["W", "N", "P"\]
-
-<!-- -->
-
 - String qrst //randomly generated lowercase character string with
   length of 2
 
 *Extended Field Map*
 
 - String 1 //randomly generated numeric string with length of 6
-
-<!-- -->
-
 - String 2 //string randomly picked from \["Y", "N"\]
-
-<!-- -->
-
 - long 3 //randomly generated date between 2000-01-01 and 2015-04-01
-
-<!-- -->
-
 - String 4 //randomly generated numeric string with length of 6
-
-<!-- -->
-
 - double 5 //randomly generated double between 0.0 and 1.0
-
-<!-- -->
-
 - double 6 //randomly generated double between 0.0 and 1.0
-
-<!-- -->
-
 - String 7 //randomly generated lowercase character string with length
   of 20
-
-<!-- -->
-
 - int 8 //randomly generated int between Integer.MIN_VALUE and
   Integer.MAX_VALUE
-
-<!-- -->
-
 - long 9 //randomly generated date between 2000-01-01 and 2015-04-01
-
-<!-- -->
-
 - int 10 //randomly generated int between Integer.MIN_VALUE and
   Integer.MAX_VALUE
 
@@ -1043,64 +818,22 @@ implementations.
 
 - int 1 //randomly generated int between Integer.MIN_VALUE and
   Integer.MAX_VALUE
-
-<!-- -->
-
 - int 2 //randomly generated int between Integer.MIN_VALUE and
   Integer.MAX_VALUE
-
-<!-- -->
-
 - String 3 //randomly generated numeric string with length of 8
-
-<!-- -->
-
 - String 4 //randomly generated lowercase character string with length
   of 3
-
-<!-- -->
-
 - String 5 //string randomly picked from \["Y", "N"\]
-
-<!-- -->
-
 - long 6 //randomly generated date between 2000-01-01 and 2015-04-01
-
-<!-- -->
-
 - double 7 //randomly generated double between 0.0 and 1.0
-
-<!-- -->
-
 - String 8 //string randomly picked from \["R", "Q", "P"\]
-
-<!-- -->
-
 - String 9 //randomly generated lowercase character string with length
   of 4
-
-<!-- -->
-
 - long 10 //randomly generated date between 2000-01-01 and 2015-04-01
-
-<!-- -->
-
 - String 11 //randomly generated numeric string with length of 4
-
-<!-- -->
-
 - int 12 //randomly generated int between 0 and 100
-
-<!-- -->
-
 - int 13 //randomly picked from \[1, 0\]
-
-<!-- -->
-
 - double 14 //randomly generated double between 0.0 and 1.0
-
-<!-- -->
-
 - int 16 //randomly generated int between Integer.MIN_VALUE and
   Integer.MAX_VALUE
 
@@ -1109,61 +842,25 @@ implementations.
 *Scorecard Fields*
 
 - String yzab //randomly generated numeric string with length of 4
-
-<!-- -->
-
 - long cdef //string randomly picked from \["O", "C"\]
 
 *Extended Field Map*
 
 - String 1 //randomly generated lowercase character string with length
   of 4
-
-<!-- -->
-
 - String 2 //string randomly picked from \["S", "R"\]
-
-<!-- -->
-
 - long 3 //randomly generated date between 2000-01-01 and 2015-04-01
-
-<!-- -->
-
 - String 4 //string randomly picked from \["Y", "N"\]
-
-<!-- -->
-
 - double 5 //randomly generated double between 0.0 and 1.0
-
-<!-- -->
-
 - int 6 //randomly generated int between Integer.MIN_VALUE and
   Integer.MAX_VALUE
-
-<!-- -->
-
 - String 7 //randomly generated numeric string with length of 6
-
-<!-- -->
-
 - long 8 //randomly generated date between 2000-01-01 and 2015-04-01
-
-<!-- -->
-
 - String 9 //randomly generated lowercase character string with length
   of 2
-
-<!-- -->
-
 - int 10 //randomly generated int between Integer.MIN_VALUE and
   Integer.MAX_VALUE
-
-<!-- -->
-
 - String 11 //randomly generated numeric string with length of 3
-
-<!-- -->
-
 - double 12 //randomly generated double between 0.0 and 1.0
 
 # AdjustmentResponseApproval Updates Benchmark

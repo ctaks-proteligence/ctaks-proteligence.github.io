@@ -1,7 +1,5 @@
 # ETL Logging
 
-## ETL Logging
-
 TODO - document current and future WARN,ERROR,INFO,DEBUG,TRACE logger
 lines. Expected use cases and rationale.
 
