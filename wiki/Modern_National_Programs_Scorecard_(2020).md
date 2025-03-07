@@ -115,7 +115,7 @@ Count of above where:
 - Host SF Proc Total = 100000
 - Host SF Proc \> 10 Days = 102000
 
-===Home Adjustments Processed \<= 14 Days===
+### Home Adjustments Processed \<= 14 Days
 
 #### Inputs
 
@@ -203,7 +203,7 @@ Proc Total\] + \[NASCO Control Adjustment Messages Proc Total\])
 - NASCO Control Adjustment Messages Proc \<= 14 Days = 101070 (manual
   input)
 
-===Host Adjustments Processed \<= 7 Days===
+### Host Adjustments Processed \<= 7 Days
 
 #### Inputs
 
@@ -276,7 +276,7 @@ Messages Proc \<= 7 Days\]) / (\[Host Adjustment Messages Proc Total\] +
 - NASCO Par Adjustment Messages Proc Total = 101072 (manual input)
 - NASCO Par Adjustment Messages Proc \<= 7 Days = 101073 (manual input)
 
-===Home MED REC Claims Adjudicated \<= 30 Days===
+### Home MED REC Claims Adjudicated \<= 30 Days
 
 #### Inputs
 
@@ -396,7 +396,7 @@ Record Claims Adjudicated Total\]
 - Home Medical Record Claims Adjudicated Total = 100024
 - Home Medical Record Claims Adjudicated \<= 30 Days = 100023
 
-===Host Misrouted Messages Processed \<= 10 Days===
+### Host Misrouted Messages Processed \<= 10 Days
 
 #### Inputs
 
@@ -437,7 +437,7 @@ Messages Processed Total\]
 - Host Misrouted Messages Processed Total = 100028
 - Host Misrouted Messages Processed \<= 10 Days = 100027
 
-===Claim Appeals Resolved \<= 20 Days===
+### Claim Appeals Resolved \<= 20 Days
 
 #### Inputs
 
@@ -580,7 +580,7 @@ Resolved \<= 20 Days\]) / (\[Home Claim Appeals Resolved Total\] +
 - Host Claim Appeals Resolved Total = 102009
 - Host Claim Appeals Resolved \<= 20 Days = 102010
 
-===Home GEN INQ Finalized \<= 14 Days===
+### Home GEN INQ Finalized \<= 14 Days
 
 #### Inputs
 
@@ -624,7 +624,7 @@ Inquiries Finalized Total\]
 - Home General Inquiries Finalized Total = 100015
 - Home General Inquiries Finalized \<= 14 Days = 102011
 
-===Host GEN INQ Finalized \<= 14 Days===
+### Host GEN INQ Finalized \<= 14 Days
 
 #### Inputs
 

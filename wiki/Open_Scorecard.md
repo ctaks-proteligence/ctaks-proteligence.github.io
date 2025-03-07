@@ -88,7 +88,7 @@ Count of above where:
 - Home DFs to Process Total = ?
 - Home DFs to Process \> 30 Days = ?
 
-===Home Adjustments to Process \<= 14 Days===
+### Home Adjustments to Process \<= 14 Days
 
 #### Inputs
 
@@ -160,7 +160,7 @@ Messages to Process Total\]
 - Home Adjustment Messages to Process Total = ?
 - Home Adjustment Messages to Process \<= 14 Days = ?
 
-===Host Adjustments to Process \<= 7 Days===
+### Host Adjustments to Process \<= 7 Days
 
 #### Inputs
 
@@ -221,7 +221,7 @@ Messages to Process Total\]
 - Host Adjustment Messages to Process Total = ?
 - Host Adjustment Messages to Process \<= 7 Days = ?
 
-===Home MED REC Claims to Adjudicate \<= 30 Days===
+### Home MED REC Claims to Adjudicate \<= 30 Days
 
 #### Inputs
 
@@ -315,7 +315,7 @@ Medical Record Claims to Adjudicate Total\]
 - Home Medical Record Claims to Adjudicate Total = ?
 - Home Medical Record Claims to Adjudicate \<= 30 Days = ?
 
-===Host Misroute Messages to Process \<= 10 Days===
+### Host Misroute Messages to Process \<= 10 Days
 
 #### Inputs
 
@@ -356,7 +356,7 @@ Messages to Process Total\]
 - Host Misroute Messages to Process Total = ?
 - Host Misroute Messages to Process \<= 10 Days = ?
 
-===Claim Appeals to Resolve \<= 20 Days===
+### Claim Appeals to Resolve \<= 20 Days
 
 #### Inputs
 
@@ -477,7 +477,7 @@ Resolve \<= 20 Days\]) / (\[Home Claim Appeals to Resolve Total\] +
 - Host Claim Appeals to Resolve Total = ?
 - Host Claim Appeals to Resolve \<= 20 Days = ?
 
-===Home GEN INQ to Finalize \<= 14 Days===
+### Home GEN INQ to Finalize \<= 14 Days
 
 #### Inputs
 
@@ -521,7 +521,7 @@ Inquiries to Finalize Total\]
 - Home General Inquiries to Finalize Total = ?
 - Home General Inquiries to Finalize \<= 14 Days = ?
 
-===Host GEN INQ to Finalize \<= 14 Days===
+### Host GEN INQ to Finalize \<= 14 Days
 
 #### Inputs
 

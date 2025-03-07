@@ -326,7 +326,7 @@ once towards each input for this measure.
   </tr>
 </table>
 <br  />
-====Home Adjustments Processed \<= 14 Days====
+#### Home Adjustments Processed \<= 14 Days
 
 ##### Field
 
@@ -507,7 +507,7 @@ optional presence of the Cross-Reference SF.
   </tr>
 </table>
 <br  />
-====Host Adjustments Processed \<= 7 Days====
+#### Host Adjustments Processed \<= 7 Days
 
 ##### Field
 
@@ -673,7 +673,7 @@ consideration of a Cross-Reference SF.
   </tr>
 </table>
 <br  />
-====Home MED REC Claims Adjudicated \<= 30 Days====
+#### Home MED REC Claims Adjudicated \<= 30 Days
 
 ##### Field
 
@@ -831,7 +831,7 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
   </tr>
 </table>
 <br  />
-====Host Misroutes Processed \<= 10 Days====
+#### Host Misroutes Processed \<= 10 Days
 
 ##### Field
 
@@ -930,7 +930,7 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
   </tr>
 </table>
 <br  />
-====Home Claim Appeals Resolved \<= 20 (Beta)====
+#### Home Claim Appeals Resolved \<= 20 (Beta)
 
 ##### Field
 
@@ -1028,7 +1028,7 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 <br  />
 ### Plan-to-Plan Inquiry
 
-====Home GEN INQ Resolved \<= 10 Days====
+#### Home GEN INQ Resolved \<= 10 Days
 
 ##### Field
 
@@ -1132,7 +1132,7 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
   </tr>
 </table>
 <br  />
-====Host GEN INQ Resolved \<= 10 Days====
+#### Host GEN INQ Resolved \<= 10 Days
 
 ##### Field
 
@@ -1292,7 +1292,7 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
   </tr>
 </table>
 <br  />
-====Inquiries Resolved \<= 14 Days====
+#### Inquiries Resolved \<= 14 Days
 
 ##### Field
 
@@ -1372,7 +1372,7 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
 <br  />
 ### End-to-End Claim Experience
 
-====Claims/Adjustments Processed \<= 30 Days====
+#### Claims/Adjustments Processed \<= 30 Days
 
 ##### Field
 
@@ -1464,7 +1464,7 @@ the MEDREC request with either a MEDREC response or an INFO one-way.
   </tr>
 </table>
 <br  />
-====Claims/Adjustments Processed \<= 60 Days====
+#### Claims/Adjustments Processed \<= 60 Days
 
 ##### Field
 

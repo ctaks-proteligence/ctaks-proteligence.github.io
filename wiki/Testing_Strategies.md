@@ -162,7 +162,7 @@ Claim key tested is:
 - Verify that the sccf base 332201608900004 is **NOT** present for 00-99
   sccf suffix within `FACC`
 
-=== Custom Claim Experience (Program Code = 6) ===
+###  Custom Claim Experience (Program Code = 6) 
 
 
 Defined by [Custom](Gap_Audit#Custom "wikilink")
