@@ -1,9 +1,5 @@
-# Date-based purge
-
-Datanet stores both open and closed records; therefore, it requires a
-data retention policy to prevent indefinitely growing the storage
-required. Date-based purge removes old, closed records to satisfy this
-requirement.
+<title>Date-based purge</title>
+<text>Datanet stores both open and closed records; therefore, it requires a data retention policy to prevent indefinitely growing the storage required. Date-based purge removes old, closed records to satisfy this requirement.</text>
 
 # Versions
 
@@ -67,3 +63,10 @@ experience.)
 # Potential future changes
 
 1.  Consider a setting to store less in Elasticsearch than in the CDR.
+
+# Date-based purge
+
+Datanet stores both open and closed records; therefore, it requires a
+data retention policy to prevent indefinitely growing the storage
+required. Date-based purge removes old, closed records to satisfy this
+requirement.
